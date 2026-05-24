@@ -175,7 +175,7 @@ Thermoprotei;Thermoproteota;Clase;Arqueas hipertermófilas dependientes de azufr
 Lactobacillales;Bacilli;Orden;Bacterias Gram positivas productoras de ácido láctico
 Caryophanales;Bacilli;Orden;Bacterias Gram positivas móviles que incluye bacilos gigantes y filamentosos
 Eubacteriales;Clostridia;Orden;Tradicional y amplio orden que agrupa a bacterias verdaderas Gram positivas anaerobias
-Mycobacteriales;Actinomycetes;Orden;"Bacterias con paredes ricas en ácidos micólicos; incluye patógenos como la tuberculosis"
+Mycobacteriales;Actinomycetes;Orden;Bacterias con paredes ricas en ácidos micólicos; incluye patógenos como la tuberculosis
 Micrococcales;Actinomycetes;Orden;Bacterias Gram positivas aerobias comunes en la piel y el suelo
 Kitasatosporales;Actinomycetes;Orden;Bacterias del suelo filamentosas productoras de esporas, emparentadas con los estreptomicitos
 Bifidobacteriales;Actinomycetes;Orden;Bacterias anaerobias ramificadas, componentes clave de la microbiota intestinal saludable
@@ -260,11 +260,11 @@ Desulfurococcaceae;Desulfurococcales;Familia;Arqueas hipertermófilas óptimas a
 Lactobacillus;Lactobacillaceae;Género;Bacilos Gram positivos productores de ácido láctico, esenciales en la fermentación láctea
 Streptococcus;Streptococcaceae;Género;Bacilos Gram positivos productores de ácido láctico, esenciales en la fermentación láctea
 Lactococcus;Streptococcaceae;Género;Cocos Gram positivos fermentadores, ampliamente utilizados en la industria quesera mundial
-Staphylococcus;Staphylococcaceae;Género;"Cocos Gram positivos en racimos; S. aureus es un patógeno oportunista común"
+Staphylococcus;Staphylococcaceae;Género;Cocos Gram positivos en racimos; S. aureus es un patógeno oportunista común
 Bacillus;Bacillaceae;Género;Bacilos Gram positivos aerobios formadores de endosporas, comunes en el suelo
 Clostridium;Clostridiaceae;Género;Bacilos Gram positivos anaerobios estrictos productores de potentes toxinas
 Mycobacterium;Mycobacteriaceae;Género;Bacilos ácido-alcohol resistentes que causan enfermedades graves como la tuberculosis y lepra
-Corynebacterium;Corynebacteriaceae;Género;"Bacterias pleomórficas Gram positivas; C. diphtheriae es el agente de la difteria"
+Corynebacterium;Corynebacteriaceae;Género;Bacterias pleomórficas Gram positivas; C. diphtheriae es el agente de la difteria
 Nocardia;Nocardiaceae;Género;Bacterias Gram positivas aerobias filamentosas que pueden causar infecciones pulmonares y cutáneas
 Clavibacter ;Microbacteriaceae;Género;Género de bacterias Gram positivas fitopatógenas que causan marchitez en cultivos económicos
 Streptomyces;Streptomycetaceae;Género;Bacterias filamentosas del suelo, principal fuente biológica de antibióticos de uso médico
@@ -274,11 +274,11 @@ Propionibacterium ;Propionibacteriaceae;Género;Bacterias que fermentan lactato 
 Rhizobium;Rhizobiaceae;Género;Bacterias fijadoras de nitrógeno que forman simbiosis mutualistas en raíces de leguminosas
 Agrobacterium;Rhizobiaceae;Género;Bacterias del suelo capaces de transferir ADN a plantas, induciendo tumores
 Acetobacter ;Acetobacteraceae;Género;Bacterias Gram negativas aerobias que oxidan el etanol para producir ácido acético
-Neisseria ;Neisseriaceae;Género;"Diplococos Gram negativos patógenos; incluye a los agentes de gonorrea y meningitis"
+Neisseria ;Neisseriaceae;Género;Diplococos Gram negativos patógenos; incluye a los agentes de gonorrea y meningitis
 Ralstonia;Burkholderiaceae;Género;Bacterias Gram negativas fitopatógenas que obstruyen el sistema vascular de las plantas
-Yersinia;Yersiniaceae;Género;"Bacilos Gram negativos; Y. pestis es la bacteria responsable de la peste"
+Yersinia;Yersiniaceae;Género;Bacilos Gram negativos; Y. pestis es la bacteria responsable de la peste
 Serratia;Yersiniaceae;Género;Bacterias Gram negativas conocidas por producir un característico pigmento rojo, la prodigiosina
-Escherichia;Enterobacteriaceae;Género;"Bacteria Gram negativa modelo de la microbiota intestinal; incluye cepas patógenas (E. coli)"
+Escherichia;Enterobacteriaceae;Género;Bacteria Gram negativa modelo de la microbiota intestinal; incluye cepas patógenas (E. coli)
 Salmonella;Enterobacteriaceae;Género;Enterobacterias Gram negativas que causan fiebres tifoideas y gastroenteritis por alimentos contaminados
 Shigella;Enterobacteriaceae;Género;Bacterias Gram negativas estrechamente emparentadas con E. coli, causantes de disentería bacilar
 Klebsiella;Enterobacteriaceae;Género;Bacilos Gram negativos capsulados, agentes frecuentes de neumonías e infecciones intrahospitalarias
@@ -293,7 +293,7 @@ Acinetobacter;Moraxellaceae;Género;Cocobacilos Gram negativos no móviles, caus
 Haemophilus;Pasteurellaceae;Género;Bacterias Gram negativas exigentes que requieren factores sanguíneos específicos para su crecimiento
 Xanthomonas;Lysobacteraceae;Género;Bacterias fitopatógenas Gram negativas productoras del polisacárido industrial goma xantana
 Xylella ;Lysobacteraceae;Género;Bacteria fitopatógena Gram negativa confinada al xilema y transmitida por insectos vectores
-Vibrio;Vibrionaceae;Género;"Bacterias Gram negativas curvadas; V. cholerae es el agente causal del cólera"
+Vibrio;Vibrionaceae;Género;Bacterias Gram negativas curvadas; V. cholerae es el agente causal del cólera
 Campylobacter;Campylobacteraceae;Género;Bacilos Gram negativos curvos que causan una de las principales gastroenteritis alimentarias
 Helicobacter;Helicobacteraceae;Género;Bacteria espiral Gram negativa que coloniza el estómago humano, asociada a úlceras
 Chlamydia;Chlamydiaceae;Género;Bacterias esféricas parásitas intracelulares obligadas con un ciclo replicativo dimórfico único
@@ -433,7 +433,7 @@ Tilopteridales;Phaeophyceae;Orden;Algas pardas raras que presentan una combinaci
 Rotaliida;Globothalamea;Orden;Foraminíferos bentónicos que construyen testas calcáreas multiloculares dispuestas en espirales trocoides complejas
 Eugregarinorida;Conoidasida;Orden;Apicomplejos parásitos de invertebrados que realizan un movimiento por deslizamiento sin invadir tejidos
 Eucoccidiorida;Conoidasida;Orden;Apicomplejos parásitos intracelulares obligados que causan severas coccidiosis en diversos vertebrados domésticos
-Haemospororida;Aconoidasida;Orden;"Apicomplejos parásitos tisulares transmitidos por dípteros; incluye al agente causal de la malaria"
+Haemospororida;Aconoidasida;Orden;Apicomplejos parásitos tisulares transmitidos por dípteros; incluye al agente causal de la malaria
 Noctilucales;Noctilucea (Noctilucophyceae);Orden;Grandes dinoflagelados marinos heterótrofos y voraces conocidos por emitir intensa bioluminiscencia nocturna
 Peridinales;Dinophyceae;Orden;Dinoflagelados tecados clásicos con placas de celulosa bien organizadas según fórmulas tabulares precisas
 Gonyaulacales;Dinophyceae;Orden;Dinoflagelados tecados responsables de las mareas rojas productoras de peligrosas toxinas paralizantes
@@ -534,7 +534,7 @@ Tilopteridaceae;Tilopteridales;Familia;Algas pardas raras que combinan la formac
 Elphidiidae;Rotaliida;Familia;Foraminíferos bentónicos que construyen testas calcáreas provistas de característicos puentes suturales exteriores
 Gregarinidae;Eugregarinorida;Familia;Apicomplejos parásitos de invertebrados que realizan movimientos por deslizamiento habitando cavidades corporales u órganos
 Eimeriidae;Eucoccidiorida;Familia;Apicomplejos parásitos intracelulares que causan severas infecciones intestinales (coccidiosis) en diversos vertebrados
-Plasmodiidae;Haemospororida;Familia;"Apicomplejos parásitos heteroxenos que destruyen eritrocitos; incluye al agente biológico de la malaria"
+Plasmodiidae;Haemospororida;Familia;Apicomplejos parásitos heteroxenos que destruyen eritrocitos; incluye al agente biológico de la malaria
 Noctilucaceae;Noctilucales;Familia;Grandes dinoflagelados marinos heterótrofos voraces conocidos por producir intensos fenómenos de bioluminiscencia nocturna
 Peridiniaceae;Peridinales;Familia;Dinoflagelados tecados clásicos con placas de celulosa organizadas según una fórmula tabular estricta
 Protoperidiniaceae;Peridinales;Familia;Dinoflagelados tecados marinos mayoritariamente heterótrofos que capturan presas mediante un pseudópodo de alimentación
@@ -605,7 +605,7 @@ Leotiomycetes;Pezizomycotina;Clase;Ascomicetos con cleistotecios o apotecios que
 Sordariomycetes;Pezizomycotina;Clase;Clase de ascomicetos que típicamente producen cuerpos fructíferos en forma de peritecio
 Dothideomycetes;Pezizomycotina;Clase;Hongos ascomicetos caracterizados por poseer ascas bitunicadas dentro de lóculos estromáticos
 Pezizomycetes;Pezizomycotina;Clase;Hongos que forman apotecios macroscópicos con ascas operculadas para liberar esporas
-Eurotiomycetes;Pezizomycotina;Clase;"Hongos que producen cleistotecios cerrados; incluye géneros de importancia médica e industrial"
+Eurotiomycetes;Pezizomycotina;Clase;Hongos que producen cleistotecios cerrados; incluye géneros de importancia médica e industrial
  Arthoniomycetes;Pezizomycotina;Clase;Clase de hongos que forman líquenes, caracterizados por tener estructuras reproductivas bitunicadas
 Lecanoromycetes;Pezizomycotina;Clase;La clase más grande de hongos formadores de líquenes con apotecios típicos
 Candelariomycetes;Pezizomycotina;Clase;Hongos liquenizados con talos de color amarillo brillante debido al ácido pulvínico
@@ -644,8 +644,8 @@ Capnodiales;Dothideomycetidae;Orden;Ascomicitos causantes de la fumagina que for
 Myriangiales;Dothideomycetidae;Orden;Hongos fitopatógenos bitunicados que se desarrollan dentro de estromas tisulares densos pulverulentos
 Pleosporales;Dothideomycetidae;Orden;El orden más grande de ascomicitos bitunicados que habitan tallos y hojas secas
 Pezizales;Pezizomycetes;Orden;Hongos que forman apotecios carnosos macroscópicos con ascas operculadas eyectoras de esporas
-Onygenales;Eurotiomycetidae;Orden;"Hongos queratinofílicos capaces de degradar pelo y plumas; infectan la piel humana"
-Eurotiales;Eurotiomycetidae;Orden;"Mohos ascomicetos con estructuras cerradas; incluye los géneros comerciales Aspergillus y Penicillium"
+Onygenales;Eurotiomycetidae;Orden;Hongos queratinofílicos capaces de degradar pelo y plumas; infectan la piel humana
+Eurotiales;Eurotiomycetidae;Orden;Mohos ascomicetos con estructuras cerradas; incluye los géneros comerciales Aspergillus y Penicillium
 Arthoniales; Arthoniomycetes;Orden;Hongos liquenizados o saprófitos que producen ascomas de contorno irregular denominados lirelas
 Peltigerales;Lecanoromycetes;Orden;Líquenes foliosos grandes que fijan nitrógeno atmosférico mediante simbiosis con cianobacterias
  Lecanorales;Lecanoromycetes;Orden;Grupo principal de líquenes que forman talos crustosos, foliosos o fruticulosos estables
@@ -736,18 +736,18 @@ Russulaceae;Russulales;Familia;Setas carnosas quebradizas debido a la presencia 
 Peniophoraceae;Russulales;Familia;Hongos resupinados corticioides que crecen como costras adheridas firmemente a ramas caídas
 Meruliaceae;Polyporales;Familia;Hongos lignícolas con himenio plicato-poroide gelatinoso que causan pudrición blanca maderera activa
 Sparassidaceae;Polyporales;Familia;Hongos parásitos de raíces con aspecto macroscópico lobulado similar a una coliflor rizada
- Ganodermataceae;Polyporales;Familia;"Hongos políporos coriáceos con costra brillante lacada; incluye al hongo medicinal Reishi"
+ Ganodermataceae;Polyporales;Familia;Hongos políporos coriáceos con costra brillante lacada; incluye al hongo medicinal Reishi
 Polyporaceae;Polyporales;Familia;Hongos de estante leñosos con poros inferiores rígidos no separables de la carne
 Gomphaceae;Gomphales;Familia;Hongos clavarioides o cantharelides con himenio arrugado y esporas estriadas de color ocre
 Clavariadelphaceae;Gomphales;Familia;Basidiomicetos con cuerpos fructíferos erectos y claviformes simples que habitan el mantillo boscoso
 Clavariaceae;Agaricales;Familia;Hongos coraloides ramificados de colores vistosos que crecen en suelos orgánicos húmedos
  Tricholomataceae;Agaricales;Familia;Setas carnosas con láminas blancas adnatas o escotadas y esporas lisas hialinas
-Pleurotaceae;Agaricales;Familia;"Setas excéntricas o laterales con láminas decurrentes; incluye al hongo ostra comestible"
+Pleurotaceae;Agaricales;Familia;Setas excéntricas o laterales con láminas decurrentes; incluye al hongo ostra comestible
 Marasmiaceae;Agaricales;Familia;Setas marcescentes capaces de revivir al hidratarse, con hifas de consistencia coriácea resistente
-Agaricaceae;Agaricales;Familia;"Setas con láminas libres libres que se oscurecen al madurar; incluye al champiñón común"
-Amanitaceae;Agaricales;Familia;"Setas caracterizadas por poseer volva basal, anillo y esporas blancas; incluye especies mortales"
+Agaricaceae;Agaricales;Familia;Setas con láminas libres libres que se oscurecen al madurar; incluye al champiñón común
+Amanitaceae;Agaricales;Familia;Setas caracterizadas por poseer volva basal, anillo y esporas blancas; incluye especies mortales
 Schizophyllaceae;Agaricales;Familia;Hongos lignícolas con láminas partidas longitudinalmente que se curvan al secarse el sustrato
-Nidulariaceae;Agaricales;Familia;"Hongos gasteroides llamados ""nidos de pájaro"" que contienen peridíolos con esporas internas"
+Nidulariaceae;Agaricales;Familia;Hongos gasteroides llamados nidos de pájaro que contienen peridíolos con esporas internas
 Physalacriaceae;Agaricales;Familia;Familia de agaricales que incluye hongos bioluminiscentes y patógenos radiculares forestales importantes
  Hygrophoraceae;Agaricales;Familia;Setas de colores brillantes con láminas de aspecto ceroso grueso y esporas lisas
 Cantharellaceae; Cantharellales;Familia;Hongos comestibles con forma de trompeta y pliegues himeniales bifurcados en vez de láminas
@@ -1383,12 +1383,12 @@ Mirandornithes ;Neoaves;Superorden;Clado que une de forma sorprendente a los fla
 Gruiformes;Neoaves;Superorden;Aves diversas que habitan humedales, como las grullas, rascotes y fochas
 Strisores;Neoaves;Superorden;Linaje de aves nocturnas o aéreas como vencejos, colibríes y chotacabras
 Otidimorphae ;Neoaves;Superorden;Clado de aves terrestres compuesto por avutardas, cucos y turacos
-Telluraves;Neoaves;Superorden;"El gran grupo de ""aves terrestres"", que incluye rapaces, loros y pájaros cantores"
+Telluraves;Neoaves;Superorden;El gran grupo de aves terrestres, que incluye rapaces, loros y pájaros cantores
 Euarchontoglires;Boreoeutheria;Superorden;Superorden de mamíferos placentarios que agrupa evolutivamente a los roedores, lagomorfos, primates, tupaidos y lémures voladores
 Laurasiatheria;Boreoeutheria;Superorden;Gran linaje de mamíferos diversificados en el antiguo continente de Laurasia, como carnívoros, ungulados, cetáceos y murciélagos
 Leucosolenida;Calcarea;Orden;Esponjas calcáreas calcificadas con estructura de tipo asconoide, tubulares y de crecimiento colonial ramificado
 Suberitida;Demospongiae;Orden;Orden de esponjas de mar de la clase Demospongiae, conocidas por su consistencia compacta y formas a menudo masivas
-Dictyoceratida;Demospongiae;Orden;"Esponjas de esqueleto córneo sin espículas silíceas; incluye a las famosas y tradicionales esponjas de baño"
+Dictyoceratida;Demospongiae;Orden;Esponjas de esqueleto córneo sin espículas silíceas; incluye a las famosas y tradicionales esponjas de baño
  Anthoathecata;Hydroidolina;Orden;Hidrozoos marinos que carecen de una cubierta protectora rígida (teca) alrededor de sus pólipos alimenticios
 Leptothecata;Hydroidolina;Orden;Hidrozoos cuyos pólipos están protegidos por una cubierta transparente en forma de copa llamada teca
 Siphonophora;Hydroidolina;Orden;Colonias flotantes de cnidarios sumamente especializados que actúan juntos como si fueran un único organismo individual
@@ -1415,7 +1415,7 @@ Plagiorchiida;Trematoda;Orden;Extenso orden de duelas parásitas (trematodos) qu
  Strigeidida;Trematoda;Orden;Trematodos parásitos cuyos adultos presentan un órgano de fijación especializado detrás de la ventosa ventral
 Cyclophyllidea;Cestoda;Orden;El principal orden de tenias parásitas, caracterizadas por ganchos y ventosas en su cabeza o escólex
 Chaetonotida;Gastrotricha;Orden;Pequeños invertebrados acuáticos del grupo de los gastrotricos, cubiertos de escamas o espinas cuticulares
-Sipunculiformes;Sipuncula;Orden;"Gusanos marinos conocidos como ""gusanos cacahuate"", con un cuerpo cilíndrico y un introverto retractable"
+Sipunculiformes;Sipuncula;Orden;Gusanos marinos conocidos como gusanos cacahuate, con un cuerpo cilíndrico y un introverto retractable
 Phyllodocida;Errantia;Orden;Gusanos poliquetos marinos móviles con remos laterales (parápodos) bien desarrollados y mandíbulas fuertes
 Crassiclitellata;Oligochaeta;Orden;Lombrices de tierra verdaderas, anélidos oligoquetos con un clitelo grueso esencial para la reproducción
 Tubificida;Oligochaeta;Orden;Pequeños gusanos oligoquetos acuáticos, abundantes en sedimentos lodosos con bajos niveles de oxígeno
@@ -1425,23 +1425,23 @@ Mytilida;Autobranchia;Orden;Moluscos bivalvos conocidos popularmente como mejill
 Pectinida;Autobranchia;Orden;Moluscos bivalvos que incluyen a las vieiras, capaces de nadar libremente aplaudiendo sus conchas
 Chitonida;Neoloricata;Orden;Moluscos marinos llamados quitones, caracterizados por una concha dorsal articulada en ocho placas calcáreas
 Lepetellida;Vetigastropoda;Orden;Caracoles marinos primitivos, frecuentemente con conchas en forma de lapa, adaptados a ambientes profundos
-Aplysiida;Heterebranchia;Orden;"Babosas de mar conocidas como ""liebres de mar"", con conchas internas reducidas y nado elegante"
+Aplysiida;Heterebranchia;Orden;Babosas de mar conocidas como liebres de mar, con conchas internas reducidas y nado elegante
  Stylommatophora;Heterebranchia;Orden;Caracoles y babosas terrestres con ojos situados en las puntas de dos tentáculos retráctiles
 Nautilida;Paleocephalopoda;Orden;Cefalópodos marinos vivientes con concha externa espiralada dividida en cámaras con gas para flotar
 Octopoda;Neoceplhalopoda;Orden;Cefalópodos marinos de ocho brazos sin concha interna, célebres por su asombrosa inteligencia y camuflaje
 Myopsida;Neoceplhalopoda;Orden;Calamares costeros que poseen una membrana corneal transparente protegiendo sus ojos de sedimentos
 Heteronemertea;Pilidiophora;Orden;Gusanos de cinta marinos con probóscide ramificada y paredes corporales divididas en tres capas musculares
 Lingulida;Lingulata;Orden;Braquiópodos marinos con conchas fosfáticas fosilizadas casi idénticas desde el período Cámbrico antiguo
-Cheilostomatida;Gymnolaemata;Orden;"El orden más diverso de briozoos, animales coloniales con estuches calcáreos y ""puertas"" operculares"
+Cheilostomatida;Gymnolaemata;Orden;El orden más diverso de briozoos, animales coloniales con estuches calcáreos y puertas operculares
 Ascarida;Chromadorea;Orden;Nematodos parásitos grandes y redondos que infectan el intestino de humanos y diversos animales domésticos
 Oxyurida;Chromadorea;Orden;Pequeños nematodos conocidos como lombrices intestinales o parásitos del ano, comunes en niños pequeños
 Tylenchida;Chromadorea;Orden;Nematodos fitoparásitos que dañan cultivos agrícolas utilizando un estilete bucal para perforar células
 Trichinellida;Dorylaimia;Orden;Nematodos parásitos tisulares que causan la triquinosis al consumir carne cruda infectada con quistes
-Parachela;Eutardigrada;Orden;"Tardígrados u ""osos de agua"" que carecen de apéndices sensitivos laterales en la parte delantera"
+Parachela;Eutardigrada;Orden;Tardígrados u osos de agua que carecen de apéndices sensitivos laterales en la parte delantera
 Podocopida;Podocopa;Orden;Pequeños crustáceos ostrácodos con un caparazón bivalvo calcificado, abundantes en todo tipo de aguas
 Myodocopida;Myodocopa;Orden;Ostrácodos marinos con muescas en su caparazón que les permiten sacar las antenas natatorias
 Anostraca;Sarsostraca;Orden;Crustáceos branquiópodos como la Artemia, que nadan invertidos y carecen por completo de caparazón
-Notostraca;Phyllopoda;Orden;"Crustáceos prehistóricos llamados ""camarones dinosaurio"", con un gran caparazón dorsal en forma de escudo"
+Notostraca;Phyllopoda;Orden;Crustáceos prehistóricos llamados camarones dinosaurio, con un gran caparazón dorsal en forma de escudo
 Diplostraca;Phyllopoda;Orden;Crustáceos pulgas de agua que poseen un caparazón bivalvo transparente que encierra todo su cuerpo
 Cyclopoida;Neocopepoda;Orden;Copépodos pequeños con antenas cortas, comunes en el plancton dulceacuícola y portadores de sacos ovíparos
 Calanoida;Neocopepoda;Orden;Copépodos dominantemente marinos de antenas larguísimas, componentes vitales en la cadena alimentaria planetaria
@@ -1452,7 +1452,7 @@ Amphipoda;Eumalacostraca;Orden;Pequeños crustáceos comprimidos lateralmente, c
 Isopoda;Eumalacostraca;Orden;Crustáceos aplanados dorsoventralmente que incluyen especies marinas gigantes y a las comunes cochinillas de humedad
 Euphausiacea;Eumalacostraca;Orden;Pequeños crustáceos parecidos a camarones conocidos como krill, alimento principal de las grandes ballenas
 Decapoda;Eumalacostraca;Orden;Crustáceos de diez patas como cangrejos, langostas y camarones, de enorme relevancia comercial y ecológica
-Stomatopoda;Hoplocarida;Orden;"Crustáceos marinos agresivos apodados ""camarones mantis"", célebres por sus golpes rápidos y visión ultrapotente"
+Stomatopoda;Hoplocarida;Orden;Crustáceos marinos agresivos apodados camarones mantis, célebres por sus golpes rápidos y visión ultrapotente
 Acerentomata;Protura;Orden;Pequeños hexápodos primitivos (proturos) ciegos, sin antenas, que utilizan sus patas delanteras como guías
 Poduromorpha;Collembola;Orden;Colémbolos de cuerpo robusto y rechoncho, comunes en la hojarasca húmeda y el suelo profundo
 Entomobryomorpha;Collembola;Orden;Colémbolos alargados de patas y antenas largas, capaces de dar grandes saltos usando su fúrcula
@@ -1473,19 +1473,19 @@ Dermaptera;Polyneoptera;Orden;Tijeretas, insectos con pinzas cercos al final del
 Psocodea;Paraneoptera;Orden;Piojos de los libros de vida libre y piojos parásitos verdaderos de aves y mamíferos
 Thysanoptera;Paraneoptera;Orden;Trips, insectos diminutos de alas plumosas que succionan savia y transmiten virus a plantas
 Hemiptera;Paraneoptera;Orden;Chinches, pulgones y cigarras, caracterizados por un pico succionador para extraer fluidos de plantas o animales
-Megaloptera;Holometabola;Orden;"Insectos de alas grandes con larvas acuáticas depredadoras temibles llamadas ""patudos"" o ""hellgrammites"""
+Megaloptera;Holometabola;Orden;Insectos de alas grandes con larvas acuáticas depredadoras temibles llamadas patudos o hellgrammites
 Neuroptera;Holometabola;Orden;Crisopas y hormigas león, insectos con alas reticuladas cuyas larvas son voraces cazadoras de pulgones
 Coleoptera;Holometabola;Orden;Escarabajos, el orden animal más diverso, con alas anteriores modificadas en estuches rígidos (élitros)
 Strepsiptera;Holometabola;Orden;Curiosos insectos parásitos extremos donde las hembras carecen de alas y viven dentro de otros insectos
 Trichoptera;Holometabola;Orden;Insectos parecidos a polillas cuyas larvas acuáticas construyen refugios protectores cilíndricos de piedrecitas
 Lepidoptera;Holometabola;Orden;Mariposas y polillas, con alas cubiertas de escamas coloreadas y una probóscide espiralada para libar
-Hymenoptera;Holometabola;Orden;"Abejas, avispas y hormigas; insectos con alas membranosas, muchos de ellos con sociedades complejas organizadas"
+Hymenoptera;Holometabola;Orden;Abejas, avispas y hormigas; insectos con alas membranosas, muchos de ellos con sociedades complejas organizadas
 Mecoptera;Holometabola;Orden;Moscas escorpión, insectos con una cabeza alargada en forma de pico y genitales masculinos curvados
 Diptera;Holometabola;Orden;Moscas y mosquitos, caracterizados por poseer solo dos alas funcionales y dos balancines para estabilizar el vuelo
 Siphonaptera;Holometabola;Orden;Pulgas, insectos parásitos hematófagos sin alas, aplanados lateralmente y excelentes saltadores de hospedadores
 Scolopendromorpha;Pleurostigmophora;Orden;Escolopendras, ciempiés grandes y veloces provistos de potentes pinzas venenosas para cazar presas
 Julida;Chilognatha;Orden;Milpiés cilíndricos herbívoros de cuerpo duro que se enrollan en espiral cuando se sienten amenazados
-Xiphosura;Merostomata;Orden;"Cangrejos herradura o cacerolas de las Molucas, ""fósiles vivientes"" marinos con un caparazón en herradura"
+Xiphosura;Merostomata;Orden;Cangrejos herradura o cacerolas de las Molucas, fósiles vivientes marinos con un caparazón en herradura
 Scorpiones;Arachnida;Orden;Escorpiones, arácnidos depredadores con pedipalpos en forma de pinza y una cola con aguijón venenoso
 Araneae;Arachnida;Orden;Arañas, depredadoras terrestres con hileras que producen seda y quelíceros inyectores de veneno digestivo
 Opiliones;Arachnida;Orden;Segadores o murgaños, arácnidos de patas larguísimas y cuerpo compacto sin estrechamiento entre sus segmentos
@@ -1507,12 +1507,12 @@ Mixiniformes;Mixini;Orden;Mixinos o peces bruja, vertebrados primitivos ciegos y
  Petromyzontiformes;Petromyzonti;Orden;Lampreas, peces sin mandíbulas con una boca circular llena de dientes córneos para parasitar otros peces
 Cephalaspida†; Cephalaspidomorphi†;Orden;Peces acorazados extintos sin mandíbulas (ostracodermos) que poseían un escudo cefálico plano y óseo
 Arthrodira†;Placodermi†;Orden;Peces con mandíbula extintos (placodermos) con armaduras óseas articuladas en la cabeza y el tórax
-Acanthodiformes†;Acanthodii†;Orden;"""Tiburones espinosos"" extintos, peces antiguos con espinas rígidas sosteniendo cada una de sus aletas"
+Acanthodiformes†;Acanthodii†;Orden;Tiburones espinosos extintos, peces antiguos con espinas rígidas sosteniendo cada una de sus aletas
 Lamniformes;Galeomorphi;Orden;Tiburones Corpulentos con aleta anal como el gran tiburón blanco y el temible tiburón mako
 Carcharhiniformes;Galeomorphi;Orden;El orden más grande de tiburones modernos, con membrana nictitante, como el tiburón tigre
 Orectolobiformes;Galeomorphi;Orden;Tiburones alfombra y nodriza, de hábitos bentónicos, que incluye también al gigantesco tiburón ballena
 Squatiniformes;Squalomorphi;Orden;Tiburones ángel, con cuerpos aplanados similares a rayas adaptados para camuflarse en fondos arenosos
-Myliobatiformes;Batoidea (Batomorphii);Orden;"Rayas de aguijón, mantarrayas y rayas águila, caracterizadas por aletas pectorales anchas para ""volar"" nadando"
+Myliobatiformes;Batoidea (Batomorphii);Orden;Rayas de aguijón, mantarrayas y rayas águila, caracterizadas por aletas pectorales anchas para volar nadando
 Rajiformes;Batoidea (Batomorphii);Orden;Rayas verdaderas con hocico puntiagudo y colas delgadas provistas de órganos eléctricos débiles laterales
 Torpediniformes;Batoidea (Batomorphii);Orden;Rayas eléctricas o tembladeras, capaces de generar fuertes descargas eléctricas para aturdir presas y defenderse
 Chimaeriformes;Holocephali;Orden;Quimeras o peces rata, condrictios de aguas profundas con aspecto extraño y una espina dorsal venenosa
@@ -1542,8 +1542,8 @@ Sphenodontia;Lepidosauria;Orden;Reptiles lepidosaurios representados hoy únicam
 Squamata;Lepidosauria;Orden;El orden más grande de reptiles, que incluye a los lagartos, serpientes y anfisbenas de piel escamosa
 Testudines;Testudinata;Orden;Tortugas, reptiles caracterizados por poseer un caparazón óseo rígido fusionado a sus costillas y vértebras
 Crocodylia;Archosauria;Orden;Grandes reptiles semiacuáticos depredadores que incluyen a cocodrilos, caimanes, aligátores y gaviales modernos
-Ornithischia†;Dinosauria†;Orden;"Dinosaurios herbívoros ""con cadera de ave"" extintos, como el Triceratops y el acorazado Stegosaurus"
-Saurischia†;Dinosauria†;Orden;"Dinosaurios ""con cadera de lagarto"", linaje que incluye a los gigantes saurópodos, los terópodos carnívoros y las aves"
+Ornithischia†;Dinosauria†;Orden;Dinosaurios herbívoros con cadera de ave extintos, como el Triceratops y el acorazado Stegosaurus
+Saurischia†;Dinosauria†;Orden;Dinosaurios con cadera de lagarto, linaje que incluye a los gigantes saurópodos, los terópodos carnívoros y las aves
 Struthioniformes;Paleognathae;Orden;Aves paleognatas corredoras no voladoras de gran tamaño, representadas actualmente por los avestruces africanos
 Casuariiformes;Paleognathae;Orden;Grandes aves paleognatas de Australasia no voladoras, que agrupan a los esquivos casuarios y emúes
 Rheiformes;Paleognathae;Orden;Aves corredoras sudamericanas no voladoras, similares al avestruz pero más pequeñas, conocidas como ñandúes
@@ -1583,7 +1583,7 @@ Cingulata;Xenarthra;Orden;Armadillos, mamíferos caracterizados por una coraza d
 Dermoptera;Euarchontoglires;Orden;Lémures voladores o colugos, mamíferos planeadores del sudeste asiático con membranas que unen sus extremidades
 Lagomorpha;Euarchontoglires;Orden;Conejos, liebres y picas, mamíferos herbívoros con dos pares de incisivos superiores de crecimiento continuo
 Rodentia;Euarchontoglires;Orden;Roedores, el orden más numeroso de mamíferos, caracterizados por un solo par de incisivos afilados
-Primates;Euarchontoglires;Orden;"Mamíferos de cerebros complejos, manos prensiles con uñas y visión estereoscópica; incluye a los humanos"
+Primates;Euarchontoglires;Orden;Mamíferos de cerebros complejos, manos prensiles con uñas y visión estereoscópica; incluye a los humanos
 Scandentia;Euarchontoglires;Orden;Tupayas o musarañas arborícolas de Asia, mamíferos pequeños similares a ardillas con hábitos diurnos activos
 Eulipotyphla;Laurasiatheria;Orden;Pequeños mamíferos insectívoros de metabolismos rápidos, como musarañas, erizos de tierra y topos subterráneos
 Chiroptera;Laurasiatheria;Orden;Murciélagos, los únicos mamíferos placentarios capaces de mantener un vuelo batido y controlado mediante ecolocalización
@@ -1591,7 +1591,7 @@ Artiodactyla;Laurasiatheria;Orden;Mamíferos con pezuñas de dedos pares, que in
 Perissodactyla;Laurasiatheria;Orden;Mamíferos ungulados con un número impar de dedos en sus pezuñas, como caballos, cebras, tapires y rinocerontes
 Pholidota  ;Laurasiatheria;Orden;Pangolines, mamíferos cubiertos de grandes escamas queratínicas que se enrollan en bola para defenderse
 Carnivora;Laurasiatheria;Orden;Mamíferos especializados en la depredación con dientes carnasiales, como felinos, cánidos, osos y focas marinas
-Zygoptera;Odonata;Suborden;"Caballitos del diablo; odonatos de cuerpos estilizados que repliegan sus alas juntas sobre el abdomen al posarse"
+Zygoptera;Odonata;Suborden;Caballitos del diablo; odonatos de cuerpos estilizados que repliegan sus alas juntas sobre el abdomen al posarse
 Epiprocta;Odonata;Suborden;Suborden que agrupa a las libélulas verdaderas y al rarísimo fósil viviente Epiophlebia
 Caelifera;Orthoptera;Suborden;Saltamontes y langostas terrestres, caracterizados por antenas cortas y un órgano auditivo en el abdomen
 Ensifera;Orthoptera;Suborden;Grillos y saltamontes de antenas largas, con hembras provistas de un largo ovipositor en forma de espada
@@ -1610,7 +1610,7 @@ Adephaga;Coleoptera;Suborden;Escarabajos depredadores terrestres y acuáticos co
 Polyphaga;Coleoptera;Suborden;El suborden más masivo de escarabajos, con hábitos alimenticios sumamente diversos y patas traseras articuladas móviles
 Zeugloptera;Lepidoptera;Suborden;Polillas primitivas vivientes cuyas mandíbulas funcionales les permiten masticar polen en lugar de succionar néctar
 Glossata;Lepidoptera;Suborden;El gran linaje de mariposas y polillas que poseen una probóscide enrollable (espiritrompa) para succionar líquidos
-Symphyta;Hymenoptera;Suborden;"Moscas de sierra, himenópteros primitivos cuyas larvas parecen orugas y carecen de la ""cintura de avista"""
+Symphyta;Hymenoptera;Suborden;Moscas de sierra, himenópteros primitivos cuyas larvas parecen orugas y carecen de la cintura de avista
 Apocrita;Hymenoptera;Suborden;Avispas, abejas y hormigas, caracterizados por una estrecha cintura (pecíolo) entre el tórax y abdomen
 Nematocera*;Diptera;Suborden;Dípteros primitivos de cuerpos estilizados y antenas largas, como los mosquitos y las típicas típulas
 Brachycera;Diptera;Suborden;Moscas modernas de cuerpos robustos y antenas muy cortas, como la mosca doméstica y los tábanos
@@ -1627,8 +1627,8 @@ Sciuromorpha;Rodentia;Suborden;Roedores que incluyen a las ardillas, lirones y m
 Castorimorpha;Rodentia;Suborden;Roedores semiacuáticos o subterráneos que abarcan a los castores, ratas canguro y taltuzas americanas
 Myomorpha;Rodentia;Suborden;El grupo más grande de roedores, que incluye a ratones, ratas, hámsteres y jerbos de distribución mundial
 Hystricomorpha ;Rodentia;Suborden;Roedores que agrupan a puercoespines, capibaras, cobayas y chinchillas, de mandíbulas anchas muy particulares
-Strepsirrhini  ;Primates;Suborden;"Primates de ""nariz húmeda"" y ojos grandes orientados a la vida nocturna, como los lémures y gálagos"
-Haplorrhini;Primates;Suborden;"Primates de ""nariz seca"", con cerebros más desarrollados y visión cromática compleja, que incluye a los simios"
+Strepsirrhini  ;Primates;Suborden;Primates de nariz húmeda y ojos grandes orientados a la vida nocturna, como los lémures y gálagos
+Haplorrhini;Primates;Suborden;Primates de nariz seca, con cerebros más desarrollados y visión cromática compleja, que incluye a los simios
 Yangochiroptera;Chiroptera;Suborden;Suborden de murciélagos compuesto principalmente por especies microquirópteras expertas en la ecolocalización de insectos
 Ruminantia;Artiodactyla;Suborden;Herbívoros con estómagos de cuatro cámaras que rumian el alimento, como vacas, ovejas, ciervos y jirafas
 Tylopoda;Artiodactyla;Suborden;Camelidos como camellos, dromedarios, llamas y alpacas, que poseen almohadillas acolchadas en lugar de pezuñas duras
@@ -1639,7 +1639,7 @@ Caniformia;Carnivora;Suborden;Carnívoros con hocicos alargados y garras no retr
 Anisozygoptera;Epiprocta;Infraorden;Antiguo suborden de odonatos que combina rasgos de libélulas y caballitos del diablo
 Anisoptera;Epiprocta;Infraorden;Libélulas verdaderas, voladoras expertas con alas robustas que se mantienen extendidas horizontalmente al posarse
 Phthiraptera (Mallophaga + Anoplura);Troctomorpha;Infraorden;Piojos parásitos obligados de aves y mamíferos, modificados evolutivamente perdiendo sus alas
-Gerromorpha;Heteroptera;Infraorden;"Chinches acuáticas conocidas como ""zapateros"", adaptadas a caminar sobre la película superficial del agua"
+Gerromorpha;Heteroptera;Infraorden;Chinches acuáticas conocidas como zapateros, adaptadas a caminar sobre la película superficial del agua
 Nepomorpha;Heteroptera;Infraorden;Chinches acuáticas buceadoras, la mayoría depredadoras voraces con antenas cortas ocultas bajo la cabeza
 Pentatomorpha;Heteroptera;Infraorden;Chinches terrestres fitófagas de cuerpos robustos, que incluyen a las chinches de escudo o hediondas
 Cimicomorpha;Heteroptera;Infraorden;Chinches depredadoras o hematófagas que incluyen a las chinches de las camas y a los chinches asesinos.
@@ -1680,24 +1680,24 @@ Ancodonta;Whippomorpha;Infraorden;Grupo extinto de artiodáctilos que incluye a 
 Cetacea ;Whippomorpha;Infraorden;Mamíferos marinos totalmente adaptados a la vida acuática, como delfines, ballenas, cachalotes y marsopas
 Musteloidea;Caniformia;Infraorden;Carnívoros caniformes pequeños a medianos que agrupa a comadrejas, tejones, mofetas y mapaches
 Pinnipedia;Caniformia;Infraorden;Carnívoros acuáticos con extremidades transformadas en aletas, representados por las focas, leones marinos y morsas
-Termitoidae (Isoptera);Blattodea*;Superfamilia;"Termitas; insectos sociales eusociales que digieren madera gracias a simbiontes y construyen grandes nidos coloniales"
+Termitoidae (Isoptera);Blattodea*;Superfamilia;Termitas; insectos sociales eusociales que digieren madera gracias a simbiontes y construyen grandes nidos coloniales
 Amblycera;Phthiraptera (Mallophaga + Anoplura);Superfamilia;Piojos masticadores muy móviles que parasitan aves y mamíferos, alimentándose de plumas, descamaciones y sangre
 Ishnocera;Phthiraptera (Mallophaga + Anoplura);Superfamilia;Piojos masticadores aviares y de mamíferos con antenas filiformes que se anclan fuertemente a las plumas de sus huéspedes
 Trichodectera;Phthiraptera (Mallophaga + Anoplura);Superfamilia;Grupo especializado de piojos masticadores que parasitan exclusivamente a mamíferos placentarios, como cánidos y ungulados
 Anoplura;Phthiraptera (Mallophaga + Anoplura);Superfamilia;Piojos chupadores verdaderos, parásitos hematófagos exclusivos de mamíferos que incluyen a las especies que afectan a humanos
-Aleyrodoidea;Sternorrhyncha;Superfamilia;"uperfamilia que contiene a las ""moscas blancas"", diminutos insectos plaga que succionan la savia de los cultivos"
+Aleyrodoidea;Sternorrhyncha;Superfamilia;uperfamilia que contiene a las moscas blancas, diminutos insectos plaga que succionan la savia de los cultivos
 Aphidoidea;Aphidomorpha;Superfamilia;Pulgones o áfidos verdaderos, insectos chupadores que producen melaza y forman densas colonias en brotes tiernos
 Phylloxeroidea;Aphidomorpha;Superfamilia;Grupo filogenético cercano a los pulgones que incluye a la filoxera, destructora histórica de raíces de vid
-Coccoidea;Sternorrhyncha;Superfamilia;"Cochinillas y escarabajos de la escama; las hembras suelen ser sésiles y están protegidas por cubiertas cerosas"
+Coccoidea;Sternorrhyncha;Superfamilia;Cochinillas y escarabajos de la escama; las hembras suelen ser sésiles y están protegidas por cubiertas cerosas
 Hydrophiloidea;Staphyliniformia;Superfamilia;Escarabajos predominantemente acuáticos o carroñeros, reconocibles por sus largos palpos maxilares que parecen antenas
 Staphylinoidea;Staphyliniformia;Superfamilia;Gran grupo de escarabajos de élitros cortos y cuerpos flexibles, comunes en materia orgánica en descomposición
 Scarabaeoidea;Scarabaeiformia;Superfamilia;Escarabajos robustos con antenas lameladas, como los escarabajos rinoceronte, ciervos voladores y los peloteros sagrados
 Buprestoidea;Elateriformia;Superfamilia;Escarabajos joya, caracterizados por sus cuerpos rígidos con deslumbrantes e intensos colores metálicos estructurales
 Elateroidea;Elateriformia;Superfamilia;Incluye a los elatéridos (capaces de saltar con un clic torácico) y a las familias de luciérnagas nocturnas
-Byrrhoidea;Elateriformia;Superfamilia;"Escarabajos pequeños de forma ovalada, conocidos como ""escarabajos píldora"", que habitan musgos y zonas riparias"
+Byrrhoidea;Elateriformia;Superfamilia;Escarabajos pequeños de forma ovalada, conocidos como escarabajos píldora, que habitan musgos y zonas riparias
 Chrysomeloidea;Cucujiformia ;Superfamilia;Escarabajos fitófagos de antenas largas que incluyen a los escarabajos de las hojas y a los cerambícidos barrenadores
 Cucujoidea;Cucujiformia ;Superfamilia;Superfamilia muy diversa de escarabajos pequeños que incluye a las conocidas mariquitas depredadoras de pulgones
-Curculionoidea;Cucujiformia ;Superfamilia;"Gorgojos, caracterizados por sus cabezas prolongadas en un rostro o ""pico"" con el que perforan semillas"
+Curculionoidea;Cucujiformia ;Superfamilia;Gorgojos, caracterizados por sus cabezas prolongadas en un rostro o pico con el que perforan semillas
 Tenebrionoidea;Cucujiformia ;Superfamilia;Escarabajos adaptados a ambientes áridos y productos almacenados, como el conocido escarabajo de la harina
 Bostrichoidea;Bostrichiformia;Superfamilia;Escarabajos xilófagos cuyas larvas perforan y dañan gravemente la madera estructural y los muebles viejos
 Eriocranioidea;Dacnonympha;Superfamilia;Polillas primitivas cuyas larvas son minadoras de hojas y los adultos poseen mandíbulas vestigiales no funcionales
@@ -1706,26 +1706,26 @@ Tineoidea;Heteroneura;Superfamilia;Polillas de la ropa y aliadas, cuyas larvas t
 Yponomeutoidea;Heteroneura;Superfamilia;Polillas armiño, conocidas por las densas redes de seda comunales que tejen sus larvas en los árboles
 Gracillarioidea;Heteroneura;Superfamilia;Pequeñas polillas cuyas larvas aplanadas realizan intrincadas minas y galerías dentro de los tejidos de las hojas
 Gelechioidea;Heteroneura;Superfamilia;Una de las mayores superfamilias de microlepidópteros, con larvas que enrollan u ocultan hojas para alimentarse
-Cossoidea;Heteroneura;Superfamilia;"Polillas carpinteras grandes y pesadas; sus larvas pasan años excavando galerías en la madera de troncos vivos"
+Cossoidea;Heteroneura;Superfamilia;Polillas carpinteras grandes y pesadas; sus larvas pasan años excavando galerías en la madera de troncos vivos
 Tortricoidea;Heteroneura;Superfamilia;Polillas enrolladoras de hojas, cuyas larvas dañan brotes agrícolas y frutales protegiéndose dentro del follaje trenzado
 Pyraloidea;Heteroneura;Superfamilia;Polillas de los prados y almacenes, un grupo inmenso que incluye plagas del grano y polillas de cera
 Bombycoidea;Heteroneura;Superfamilia;Polillas gigantescas y peludas que incluyen al gusano de la seda y a las espectaculares polillas halcón
 Noctuoidea;Heteroneura;Superfamilia;El grupo más masivo de polillas nocturnas, muchas de cuyas larvas (gusanos cogolleros) son plagas agrícolas severas
-Geometroidea;Heteroneura;Superfamilia;"Polillas cuyas larvas se desplazan arqueando el cuerpo como si midieran el terreno a palmos (""orugas medidoras"")"
+Geometroidea;Heteroneura;Superfamilia;Polillas cuyas larvas se desplazan arqueando el cuerpo como si midieran el terreno a palmos (orugas medidoras)
 Papilionoidea;Heteroneura;Superfamilia;El clado que reúne a todas las mariposas diurnas verdaderas, de colores vistosos y antenas terminadas en maza
 Siricoidea;Symphyta;Superfamilia;Avispas de la madera gigantes, cuyas hembras taladran troncos con su largo ovipositor para poner huevos
-Tenthredinoidea;Symphyta;Superfamilia;"Moscas de sierra comunes; himenópteros fitófagos cuyas larvas gregarias devoran activamente el follaje de plantas"
+Tenthredinoidea;Symphyta;Superfamilia;Moscas de sierra comunes; himenópteros fitófagos cuyas larvas gregarias devoran activamente el follaje de plantas
 Evanioidea;Apocrita;Superfamilia;Avispas bandera, parasitoides de ootecas de cucarachas, caracterizadas por un abdomen diminuto levantado como bandera
 Ichneumonoidea;Apocrita;Superfamilia;Avispas parasitoides grandes y delgadas, cruciales en la naturaleza al regular poblaciones de otros insectos
 Chalcidoidea;Proctotrupomorpha;Superfamilia;Avispas avispitas diminutas, en su mayoría parasitoides de huevos o larvas de insectos plaga agrícolas
 Platygastroidea;Proctotrupomorpha;Superfamilia;Pequeñas avispas parasitoides endofíticas, especializadas en atacar huevos de chinches y moscas de las agallas
 Vespoidea;Aculeata;Superfamilia;Avispas verdaderas, avispones y hormigas sociales, caracterizados por comportamientos complejos y construcción de nidos
 Apoidea;Aculeata;Superfamilia;El linaje evolutivo que abarca a las abejas polinizadoras y a las avispas excavadoras emparentadas
-Tipuloidea;Tipulomorpha;Superfamilia;"Típulas o ""mosquitos gigantes"" inofensivos que no pican, de patas extremadamente largas y delgadas"
-Chironomoidea;Culicomorpha;Superfamilia;"Quironómidos y jejenes; mosquitos cuyas larvas acuáticas rojas (""gusanos de sangre"") procesan detritos del fondo"
+Tipuloidea;Tipulomorpha;Superfamilia;Típulas o mosquitos gigantes inofensivos que no pican, de patas extremadamente largas y delgadas
+Chironomoidea;Culicomorpha;Superfamilia;Quironómidos y jejenes; mosquitos cuyas larvas acuáticas rojas (gusanos de sangre) procesan detritos del fondo
 Culicoidea;Culicomorpha;Superfamilia;Mosquitos verdaderos (zancudos), cuyas hembras hematófagas transmiten virus como el dengue, zika y malaria
 Sciaroidea;Bibionomorpha;Superfamilia;Mosquitas de las setas y agallas de alas oscuras, comunes en sustratos húmedos e invernaderos comerciales
-Tabanoidea;Tabanomorpha;Superfamilia;"Tábanos y moscas de las rocas; dípteros robustos cuyas hembras cortan la piel para succionar sangre"
+Tabanoidea;Tabanomorpha;Superfamilia;Tábanos y moscas de las rocas; dípteros robustos cuyas hembras cortan la piel para succionar sangre
 Empidoidea;Muscomorpha;Superfamilia;Moscas danzarinas depredadoras, famosas por sus elaborados cortejos nupciales donde el macho regala presas empaquetadas
 Syrphoidea;Muscomorpha;Superfamilia;Moscas cernícalo que imitan los colores de abejas y avispas (mimetismo), excelentes polinizadoras en vuelo estático
 Tephritoidea;Muscomorpha;Superfamilia;Moscas de las frutas, cuyas hembras perforan frutas frescas para desovar, causando graves daños agrícolas
@@ -1734,7 +1734,7 @@ Ephydroidea;Muscomorpha;Superfamilia;Moscas de la costa o de la salmuera, adapta
 Hippoboscoidea;Muscomorpha;Superfamilia;Moscas parásitas aplanadas y coriáceas (algunas ápteras) que viven fijas chupando sangre a mamíferos y aves
 Muscoidea;Muscomorpha;Superfamilia;Moscas verdaderas que incluyen a la mosca doméstica común, la mosca de los establos y aliadas
 Oestroidea;Muscomorpha;Superfamilia;Moscas metalizadas, de la carne y barrosas, cuyas larvas causan miasis o se alimentan de carroña
-Mysticeti  ;Cetacea ;Superfamilia;"Ballenas barbadas verdaderas; cetáceos gigantes sin dientes que usan barbas de queratina para filtrar krill planctónico"
+Mysticeti  ;Cetacea ;Superfamilia;Ballenas barbadas verdaderas; cetáceos gigantes sin dientes que usan barbas de queratina para filtrar krill planctónico
 Odontoceti ;Cetacea ;Superfamilia;Cetáceos con dientes, grupo inteligente que utiliza la ecolocalización y abarca a delfines, orcas, cachalotes y marsopas
 Sycettidae;Leucosolenida;Familia;Esponjas calcáreas de estructura tipo siconoide, con paredes corporales plegadas en canales radiales definidos
 Suberitidae;Suberitida;Familia;Familias de esponjas de la clase Demospongiae, densas y compactas, conocidas por colonizar conchas de cangrejos ermitaños
@@ -1748,16 +1748,16 @@ Cassiopeidae;Rhizostomeae;Familia;Medusas invertidas que descansan en el fondo m
 Chiropsalmidae;Chirodropida;Familia;Cubomedusas de gran tamaño con potentes toxinas letales capaces de causar paros cardíacos en humanos
 Actiniidae;Actiniaria;Familia;La familia más grande de anémonas de mar, con cuerpos carnosos fijados a rocas intermareales
 Antipathidae;Antipatharia;Familia;Corales negros profundos con un esqueleto axial quitinoso oscuro y ramificaciones en forma de látigo o pluma
-Fungiidae;Scleractinia;Familia;"Corales duros solitarios conocidos como ""corales hongo"", capaces de desplazarse libremente sobre el sustrato arenoso"
-Faviidae;Scleractinia;Familia;"Corales pétreos coloniales macizos, habitualmente llamados ""corales cerebro"" por los sinuosos surcos de sus colonias"
+Fungiidae;Scleractinia;Familia;Corales duros solitarios conocidos como corales hongo, capaces de desplazarse libremente sobre el sustrato arenoso
+Faviidae;Scleractinia;Familia;Corales pétreos coloniales macizos, habitualmente llamados corales cerebro por los sinuosos surcos de sus colonias
 Poritidae;Scleractinia;Familia;Importantes corales hermatípicos constructores de arrecifes, caracterizados por poseer esqueletos porosos y formas masivas
 Renillidae; Scleralcyonacea;Familia;Pensamientos de mar, colonias carnosas planas con forma de hoja que habitan fondos arenosos someros
 Pennatulidae; Scleralcyonacea;Familia;Plumas de mar, colonias de cnidarios con un eje central rígido clavado en el lodo marino
 Plexauridae;Malacalcyonacea;Familia;Abanicos de mar u octocorales arbóreos con un esqueleto interno flexible y corteza carnosa coloreada
-Alcyoniidae;Malacalcyonacea;Familia;"Corales blandos conocidos como ""manos de muerto"", de consistencia carnosa o coriácea sin esqueleto calcáreo"
+Alcyoniidae;Malacalcyonacea;Familia;Corales blandos conocidos como manos de muerto, de consistencia carnosa o coriácea sin esqueleto calcáreo
 Kudoidae;Multivalvulida;Familia;Mixozoos parásitos microscópicos que forman quistes en los músculos de los peces, ablandando su carne post-mortem
 Beroidae;Beroida;Familia;Ctenóforos depredadores con forma de dedal que carecen de tentáculos y tragan otros ctenóforos enteros
-Pleurobrachiidae;Cydippida;Familia;"Ctenóforos esféricos conocidos como ""grosellas de mar"", con dos largos tentáculos pescadores retráctiles"
+Pleurobrachiidae;Cydippida;Familia;Ctenóforos esféricos conocidos como grosellas de mar, con dos largos tentáculos pescadores retráctiles
 Sagittidae;Aphragmophora;Familia;Gusanos flecha planctónicos muy comunes, depredadores transparentes con espinas quitinosas alrededor de la boca
 Philodinidae ; Philodinida;Familia;Rotíferos bdeloideos que reptan en musgos húmedos, célebres por su reproducción exclusivamente partenogenética
 Brachionidae; Ploima;Familia;Rotíferos acuáticos con una coraza rígida (loriga) espinosa, ampliamente cultivados como alimento vivo en acuicultura
@@ -1776,7 +1776,7 @@ Taeniidae;Cyclophyllidea;Familia;Familia de las tenias verdaderas, parásitos in
 Anoplocephalidae;Cyclophyllidea;Familia;Tenias parásitas que infectan el intestino de mamíferos herbívoros como caballos, ovejas y conejos
 Chaetonotidae;Chaetonotida;Familia;Gastrotricos acuáticos diminutos cubiertos de escamas o espinas, comunes en el limo del fondo
 Sipunculidae;Sipunculiformes;Familia;Gusanos cacahuate grandes de fondos arenosos marinos, con musculatura corporal fuerte dispuesta en bandas
-Nereididae;Phyllodocida;Familia;"Gusanos poliquetos marinos errantes conocidos como ""ragworms"", muy utilizados por pescadores como cebo vivo"
+Nereididae;Phyllodocida;Familia;Gusanos poliquetos marinos errantes conocidos como ragworms, muy utilizados por pescadores como cebo vivo
 Polynoidae;Phyllodocida;Familia;Gusanos escamosos marinos, poliquetos cubiertos dorsalmente por placas protectoras superpuestas llamadas élitros
 Lumbricidae;Crassiclitellata;Familia;La familia principal de lombrices de tierra comunes, vitales para el reciclaje de nutrientes del suelo
 Megascolecidae;Crassiclitellata;Familia;Grandes lombrices de tierra distribuidas principalmente en Asia y Australia, algunas de tamaño gigante
@@ -1811,13 +1811,13 @@ Cyzicidae;Diplostraca;Familia;Camarones almeja, crustáceos branquiópodos con u
 Daphniidae;Diplostraca;Familia;Pulgas de agua comunes, crustáceos planctónicos clave en las redes alimentarias de lagos y charcas
 Cyclopidae;Cyclopoida;Familia;Copépodos dulceacuícolas muy comunes, con un solo ojo central y antenas cortas en las hembras
 Calanidae;Calanoida;Familia;Copépodos marinos planctónicos abundantes, base nutricional indispensable para peces y grandes ballenas oceánicasicas
-Lepadidae;Scalpellomorpha;Familia;"Percebes de cuello o ""anatifas"", crustáceos sésiles que crecen adheridos a objetos flotantes marinos"
+Lepadidae;Scalpellomorpha;Familia;Percebes de cuello o anatifas, crustáceos sésiles que crecen adheridos a objetos flotantes marinos
 Poecilasmatidae;Scalpellomorpha;Familia;Pequeños percebes pedunculados que suelen vivir como comensales sobre el caparazón de cangrejos grandes
 Pollicipedidae;Pollicipedomorpha;Familia;Percebes de gallo o percebes verdaderos, crustáceos muy valorados económicamente que habitan costas rocosas batidas
 Balaninae;Balanomorpha;Familia;Bellotas de mar comunes, percebes sésiles con forma de volcán calcáreo fijados sólidamente a rocas
 Tetraclitidae;Balanomorpha;Familia;Percebes sésiles de climas cálidos con conchas porosas y gruesas de color oscuro o rojizo
 Chelonibiidae;Balanomorpha;Familia;Percebes especializados que viven exclusivamente adheridos al caparazón de tortugas marinas y grandes cangrejos
-Gammaridae;Amphipoda;Familia;"Anfípodos de agua dulce y salada conocidos como ""pulgas de río"", con cuerpos comprimidos lateralmente"
+Gammaridae;Amphipoda;Familia;Anfípodos de agua dulce y salada conocidos como pulgas de río, con cuerpos comprimidos lateralmente
 Caprellidae;Amphipoda;Familia;Camarones esqueleto, anfípodos alargados y filiformes que mimetizan algas e hidros marinos bentónicos
 Hyperiidae;Amphipoda;Familia;Anfípodos marinos planctónicos que viven a menudo como parásitos o comensales dentro de medusas
 Porcellionidae;Isopoda;Familia;Cochinillas de humedad comunes terrestres, crustáceos isópodos adaptados a vivir bajo piedras y hojarasca
@@ -1827,14 +1827,14 @@ Euphausiidae;Euphausiacea;Familia;La familia principal de krill oceánico, crust
 Palaemonidae;Decapoda;Familia;Camarones de río y de roca, crustáceos decápodos comunes con el segundo par de patas agrandado
 Penaeidae;Decapoda;Familia;Langostinos y camarones comerciales grandes de fondos arenosos marinos, pilares de la industria pesquera
 Platyxanthidae;Decapoda;Familia;Cangrejos de roca de caparazón ancho y pinzas poderosas, comunes en fondos litorales pedregosos
-Squillidae;Stomatopoda;Familia;"Galeras o mantis marinas verdaderas; crustáceos excavadores con apéndices raptores espinosos usados para capturar peces de fondo"
-Acerentomidae;Acerentomata;Familia;"La familia más grande de proturos; diminutos hexápodos alargados del suelo que carecen por completo de antenas y ojos"
-Hypogastruridae;Poduromorpha;Familia;"Colémbolos poduromorfos regordetes, conocidos como ""pulgas de la nieve"" cuando emergen masivamente en invierno sobre el manto blanco"
+Squillidae;Stomatopoda;Familia;Galeras o mantis marinas verdaderas; crustáceos excavadores con apéndices raptores espinosos usados para capturar peces de fondo
+Acerentomidae;Acerentomata;Familia;La familia más grande de proturos; diminutos hexápodos alargados del suelo que carecen por completo de antenas y ojos
+Hypogastruridae;Poduromorpha;Familia;Colémbolos poduromorfos regordetes, conocidos como pulgas de la nieve cuando emergen masivamente en invierno sobre el manto blanco
 Neanuridae;Poduromorpha;Familia;Colémbolos del suelo con piezas bucales modificadas para succionar fluidos de hongos o madera en descomposición húmeda
 Entomobryidae;Entomobryomorpha;Familia;Colémbolos alargados y muy comunes, cubiertos de escamas o setas densas, capaces de dar saltos de gran distancia
 Neelidae;Neelipleona;Familia;Minúsculos colémbolos globulares ciegos de antenas extremadamente cortas que habitan en las capas profundas del humus orgánico
 Japyjidae;Diplura;Familia;Dipluros depredadores subterráneos de cuerpo pálido, caracterizados por un par de pinzas quitinosas esclerotizadas al final del abdomen
-Machilidae;Archaeognatha;Familia;"Pececillos de cobre; insectos saltadores primitivos sin alas con grandes ojos compuestos que tocan en la línea media"
+Machilidae;Archaeognatha;Familia;Pececillos de cobre; insectos saltadores primitivos sin alas con grandes ojos compuestos que tocan en la línea media
 Meinertellidae;Archaeognatha;Familia;Arqueognatos caracterizados por carecer de escamas en las antenas y patas, comunes en acantilados y bosques del hemisferio sur
 Lepismatidae;Zygentoma (Thysanura);Familia;Familia que incluye al pececillo de plata común, insecto áptero ágil de hábitos domésticos que consume almidón y papel
 Maindroniidae;Zygentoma (Thysanura);Familia;Pequeña y rara familia de pececillos de plata adaptados exclusivamente a vivir en ambientes extremadamente áridos o desérticos
@@ -1843,26 +1843,26 @@ Baetidae;Ephemeroptera;Familia;Pequeñas efímeras de agua dulce con alas traser
 Coryphoridae;Ephemeroptera;Familia;Efímeras cuyas ninfas habitan en corrientes de agua rápidas, adaptadas morfológicamente para aferrarse firmemente a las rocas bentónicas
 Oligoneuridae;Ephemeroptera;Familia;Efímeras de vuelo veloz cuyas ninfas poseen branquias modificadas para filtrar partículas alimenticias en ríos correntosos
  Euthyplociidae;Ephemeroptera;Familia;Efímeras tropicales de gran tamaño, caracterizadas por machos con patas delanteras muy largas y ninfas excavadoras de riberas
-Polymitarcyidae;Ephemeroptera;Familia;"Efímeras pálidas o blancas cuyas ninfas cavan túneles en forma de ""U"" en el lodo arcilloso de ríos"
-Caenidae;Ephemeroptera;Familia;"Efímeras diminutas conocidas como ""efímeras de un solo día"", con ninfas que toleran sedimentos finos en aguas lentas"
+Polymitarcyidae;Ephemeroptera;Familia;Efímeras pálidas o blancas cuyas ninfas cavan túneles en forma de U en el lodo arcilloso de ríos
+Caenidae;Ephemeroptera;Familia;Efímeras diminutas conocidas como efímeras de un solo día, con ninfas que toleran sedimentos finos en aguas lentas
 Leptohyphidae;Ephemeroptera;Familia;Efímeras americanas de tamaño reducido, cuyas ninfas habitan zonas de baja corriente cubiertas de detritos vegetales finos
 Leptophlebiidae;Ephemeroptera;Familia;Efímeras de patas delgadas, con ninfas que poseen branquias bífidas o ramificadas muy características en el abdomen
 Coenagrionidae ;Zygoptera;Familia;Caballitos del diablo de cola azul y colores variables, la familia más abundante de odonatos cigópteros del mundo
 Lestidae;Zygoptera;Familia;Caballitos del diablo que descansan manteniendo sus alas parcialmente abiertas en un ángulo oblicuo muy distintivo
 Calopterygidae;Zygoptera;Familia;Caballitos del diablo grandes con alas de reflejos metálicos oscuros y vuelos nupciales flotantes similares a mariposas
  Epiophlebiidae;Anisozygoptera;Familia;Reliquias evolutivas vivientes asiáticas que combinan ojos separados de caballito del diablo con alas robustas de libélula anísoptera
-Libellulidae ;Anisoptera;Familia;"Libélulas comunes de percha; voladoras territoriales de cuerpos coloridos que dominan charcas, lagos y humedales de todo el planeta"
-Aeshnidae;Anisoptera;Familia;"Libélulas gigantes conocidas como ""esquilmadoras"", cazadoras aéreas incansables de vuelo potente que rara vez se posan quietas"
+Libellulidae ;Anisoptera;Familia;Libélulas comunes de percha; voladoras territoriales de cuerpos coloridos que dominan charcas, lagos y humedales de todo el planeta
+Aeshnidae;Anisoptera;Familia;Libélulas gigantes conocidas como esquilmadoras, cazadoras aéreas incansables de vuelo potente que rara vez se posan quietas
 Gomphidae;Anisoptera;Familia;Libélulas de ojos ampliamente separados y abdómenes ensanchados en la punta, que suelen posarse sobre el suelo arenoso
-Perlidae;Plecoptera;Familia;"Plecópteros grandes de ríos limpios; ninfas depredadoras aplanadas con branquias ramificadas parecidas a mechones en las axilas corporales"
-Proscopiidae;Caelifera;Familia;"Saltamontes palo de Sudamérica; ortópteros alargados imitadores de ramitas con cabezas cónicas apuntando hacia adelante oblicuamente"
-Acrididae;Caelifera;Familia;"Saltamontes comunes y langostas migratorias verdaderas; fitófagos devastadores con antenas cortas y patas traseras potentes para saltar"
+Perlidae;Plecoptera;Familia;Plecópteros grandes de ríos limpios; ninfas depredadoras aplanadas con branquias ramificadas parecidas a mechones en las axilas corporales
+Proscopiidae;Caelifera;Familia;Saltamontes palo de Sudamérica; ortópteros alargados imitadores de ramitas con cabezas cónicas apuntando hacia adelante oblicuamente
+Acrididae;Caelifera;Familia;Saltamontes comunes y langostas migratorias verdaderas; fitófagos devastadores con antenas cortas y patas traseras potentes para saltar
 Romaleidae;Caelifera;Familia;Saltamontes de la familia lubber, insectos de gran tamaño y colores llamativos de advertencia que secretan espuma tóxica
-Tettigoniidae ;Ensifera;Familia;"Saltamontes de antenas largas u ""esperanzas"", con asombrosos camuflajes de hojas verdes y cantos estridentes nocturnos"
-Gryllidae ;Ensifera;Familia;"Grillos verdaderos; insectos nocturnos terrestres cuyos machos producen el clásico chirrido frotando sus alas anteriores endurecidas"
-Gryllotalpidae ;Ensifera;Familia;"Grillos topo; ortópteros subterráneos con patas delanteras masivas modificadas para cavar túneles eficientemente en la tierra húmeda"
-Mogoplistidae ;Ensifera;Familia;"Grillos escamosos; pequeños ortópteros terrestres cubiertos por intrincadas escamas que se desprenden fácilmente para evadir depredadores"
-Timematidae;Timematodea;Familia;"El linaje de fásmidos más primitivo de Norteamérica; pequeños insectos palo que no pueden perder sus extremidades voluntariamente"
+Tettigoniidae ;Ensifera;Familia;Saltamontes de antenas largas u esperanzas, con asombrosos camuflajes de hojas verdes y cantos estridentes nocturnos
+Gryllidae ;Ensifera;Familia;Grillos verdaderos; insectos nocturnos terrestres cuyos machos producen el clásico chirrido frotando sus alas anteriores endurecidas
+Gryllotalpidae ;Ensifera;Familia;Grillos topo; ortópteros subterráneos con patas delanteras masivas modificadas para cavar túneles eficientemente en la tierra húmeda
+Mogoplistidae ;Ensifera;Familia;Grillos escamosos; pequeños ortópteros terrestres cubiertos por intrincadas escamas que se desprenden fácilmente para evadir depredadores
+Timematidae;Timematodea;Familia;El linaje de fásmidos más primitivo de Norteamérica; pequeños insectos palo que no pueden perder sus extremidades voluntariamente
 Diapheromeridae;Euphasmatodea;Familia;Insectos palo comunes del Nuevo Mundo, alargados, delgados, carentes de alas y con patas delanteras muy estiradas
 Phasmatidae;Euphasmatodea;Familia;Insectos palo gigantes de distribución mundial que incluyen a algunos de los insectos más largos descritos en la Tierra
 Prisopodidae;Euphasmatodea;Familia;Fásmidos tropicales aplanados que se camuflan perfectamente abrazando la corteza de los árboles o imitando trozos de liquen
@@ -1870,450 +1870,450 @@ Heteronemiidae;Euphasmatodea;Familia;Insectos palo esbeltos de hábitos nocturno
 Pseudophasmatidae;Euphasmatodea;Familia;Insectos palo coloreados que a menudo poseen alas funcionales reducidas y glándulas torácicas que rocían líquidos defensivos irritantes
 Ectobiidae;Blattodea*;Familia;La familia más grande de cucarachas pequeñas
 Blaberidae;Blattodea*;Familia;Cucarachas gigantes tropicales, muchas de ellas vivíparas, como la cucaracha gigante de Madagascar que emite silbidos defensivos
-Blattellidae;Blattodea*;Familia;"Antiguo grupo de cucarachas ligeras; hoy en día la mayoría de sus géneros están reclasificados dentro de Ectobiidae"
+Blattellidae;Blattodea*;Familia;Antiguo grupo de cucarachas ligeras; hoy en día la mayoría de sus géneros están reclasificados dentro de Ectobiidae
 Blattidae;Blattodea*;Familia;Cucarachas grandes de alcantarilla que incluyen a la cucaracha americana y oriental, vectores mecánicos de bacterias domésticas
-Kalotermitidae;Termitoidae (Isoptera);Familia;"Termitas de madera seca; forman colonias en madera muerta sin necesidad de mantener contacto con el suelo húmedo."
-Rhinotermitidae;Termitoidae (Isoptera);Familia;"Termitas subterráneas; destructoras voraces que construyen tubos de barro para subir a las estructuras de madera hogareñas"
+Kalotermitidae;Termitoidae (Isoptera);Familia;Termitas de madera seca; forman colonias en madera muerta sin necesidad de mantener contacto con el suelo húmedo.
+Rhinotermitidae;Termitoidae (Isoptera);Familia;Termitas subterráneas; destructoras voraces que construyen tubos de barro para subir a las estructuras de madera hogareñas
 Termitidae;Termitoidae (Isoptera);Familia;La familia más grande y avanzada de termitas, constructoras de los masivos y famosos termiteros catedrales de tierra
-Hymenopodidae;Mantodea*;Familia;"Mantis flor; insectos cazadores tropicales con expansiones en las patas que imitan pétalos para emboscar polinizadores incautos"
-Liturgusidae;Mantodea*;Familia;"Mantis de la corteza; aplanadas y moteadas, corren velozmente por los troncos camuflándose como musgo o liquen gris"
-Mantidae;Mantodea*;Familia;"La familia principal de mantis religiosas comunes; depredadoras generalistas de cabeza triangular móvil y patas delanteras raptoras"
+Hymenopodidae;Mantodea*;Familia;Mantis flor; insectos cazadores tropicales con expansiones en las patas que imitan pétalos para emboscar polinizadores incautos
+Liturgusidae;Mantodea*;Familia;Mantis de la corteza; aplanadas y moteadas, corren velozmente por los troncos camuflándose como musgo o liquen gris
+Mantidae;Mantodea*;Familia;La familia principal de mantis religiosas comunes; depredadoras generalistas de cabeza triangular móvil y patas delanteras raptoras
 Thespidae;Mantodea*;Familia;Mantis esbeltas y pequeñas de movimientos rápidos que habitan principalmente en pastizales o arbustos bajos neotropicales
-Embiidae;Embioptera;Familia;"Tejedores de seda; insectos gregarios que construyen túneles de seda bajo rocas usando glándulas en sus patas delanteras"
+Embiidae;Embioptera;Familia;Tejedores de seda; insectos gregarios que construyen túneles de seda bajo rocas usando glándulas en sus patas delanteras
 Oligotomidae;Embioptera;Familia;Familia de embiópteros originaria del Viejo Mundo, introducida globalmente, común en cortezas de árboles y grietas rocosas
 Anisembiidae;Embioptera;Familia;Embiópteros nativos de América, caracterizados por machos con venación alar simplificada o formas totalmente ápteras terrestres
-Zorotypidae;Zoraptera;Familia;"El único grupo viviente de zorápteros; insectos diminutos y ciegos que viven socialmente bajo cortezas de troncos podridos"
-Forficulidae;Dermaptera;Familia;"Tijeretas comunes terrestres; insectos con pinzas (cercos) curvadas en machos, que brindan cuidados maternales a sus huevos"
-Labiduridae;Dermaptera;Familia;"Tijeretas de franjas pálidas; de gran tamaño y hábitos depredadores nocturnos en playas arenosas o suelos agrícolas"
+Zorotypidae;Zoraptera;Familia;El único grupo viviente de zorápteros; insectos diminutos y ciegos que viven socialmente bajo cortezas de troncos podridos
+Forficulidae;Dermaptera;Familia;Tijeretas comunes terrestres; insectos con pinzas (cercos) curvadas en machos, que brindan cuidados maternales a sus huevos
+Labiduridae;Dermaptera;Familia;Tijeretas de franjas pálidas; de gran tamaño y hábitos depredadores nocturnos en playas arenosas o suelos agrícolas
 Labiidae;Dermaptera;Familia;Tijeretas diminutas de cuerpo grácil y antenas delgadas, abundantes bajo hojarasca húmeda o restos orgánicos vegetales
 Anisolabididae;Dermaptera;Familia;Tijeretas que carecen por completo de alas en ambos sexos, con pinzas asimétricas robustas usadas para capturar presas
 Psyllipsocidae;Trogiomorpha;Familia;Piojos de los libros primitivos con alas largas, adaptados a vivir en cuevas oscuras y sótanos húmedos habitados
-Psocidae;Psocomorpha;Familia;"Piojos de la corteza verdaderos; insectos de vida libre que pastan microalgas y líquenes sobre troncos de árboles"
+Psocidae;Psocomorpha;Familia;Piojos de la corteza verdaderos; insectos de vida libre que pastan microalgas y líquenes sobre troncos de árboles
 Lachesillidae;Psocomorpha;Familia;Pequeños psocópteros comunes que se alimentan de esporas de hongos en hojas secas colgadas de la vegetación
-Liposcelididae ;Troctomorpha ;Familia;"Piojos de los libros aplanados y ápteros; plagas comunes de despensas alimenticias y colecciones botánicas de museos"
+Liposcelididae ;Troctomorpha ;Familia;Piojos de los libros aplanados y ápteros; plagas comunes de despensas alimenticias y colecciones botánicas de museos
 Menoponidae;Amblycera;Familia;Piojos masticadores de aves que se desplazan rápidamente entre las plumas, alimentándose de queratina, restos de piel y sangre
 Philopteridae;Ishnocera;Familia;Piojos masticadores aviares de cuerpo rígido que se anclan firmemente a los cañones de las plumas con mandíbulas
 Trichodectidae;Trichodectera;Familia;Piojos masticadores especializados exclusivamente en parasitar mamíferos placentarios como perros, gatos, caballos y ganado vacuno
 Pthiridae;Anoplura;Familia;Familia que contiene a la ladilla humana, piojos parásitos modificados con patas ganchudas para aferrarse al vello corporal
-Haematopinidae;Anoplura;Familia;"Piojos chupadores de ungulados; parásitos hematófagos grandes que afectan severamente la piel de cerdos, caballos y vacas"
-Thripidae;Terebrantia;Familia;"La familia más grande de trips; diminutos insectos fitófagos con ovipositor aserrado, vectores de graves virus agrícolas mundiales"
-Phlaeothripidae;Tubulifera;Familia;"Trips tubulíferos; insectos pequeños cuyo abdomen termina en un tubo cónico, muchos de ellos asociados a agallas vegetales"
-Gerridae;Gerromorpha;Familia;"Zapateros o patinadores de agua; chinches con patas largas cubiertas de pelos hidrófobos para deslizarse sobre estanques"
+Haematopinidae;Anoplura;Familia;Piojos chupadores de ungulados; parásitos hematófagos grandes que afectan severamente la piel de cerdos, caballos y vacas
+Thripidae;Terebrantia;Familia;La familia más grande de trips; diminutos insectos fitófagos con ovipositor aserrado, vectores de graves virus agrícolas mundiales
+Phlaeothripidae;Tubulifera;Familia;Trips tubulíferos; insectos pequeños cuyo abdomen termina en un tubo cónico, muchos de ellos asociados a agallas vegetales
+Gerridae;Gerromorpha;Familia;Zapateros o patinadores de agua; chinches con patas largas cubiertas de pelos hidrófobos para deslizarse sobre estanques
 Veliidae;Gerromorpha;Familia;Chinches patinadoras pequeñas, robustas y a menudo gregarias que habitan zonas de corriente suave en arroyos limpios
-Hydrometridae;Gerromorpha;Familia;"Chinches aguja; caminan lentamente sobre el agua imitando ramitas, detectando pequeños invertebrados atrapados en la superficie"
-Nepidae;Nepomorpha;Familia;"Escorpiones de agua; chinches acuáticas depredadoras con un largo sifón respiratorio posterior que sacan para tomar aire"
-Belostomatidae;Nepomorpha;Familia;"Chinches acuáticas gigantes u ""oxitulas""; feroces depredadores de peces y ranas que cargan sus huevos a la espalda"
-Corixidae;Nepomorpha;Familia;"Barcaonas; chinches acuáticas nadadoras que se alimentan triturando algas y detritos orgánicos del fondo con su pico"
-Notonectidae;Nepomorpha;Familia;"Garapitos o nadadores de espalda; chinches acuáticas que nadan invertidas y propinan picaduras dolorosas si se manipulan"
+Hydrometridae;Gerromorpha;Familia;Chinches aguja; caminan lentamente sobre el agua imitando ramitas, detectando pequeños invertebrados atrapados en la superficie
+Nepidae;Nepomorpha;Familia;Escorpiones de agua; chinches acuáticas depredadoras con un largo sifón respiratorio posterior que sacan para tomar aire
+Belostomatidae;Nepomorpha;Familia;Chinches acuáticas gigantes u oxitulas; feroces depredadores de peces y ranas que cargan sus huevos a la espalda
+Corixidae;Nepomorpha;Familia;Barcaonas; chinches acuáticas nadadoras que se alimentan triturando algas y detritos orgánicos del fondo con su pico
+Notonectidae;Nepomorpha;Familia;Garapitos o nadadores de espalda; chinches acuáticas que nadan invertidas y propinan picaduras dolorosas si se manipulan
 Naucoridae;Nepomorpha;Familia;Chinches acuáticas de cuerpo ovalado y aplanado con patas delanteras raptoras muy fuertes para capturar presas bentónicas
-Pentatomidae;Pentatomorpha;Familia;"Chinches hediondas o de escudo; insectos terrestres fitófagos que liberan olores acres defensivos desde su tórax"
-Coreidae;Pentatomorpha;Familia;"Chinches de patas de hoja; insectos fitófagos con expansiones laminares en sus tibias traseras simulando hojas secas"
-Berytidae;Pentatomorpha;Familia;"Chinches zancudas; de cuerpos lineales sumamente delgados y patas larguísimas, similares a pequeños mosquitos terrestres lentos"
-Lygaeidae;Pentatomorpha;Familia;"Chinches de las semillas; pequeños insectos terrestres a menudo coloreados de rojo y negro que consumen granos vegetales"
-Pyrrhocoridae;Pentatomorpha;Familia;"Chinches rojas o ""soldados""; insectos terrestres gregarios de colores llamativos que se alimentan principalmente de semillas de malváceas"
-Anthocoridae;Cimicomorpha;Familia;"Chinches pirata diminutas; depredadoras voraces de ácaros y trips en cultivos, muy valoradas en control biológico natural"
-Cimicidae;Cimicomorpha;Familia;"Chinches de las camas; insectos ápteros hematófagos nocturnos que parasitan a humanos, aves y murciélagos en nidos"
-Nabidae;Cimicomorpha;Familia;"Chinches damisela; depredadores terrestres ágiles de cuerpos alargados que atrapan orugas y pulgones en la vegetación"
-Miridae;Cimicomorpha;Familia;"Chinches de las plantas; la familia más grande de hemípteros, incluye especies fitófagas y algunas depredadoras ágiles"
-Tingidae;Cimicomorpha;Familia;"Chinches de encaje; diminutos insectos fitófagos con pronotos y alas bellamente reticulados que dañan el envés foliar"
-Reduviidae;Cimicomorpha;Familia;"Chinches asesinas o ""vinchucas""; depredadores feroces con picos curvos, algunas especies transmiten la peligrosa enfermedad de Chagas"
-Aleyrodidae;Aleyrodoidea;Familia;"Moscas blancas; diminutos homópteros cubiertos de polvo ceroso blanco que chupan savia e infectan cultivos agrícolas de invernadero"
-Aphididae;Aphidoidea;Familia;"Pulgones verdaderos; insectos chupadores gregarios con sifúnculos posteriores que secretan melaza azucarada, atrayendo colonias de hormigas"
+Pentatomidae;Pentatomorpha;Familia;Chinches hediondas o de escudo; insectos terrestres fitófagos que liberan olores acres defensivos desde su tórax
+Coreidae;Pentatomorpha;Familia;Chinches de patas de hoja; insectos fitófagos con expansiones laminares en sus tibias traseras simulando hojas secas
+Berytidae;Pentatomorpha;Familia;Chinches zancudas; de cuerpos lineales sumamente delgados y patas larguísimas, similares a pequeños mosquitos terrestres lentos
+Lygaeidae;Pentatomorpha;Familia;Chinches de las semillas; pequeños insectos terrestres a menudo coloreados de rojo y negro que consumen granos vegetales
+Pyrrhocoridae;Pentatomorpha;Familia;Chinches rojas o soldados; insectos terrestres gregarios de colores llamativos que se alimentan principalmente de semillas de malváceas
+Anthocoridae;Cimicomorpha;Familia;Chinches pirata diminutas; depredadoras voraces de ácaros y trips en cultivos, muy valoradas en control biológico natural
+Cimicidae;Cimicomorpha;Familia;Chinches de las camas; insectos ápteros hematófagos nocturnos que parasitan a humanos, aves y murciélagos en nidos
+Nabidae;Cimicomorpha;Familia;Chinches damisela; depredadores terrestres ágiles de cuerpos alargados que atrapan orugas y pulgones en la vegetación
+Miridae;Cimicomorpha;Familia;Chinches de las plantas; la familia más grande de hemípteros, incluye especies fitófagas y algunas depredadoras ágiles
+Tingidae;Cimicomorpha;Familia;Chinches de encaje; diminutos insectos fitófagos con pronotos y alas bellamente reticulados que dañan el envés foliar
+Reduviidae;Cimicomorpha;Familia;Chinches asesinas o vinchucas; depredadores feroces con picos curvos, algunas especies transmiten la peligrosa enfermedad de Chagas
+Aleyrodidae;Aleyrodoidea;Familia;Moscas blancas; diminutos homópteros cubiertos de polvo ceroso blanco que chupan savia e infectan cultivos agrícolas de invernadero
+Aphididae;Aphidoidea;Familia;Pulgones verdaderos; insectos chupadores gregarios con sifúnculos posteriores que secretan melaza azucarada, atrayendo colonias de hormigas
 Phylloxeridae;Phylloxeroidea;Familia;Insectos parásitos de plantas que forman agallas complejas en hojas o raíces de viñedos y nogales
-Coccidae;Coccoidea;Familia;"Cochinillas blandas o de caparazón; hembras sésiles con formas de escamas que excretan copiosa melaza sobre plantas"
-Margaroridae;Coccoidea;Familia;"Cochinillas gigantes; hembras globulares cubiertas de cera espesa, algunas especies tienen ninfas llamadas ""perlas de tierra"""
-Ortheziidae;Coccoidea;Familia;"Cochinillas de placa ensortijada; cubiertas por artísticas placas ceras blancas y simétricas, comunes en raíces de plantas"
-Pseudococcidae;Coccoidea;Familia;"Cochinillas algodonosas; insectos chupadores ovalados cubiertos de una densa secreción blanca harinosa que protege sus puestas"
-Dactylopidae;Coccoidea;Familia;"Cochinillas de la grana; parásitas exclusivas de nopales (cactus) de las cuales se extrae el cotizado tinte rojo carmín"
-Diaspididae;Coccoidea;Familia;"Cochinillas de escudo duro; hembras cubiertas por una armadura calcárea separable de su cuerpo blando subyacente"
+Coccidae;Coccoidea;Familia;Cochinillas blandas o de caparazón; hembras sésiles con formas de escamas que excretan copiosa melaza sobre plantas
+Margaroridae;Coccoidea;Familia;Cochinillas gigantes; hembras globulares cubiertas de cera espesa, algunas especies tienen ninfas llamadas perlas de tierra
+Ortheziidae;Coccoidea;Familia;Cochinillas de placa ensortijada; cubiertas por artísticas placas ceras blancas y simétricas, comunes en raíces de plantas
+Pseudococcidae;Coccoidea;Familia;Cochinillas algodonosas; insectos chupadores ovalados cubiertos de una densa secreción blanca harinosa que protege sus puestas
+Dactylopidae;Coccoidea;Familia;Cochinillas de la grana; parásitas exclusivas de nopales (cactus) de las cuales se extrae el cotizado tinte rojo carmín
+Diaspididae;Coccoidea;Familia;Cochinillas de escudo duro; hembras cubiertas por una armadura calcárea separable de su cuerpo blando subyacente
 Monophlebidae;Coccoidea;Familia;Cochinillas que incluyen a la cochinilla acanalada de Australia, plaga citrícola controlada históricamente con escarabajos mariquita
-Cicadidae;Cicadomorpha;Familia;"Cigarras o chicharras verdaderas; famosas por los potentes cantos estridentes generados por los timbales abdominales del macho"
-Cercopidae;Cicadomorpha;Familia;"Cigarrillas espumadoras; sus ninfas viven protegidas dentro de masas de espuma salival esponjosa que ellas mismas fabrican"
-Membracidae;Cicadomorpha;Familia;"Campenitas o membrácidos; insectos con pronotos asombrosamente modificados imitando espinas, espinas vegetales o formas alienígenas"
-Cicadellidae;Cicadomorpha;Familia;"Saltahojas; pequeños insectos saltadores estilizados y coloridos que transmiten bacterias fitopatógenas al alimentarse de savia"
+Cicadidae;Cicadomorpha;Familia;Cigarras o chicharras verdaderas; famosas por los potentes cantos estridentes generados por los timbales abdominales del macho
+Cercopidae;Cicadomorpha;Familia;Cigarrillas espumadoras; sus ninfas viven protegidas dentro de masas de espuma salival esponjosa que ellas mismas fabrican
+Membracidae;Cicadomorpha;Familia;Campenitas o membrácidos; insectos con pronotos asombrosamente modificados imitando espinas, espinas vegetales o formas alienígenas
+Cicadellidae;Cicadomorpha;Familia;Saltahojas; pequeños insectos saltadores estilizados y coloridos que transmiten bacterias fitopatógenas al alimentarse de savia
 Delphacidae;Fulgoromorpha;Familia;Saltahojas con espolones móviles en las tibias traseras, que causan graves daños mecánicos en cultivos de arroz
-Fulgoridae;Fulgoromorpha;Familia;"Fulgóridos; insectos tropicales grandes con expansiones cefálicas llamativas que falsamente se creía que emitían luz nocturna"
-Corydalidae;Megaloptera;Familia;"Moscas de la piedra gigantes; machos con mandíbulas descomunales en forma de hoz usadas para el cortejo nupcial"
-Sialidae;Megaloptera;Familia;"Moscas alisas; megalópteros con larvas acuáticas provistas de siete pares de filamentos laterales y filamento caudal único"
-Myrmelonidae;Neuroptera;Familia;"Hormigas león; adultos similares a libélulas y larvas excavadoras que atrapan hormigas en embudos de arena fina"
-Hemerobiidae;Neuroptera;Familia;"Crisopas pardas; pequeños neurópteros de alas encajadas color marrón cuyas larvas devoran activamente pulgones en plantas"
-Mantispidae;Neuroptera;Familia;"Mantíspidos; insectos con alas de neuróptero pero tórax y patas delanteras raptoras idénticas a una mantis religiosa"
-Chrysopidae;Neuroptera;Familia;"Crisopas verdes; neurópteros benéficos de ojos dorados brillantes cuyas larvas portan restos de presas como camuflaje"
-Hydroscaphidae;Mixophaga;Familia;"Escarabajos esquife; diminutos coleópteros acuáticos de élitros acortados que habitan sobre algas de rocas salpicadas"
+Fulgoridae;Fulgoromorpha;Familia;Fulgóridos; insectos tropicales grandes con expansiones cefálicas llamativas que falsamente se creía que emitían luz nocturna
+Corydalidae;Megaloptera;Familia;Moscas de la piedra gigantes; machos con mandíbulas descomunales en forma de hoz usadas para el cortejo nupcial
+Sialidae;Megaloptera;Familia;Moscas alisas; megalópteros con larvas acuáticas provistas de siete pares de filamentos laterales y filamento caudal único
+Myrmelonidae;Neuroptera;Familia;Hormigas león; adultos similares a libélulas y larvas excavadoras que atrapan hormigas en embudos de arena fina
+Hemerobiidae;Neuroptera;Familia;Crisopas pardas; pequeños neurópteros de alas encajadas color marrón cuyas larvas devoran activamente pulgones en plantas
+Mantispidae;Neuroptera;Familia;Mantíspidos; insectos con alas de neuróptero pero tórax y patas delanteras raptoras idénticas a una mantis religiosa
+Chrysopidae;Neuroptera;Familia;Crisopas verdes; neurópteros benéficos de ojos dorados brillantes cuyas larvas portan restos de presas como camuflaje
+Hydroscaphidae;Mixophaga;Familia;Escarabajos esquife; diminutos coleópteros acuáticos de élitros acortados que habitan sobre algas de rocas salpicadas
 Sphaeriusidae;Mixophaga;Familia;Escarabajos esféricos diminutos que habitan en los márgenes arenosos o lodosos saturados de agua de arroyos limpios
-Cicindellidae;Adephaga;Familia;"Escarabajos tigre; depredadores terrestres ultra veloces con mandíbulas cruzadas agudas y ojos compuestos salientes muy desarrollados"
-Carabidae;Adephaga;Familia;"Carábidos; escarabajos terrestres nocturnos caminadores con glándulas químicas defensivas, la mayoría depredadores voraces de caracoles"
-Dytiscidae;Adephaga;Familia;"Escarabajos buceadores; coleópteros acuáticos aerodinámicos con patas traseras aplanadas tipo remo que almacenan aire bajo sus élitros"
-Gyrinidae;Adephaga;Familia;"Escarabajos torbellino; nadan frenéticamente en círculos sobre el agua superficial con ojos divididos para ver arriba y abajo"
-Haliplidae;Adephaga;Familia;"Escarabajos de los estanques rastreros; pequeños coleópteros acuáticos fitófagos con grandes placas coxales traseras para almacenar aire comprimido"
-Noteridae;Adephaga;Familia;"Escarabajos buceadores cavadores; coleópteros acuáticos pequeños similares a dytíscidos pero especializados en escarbar raíces sumergidas"
-Rhysodidae;Adephaga;Familia;"Escarabajos de los canales arrugados; coleópteros alargados con surcos profundos en el pronoto que habitan madera podrida micológica"
-Hydrophilidae;Hydrophiloidea;Familia;"Escarabajos amantes del agua; coleópteros acuáticos portadores de un plastrón de aire ventral, la mayoría vegetarianos de adultos"
-Histeridae;Hydrophiloidea;Familia;"Escarabajos histéridos; cuerpos compactos negros brillantes que se hacen los muertos (tanatosis) y devoran larvas de moscas"
-Staphylinidae;Staphylinoidea;Familia;"Estafilínidos; la familia más grande de escarabajos, con élitros muy cortos que exponen abdómenes flexibles muy móviles."
-Silphidae;Staphylinoidea;Familia;"Escarabajos enterradores o carroñeros; entierran cadáveres de pequeños vertebrados para alimentar socialmente a sus larvas carnosas"
-Scarabaeidae;Scarabaeoidea;Familia;"Escarabajos peloteros, mayates y escarabajos rinoceronte; coleópteros robustos con antenas lameladas adaptadas para cavar estiércol"
-Buprestidae;Buprestoidea;Familia;"Escarabajos joya; cuerpos fusiformes rígidos con iridiscencias metálicas espectaculares, cuyas larvas barrenan madera muerta forestal"
-Elateridae;Elateroidea;Familia;"Escarabajos click o saltapericos; capaces de saltar al aire volteándose mediante un resorte torácico que emite un chasquido"
-Lampyridae;Elateroidea;Familia;"Luciérnagas; escarabajos de cuerpos blandos cuyos órganos abdominales producen destellos de luz bioluminiscente para el cortejo amoroso"
-Elmidae;Byrrhoidea;Familia;"Escarabajos de los rápidos; pequeños coleópteros acuáticos que respiran bajo ríos limpios mediante un plastrón inamovible de oxígeno"
-Chrysomelidae;Chrysomeloidea;Familia;"Escarabajos de las hojas; fitófagos diversos de colores llamativos que incluyen plagas como el escarabajo de la patata"
-Cerambycidae;Chrysomeloidea;Familia;"Escarabajos longicornios; coleópteros con antenas larguísimas que superan su propio cuerpo, cuyas larvas son barrenadoras forestales"
-Cucujidae;Cucujoidea;Familia;"Escarabajos de la corteza planos; cuerpos extremadamente comprimidos dorsoventralmente para escurrirse en los espacios bajo cortezas apretadas"
-Coccinellidae;Cucujoidea;Familia;"Mariquitas o catarinas; escarabajos semiesféricos coloridos, depredadores icónicos benéficos que devoran miles de pulgones agrícolas"
-Scolytidae;Curculionoidea;Familia;"Escarabajos de la corteza; diminutos barrenadores que trazan intrincadas galerías laberínticas bajo las cortezas de árboles debilitados"
-Curculionidae;Curculionoidea;Familia;"Gorgojos verdaderos; caracterizados por un rostro o hocico prolongado, es la familia de escarabajos más destructora de granos"
-Meloidae;Tenebrionoidea;Familia;"Escarabajos aceiteros o de la manteca; secretan cantaridina cáustica por sus articulaciones que provoca dolorosas ampollas cutáneas"
-Tenebrionidae;Tenebrionoidea;Familia;"Escarabajos de la harina y del desierto; coleópteros oscuros resistentes a la sequía con élitros frecuentemente fusionados protectores"
-Dermestidae;Bostrichoidea;Familia;"Escarabajos de las alfombras o derméstidos; sus larvas peludas destruyen tapizados, pieles y colecciones zoológicas secas de museos"
-Bostrichidae;Bostrichoidea;Familia;"Falsos barrenadores de la madera; escarabajos cilíndricos con pronotos rugosos cuyas larvas destruyen maderas duras y cañas secas"
-Stylopidae;Strepsiptera;Familia;"Avispitas parásitas extremas de ojos salientes; las hembras sin alas pasan toda su vida dentro de abejas u avispas"
+Cicindellidae;Adephaga;Familia;Escarabajos tigre; depredadores terrestres ultra veloces con mandíbulas cruzadas agudas y ojos compuestos salientes muy desarrollados
+Carabidae;Adephaga;Familia;Carábidos; escarabajos terrestres nocturnos caminadores con glándulas químicas defensivas, la mayoría depredadores voraces de caracoles
+Dytiscidae;Adephaga;Familia;Escarabajos buceadores; coleópteros acuáticos aerodinámicos con patas traseras aplanadas tipo remo que almacenan aire bajo sus élitros
+Gyrinidae;Adephaga;Familia;Escarabajos torbellino; nadan frenéticamente en círculos sobre el agua superficial con ojos divididos para ver arriba y abajo
+Haliplidae;Adephaga;Familia;Escarabajos de los estanques rastreros; pequeños coleópteros acuáticos fitófagos con grandes placas coxales traseras para almacenar aire comprimido
+Noteridae;Adephaga;Familia;Escarabajos buceadores cavadores; coleópteros acuáticos pequeños similares a dytíscidos pero especializados en escarbar raíces sumergidas
+Rhysodidae;Adephaga;Familia;Escarabajos de los canales arrugados; coleópteros alargados con surcos profundos en el pronoto que habitan madera podrida micológica
+Hydrophilidae;Hydrophiloidea;Familia;Escarabajos amantes del agua; coleópteros acuáticos portadores de un plastrón de aire ventral, la mayoría vegetarianos de adultos
+Histeridae;Hydrophiloidea;Familia;Escarabajos histéridos; cuerpos compactos negros brillantes que se hacen los muertos (tanatosis) y devoran larvas de moscas
+Staphylinidae;Staphylinoidea;Familia;Estafilínidos; la familia más grande de escarabajos, con élitros muy cortos que exponen abdómenes flexibles muy móviles.
+Silphidae;Staphylinoidea;Familia;Escarabajos enterradores o carroñeros; entierran cadáveres de pequeños vertebrados para alimentar socialmente a sus larvas carnosas
+Scarabaeidae;Scarabaeoidea;Familia;Escarabajos peloteros, mayates y escarabajos rinoceronte; coleópteros robustos con antenas lameladas adaptadas para cavar estiércol
+Buprestidae;Buprestoidea;Familia;Escarabajos joya; cuerpos fusiformes rígidos con iridiscencias metálicas espectaculares, cuyas larvas barrenan madera muerta forestal
+Elateridae;Elateroidea;Familia;Escarabajos click o saltapericos; capaces de saltar al aire volteándose mediante un resorte torácico que emite un chasquido
+Lampyridae;Elateroidea;Familia;Luciérnagas; escarabajos de cuerpos blandos cuyos órganos abdominales producen destellos de luz bioluminiscente para el cortejo amoroso
+Elmidae;Byrrhoidea;Familia;Escarabajos de los rápidos; pequeños coleópteros acuáticos que respiran bajo ríos limpios mediante un plastrón inamovible de oxígeno
+Chrysomelidae;Chrysomeloidea;Familia;Escarabajos de las hojas; fitófagos diversos de colores llamativos que incluyen plagas como el escarabajo de la patata
+Cerambycidae;Chrysomeloidea;Familia;Escarabajos longicornios; coleópteros con antenas larguísimas que superan su propio cuerpo, cuyas larvas son barrenadoras forestales
+Cucujidae;Cucujoidea;Familia;Escarabajos de la corteza planos; cuerpos extremadamente comprimidos dorsoventralmente para escurrirse en los espacios bajo cortezas apretadas
+Coccinellidae;Cucujoidea;Familia;Mariquitas o catarinas; escarabajos semiesféricos coloridos, depredadores icónicos benéficos que devoran miles de pulgones agrícolas
+Scolytidae;Curculionoidea;Familia;Escarabajos de la corteza; diminutos barrenadores que trazan intrincadas galerías laberínticas bajo las cortezas de árboles debilitados
+Curculionidae;Curculionoidea;Familia;Gorgojos verdaderos; caracterizados por un rostro o hocico prolongado, es la familia de escarabajos más destructora de granos
+Meloidae;Tenebrionoidea;Familia;Escarabajos aceiteros o de la manteca; secretan cantaridina cáustica por sus articulaciones que provoca dolorosas ampollas cutáneas
+Tenebrionidae;Tenebrionoidea;Familia;Escarabajos de la harina y del desierto; coleópteros oscuros resistentes a la sequía con élitros frecuentemente fusionados protectores
+Dermestidae;Bostrichoidea;Familia;Escarabajos de las alfombras o derméstidos; sus larvas peludas destruyen tapizados, pieles y colecciones zoológicas secas de museos
+Bostrichidae;Bostrichoidea;Familia;Falsos barrenadores de la madera; escarabajos cilíndricos con pronotos rugosos cuyas larvas destruyen maderas duras y cañas secas
+Stylopidae;Strepsiptera;Familia;Avispitas parásitas extremas de ojos salientes; las hembras sin alas pasan toda su vida dentro de abejas u avispas
 Halictophagidae;Strepsiptera;Familia;Pequeños insectos estrepsípteros parásitos obligados que atacan principalmente a chinches saltahojas y grillos terrestres
-Hydroptilidae;Trichoptera;Familia;"Microtricópteros; insectos acuáticos diminutos cuyas ninfas construyen delicados estuches de seda en forma de monedero"
-Limnephilidae;Trichoptera;Familia;"Tricópteros comunes de río; sus larvas usan ramitas, hojas y piedrecitas para construir refugios cilíndricos robustos bentónicos"
-Leptoceridae;Trichoptera;Familia;"Tricópteros de antenas larguísimas; insectos gráciles cuyas larvas nadadoras construyen estuches cónicos de arena ligera"
+Hydroptilidae;Trichoptera;Familia;Microtricópteros; insectos acuáticos diminutos cuyas ninfas construyen delicados estuches de seda en forma de monedero
+Limnephilidae;Trichoptera;Familia;Tricópteros comunes de río; sus larvas usan ramitas, hojas y piedrecitas para construir refugios cilíndricos robustos bentónicos
+Leptoceridae;Trichoptera;Familia;Tricópteros de antenas larguísimas; insectos gráciles cuyas larvas nadadoras construyen estuches cónicos de arena ligera
 Glossosomatidae;Trichoptera;Familia;Tricópteros cuyas larvas fabrican refugios de piedras en forma de cúpula de tortuga, habitando corrientes rápidas
 Hydrobiosidae;Trichoptera;Familia;Tricópteros depredadores cuyas larvas de vida libre no construyen estuches protectores hasta el momento de pupar
 Philopotamidae;Trichoptera;Familia;Larvas de tricópteros que tejen redes de seda tubulares en forma de saco para filtrar micropartículas en ríos
-Micropterygidae;Zeugloptera;Familia;"Las polillas más primitivas; los adultos poseen mandíbulas masticadoras funcionales para alimentarse exclusivamente de polen"
+Micropterygidae;Zeugloptera;Familia;Las polillas más primitivas; los adultos poseen mandíbulas masticadoras funcionales para alimentarse exclusivamente de polen
 Eriocraniidae;Eriocranioidea;Familia;Polillas arcaicas cuyas larvas minadoras de hojas carecen por completo de patas verdaderas o falsas
-Hepialidae;Hepialoidea;Familia;"Polillas fantasma; insectos grandes de vuelo rápido nocturno, con hembras que dispersan miles de huevos al voleo"
-Psychidae;Tineoidea;Familia;"Polillas de saco; las larvas construyen estuches de seda y restos vegetales que cargan toda su vida"
+Hepialidae;Hepialoidea;Familia;Polillas fantasma; insectos grandes de vuelo rápido nocturno, con hembras que dispersan miles de huevos al voleo
+Psychidae;Tineoidea;Familia;Polillas de saco; las larvas construyen estuches de seda y restos vegetales que cargan toda su vida
 Lyonetiidae;Yponomeutoidea;Familia;Microlepidópteros cuyas larvas cavan minas lineales o parches transparentes característicos en el follaje de árboles
-Plutellidae;Yponomeutoidea;Familia;"Polillas del dorso de diamante; plagas crucíferas severas cuyas pequeñas larvas verdes son muy activas al asustarse"
+Plutellidae;Yponomeutoidea;Familia;Polillas del dorso de diamante; plagas crucíferas severas cuyas pequeñas larvas verdes son muy activas al asustarse
 Bucculatricidae;Gracillarioidea;Familia;Polillas cuyos estadios larvales tardíos se alimentan externamente, tejiendo capullos pupales estriados muy artísticos
 Gracillariidae;Gracillarioidea;Familia;Importante familia de microlepidópteros minadores de hojas y frutos, causantes de graves daños en cultivos citrícolas
 Gelechiidae;Gelechioidea;Familia;Polillas pequeñas que incluyen a la destructiva polilla del tomate o a la plaga de granos almacenados
 Cosmopterigidae;Gelechioidea;Familia;Microlepidópteros estilizados de alas angustias, cuyas larvas son minadoras, barrenadoras o detritívoras forestales
-Sesiidae;Cossoidea;Familia;"Polillas avispa; maestros del mimetismo que imitan visualmente a avispas peligrosas para ahuyentar a depredadores aéreos"
-Tortricoidea;Tortricoidea;Familia;"Polillas enrolladoras; sus larvas unen hojas con seda para alimentarse resguardadas de la intemperie forestal"
-Pyralidae;Pyraloidea;Familia;"Polillas hociconas; una familia masiva de microlepidópteros que incluye serias plagas de productos secos almacenados"
-Crambidae;Pyraloidea;Familia;"Polillas de la hierba; estrechamente emparentadas con Pyralidae, muchas de sus larvas barrenan tallos de gramíneas"
-Sphingidae;Bombycoidea;Familia;"Polillas halcón o esfinges; excelentes voladoras de cuerpo aerodinámico capaces de libar néctar suspendidas en el aire"
+Sesiidae;Cossoidea;Familia;Polillas avispa; maestros del mimetismo que imitan visualmente a avispas peligrosas para ahuyentar a depredadores aéreos
+Tortricoidea;Tortricoidea;Familia;Polillas enrolladoras; sus larvas unen hojas con seda para alimentarse resguardadas de la intemperie forestal
+Pyralidae;Pyraloidea;Familia;Polillas hociconas; una familia masiva de microlepidópteros que incluye serias plagas de productos secos almacenados
+Crambidae;Pyraloidea;Familia;Polillas de la hierba; estrechamente emparentadas con Pyralidae, muchas de sus larvas barrenan tallos de gramíneas
+Sphingidae;Bombycoidea;Familia;Polillas halcón o esfinges; excelentes voladoras de cuerpo aerodinámico capaces de libar néctar suspendidas en el aire
 Bombycidae;Bombycoidea;Familia;Familia que alberga al gusano de la seda domesticado, criado ancestralmente por el valor textil de su capullo
-Saturniidae;Bombycoidea;Familia;"Polillas emperador o pavones; insectos gigantescos de alas vistosas con ocelos, cuyos adultos carecen de aparato digestivo"
+Saturniidae;Bombycoidea;Familia;Polillas emperador o pavones; insectos gigantescos de alas vistosas con ocelos, cuyos adultos carecen de aparato digestivo
 Erebidae;Noctuoidea;Familia;Una de las familias más grandes de polillas nocturnas, de tamaños muy variables y orugas frecuentemente peludas
-Noctuidae;Noctuoidea;Familia;"Polillas cortadoras o gusanos cogolleros; mariposas nocturnas robustas cuyas larvas causan estragos severos en la agricultura mundial"
-Geometridae;Geometroidea;Familia;"Orugas medidoras; polillas cuyas larvas avanzan encogiendo el cuerpo al carecer de las patas falsas intermedias"
+Noctuidae;Noctuoidea;Familia;Polillas cortadoras o gusanos cogolleros; mariposas nocturnas robustas cuyas larvas causan estragos severos en la agricultura mundial
+Geometridae;Geometroidea;Familia;Orugas medidoras; polillas cuyas larvas avanzan encogiendo el cuerpo al carecer de las patas falsas intermedias
 Uraniidae;Geometroidea;Familia;Polillas diurnas tropicales de colores iridiscentes deslumbrantes que migran masivamente simulando ser mariposas verdaderas
-Hesperiidae;Papilionoidea;Familia;"Mariposas saltarinas; lepidópteros diurnos de cuerpo robusto, cabeza ancha y antenas curvas rematadas en gancho"
-Pieridae;Papilionoidea;Familia;"Mariposas blancas y amarillas de la col; lepidópteros diurnos comunes con pigmentos pterínicos característicos en sus alas"
-Riodinidae;Papilionoidea;Familia;"Mariposas de marcas metálicas; de asombrosa diversidad morfológica, distribuidas principalmente en selvas tropicales neotropicales"
+Hesperiidae;Papilionoidea;Familia;Mariposas saltarinas; lepidópteros diurnos de cuerpo robusto, cabeza ancha y antenas curvas rematadas en gancho
+Pieridae;Papilionoidea;Familia;Mariposas blancas y amarillas de la col; lepidópteros diurnos comunes con pigmentos pterínicos característicos en sus alas
+Riodinidae;Papilionoidea;Familia;Mariposas de marcas metálicas; de asombrosa diversidad morfológica, distribuidas principalmente en selvas tropicales neotropicales
 Lycaenidae;Papilionoidea;Familia;Mariposas de alas azules o cobrizas, cuyas orugas suelen mantener relaciones simbióticas estrechas con colonias de hormigas
-Nymphalidae;Papilionoidea;Familia;"Mariposas de patas de cepillo; la familia más grande de mariposas diurnas, con patas delanteras reducidas no funcionales"
-Papilionidae;Papilionoidea;Familia;"Mariposas cola de golondrina; grandes, vistosas y elegantes, cuyas orugas poseen un órgano defensivo glandular oloroso (osmaterio)"
-Siricidae;Siricoidea;Familia;"Avispas de la madera cola de cuerno; los adultos taladran troncos y sus larvas se alimentan de hongos simbiontes"
-Tenthredinidae;Tenthredinoidea;Familia;"Moscas de sierra comunes; himenópteros fitófagos cuyas larvas gregarias imitan orugas de mariposa devorando hojas"
-Evaniidae;Evanioidea;Familia;"Avispas bandera; pequeños himenópteros parasitoides que destruyen las ootecas (huevos) de cucarachas dentro de hogares"
-Ichneumonidae;Ichneumonoidea;Familia;"Avispas ichneumónidas; parasitoides de cuerpo esbelto y antenas largas, poseedoras de larguísimos ovipositores taladradores"
-Braconidae;Ichneumonoidea;Familia;"Avispas bracónidas; diminutos parasitoides benéficos que depositan huevos dentro de pulgones y orugas plaga agrícolas"
-Chalcididae;Chalcidoidea;Familia;"Avispas calcídidas; robustas y de fémures traseros muy agrandados, parasitoides de pupas de lepidópteros y dípteros"
+Nymphalidae;Papilionoidea;Familia;Mariposas de patas de cepillo; la familia más grande de mariposas diurnas, con patas delanteras reducidas no funcionales
+Papilionidae;Papilionoidea;Familia;Mariposas cola de golondrina; grandes, vistosas y elegantes, cuyas orugas poseen un órgano defensivo glandular oloroso (osmaterio)
+Siricidae;Siricoidea;Familia;Avispas de la madera cola de cuerno; los adultos taladran troncos y sus larvas se alimentan de hongos simbiontes
+Tenthredinidae;Tenthredinoidea;Familia;Moscas de sierra comunes; himenópteros fitófagos cuyas larvas gregarias imitan orugas de mariposa devorando hojas
+Evaniidae;Evanioidea;Familia;Avispas bandera; pequeños himenópteros parasitoides que destruyen las ootecas (huevos) de cucarachas dentro de hogares
+Ichneumonidae;Ichneumonoidea;Familia;Avispas ichneumónidas; parasitoides de cuerpo esbelto y antenas largas, poseedoras de larguísimos ovipositores taladradores
+Braconidae;Ichneumonoidea;Familia;Avispas bracónidas; diminutos parasitoides benéficos que depositan huevos dentro de pulgones y orugas plaga agrícolas
+Chalcididae;Chalcidoidea;Familia;Avispas calcídidas; robustas y de fémures traseros muy agrandados, parasitoides de pupas de lepidópteros y dípteros
 Aphelinidae;Chalcidoidea;Familia;Pequeñísimas avispitas parasitoides utilizadas exitosamente en el control biológico de cochinillas y moscas blancas
 Encyrtidae;Chalcidoidea;Familia;Avispas diminutas que parasitan huevos o ninfas de insectos chupadores, de enorme relevancia en la agricultura sostenible
 Eulophidae;Chalcidoidea;Familia;Familia hiperdiversa de microavispas parasitoides que atacan larvas minadoras de hojas, trips y escarabajos barrenadores
 Pteromalidae;Chalcidoidea;Familia;Avispitas parasitoides generalistas que atacan una vasta gama de insectos ocultos en agallas, granos o madera
-Trichogrammatidae;Chalcidoidea;Familia;"Avispitas microscópicas parasitoides de huevos de insectos; criadas masivamente para combatir orugas plaga de forma biológica"
+Trichogrammatidae;Chalcidoidea;Familia;Avispitas microscópicas parasitoides de huevos de insectos; criadas masivamente para combatir orugas plaga de forma biológica
 Platygasteridae;Platygastroidea;Familia;Avispas diminutas que parasitan exclusivamente huevos de chinches verdaderas y larvas de mosquitas de las agallas
-Vespidae;Vespoidea;Familia;"Avispas sociales, avispones y avispas alfareras; constructoras de nidos de papel masticado, dotadas de picaduras dolorosas"
-Formicidae;Vespoidea;Familia;"Hormigas; insectos sociales eusociales altamente organizados que dominan casi todos los ecosistemas terrestres del planeta"
-Pompilidae;Vespoidea;Familia;"Avispas de las arañas o cazadoras de tarántulas; avispas solitarias que paralizan arácnidos para alimentar sus larvas"
+Vespidae;Vespoidea;Familia;Avispas sociales, avispones y avispas alfareras; constructoras de nidos de papel masticado, dotadas de picaduras dolorosas
+Formicidae;Vespoidea;Familia;Hormigas; insectos sociales eusociales altamente organizados que dominan casi todos los ecosistemas terrestres del planeta
+Pompilidae;Vespoidea;Familia;Avispas de las arañas o cazadoras de tarántulas; avispas solitarias que paralizan arácnidos para alimentar sus larvas
 Scoliidae;Vespoidea;Familia;Avispas escolíadas robustas y peludas cuyas hembras excavan el suelo para parasitar larvas de escarabajos escarabeidos
-Mutilidae;Vespoidea;Familia;"Hormigas de felpa u ""hormigas terciopelo""; avispas solitarias ápteras muy peludas y de picadura extremadamente dolorosa"
-Sphecidae;Apoidea;Familia;"Avispas excavadoras u avispas de cintura de hilo; paralizan saltamontes u orugas almacenándolos en nidos subterráneos"
-Apidae;Apoidea;Familia;"Abejas verdaderas, abejorros y abejas sin aguijón; polinizadores ecológicos clave productores de cera y miel dulce"
-Panorpidae;Mecoptera;Familia;"Moscas escorpión verdaderas; mecópteros cuyos machos portan genitales inflamados curvados que recuerdan al aguijón del escorpión"
-Tipulidae;Tipuloidea;Familia;"Típulas gigantes o zancudos de río; dípteros inofensivos de patas larguísimas que no consumen sangre"
-Psychodidae;Psychodomorpha;Familia;"Mosquitas de los baños o jejenes; dípteros peludos cuyas larvas habitan filtros biológicos o desagües húmedos"
-Chrinomidae;Chironomoidea;Familia;"Quironómidos; mosquitos que no pican, cuyos machos forman inmensas nubes danzantes crepusculares cerca de lagos"
-Simuliidae;Chironomoidea;Familia;"Jejenes negros u moscas de arena; hembras hematófagas de mordedura dolorosa, vectores de la enfermedad de oncocercosis"
-Culicidae;Culicoidea;Familia;"Mosquitos verdaderos o zancudos; hembras hematófagas vectores mundiales de malaria, dengue, fiebre amarilla y zika"
-Cecidomyiidae;Sciaroidea;Familia;"Mosquitas de las agallas; dípteros diminutos cuyas larvas inducen deformaciones o agallas tumorales en tejidos vegetales"
-Tabanidae;Tabanoidea;Familia;"Tábanos; moscas robustas de ojos coloridos cuyas hembras cortan la piel para succionar sangre de mamíferos"
-Dolichopodidae;Empidoidea;Familia;"Moscas de patas largas; dípteros depredadores de colores metálicos verdes o dorados que habitan zonas húmedas"
-Syrphidae;Syrphoidea;Familia;"Moscas cernícalo; imitan a abejas u avispas y planean estáticamente; sus larvas son voraces devoradoras de pulgones"
-Ulidiidae (Otitidae);Tephritoidea;Familia;"Moscas de alas pintadas u oscilantes; dípteros con patrones alares llamativos que mueven rítmicamente al caminar"
-Tephritidae;Tephritoidea;Familia;"Moscas de las frutas verdaderas; plagas agrícolas temibles cuyas larvas destruyen la pulpa de frutas comerciales"
-Agromyzidae;Opomyzoidea;Familia;"Moscas minadoras de hojas; las larvas trazan túneles blanquecinos serpenteantes dentro del parénquima foliar de cultivos"
-Drosophilidae;Ephydroidea;Familia;"Moscas del vinagre o de la fruta; utilizadas masivamente en estudios genéticos científicos debido a su rápido ciclo"
-Hyppoboscidae;Hippoboscoidea;Familia;"Moscas de los establos o piojos voladores; parásitos hematófagos aplanados y coriáceos de aves y mamíferos."
+Mutilidae;Vespoidea;Familia;Hormigas de felpa u hormigas terciopelo; avispas solitarias ápteras muy peludas y de picadura extremadamente dolorosa
+Sphecidae;Apoidea;Familia;Avispas excavadoras u avispas de cintura de hilo; paralizan saltamontes u orugas almacenándolos en nidos subterráneos
+Apidae;Apoidea;Familia;Abejas verdaderas, abejorros y abejas sin aguijón; polinizadores ecológicos clave productores de cera y miel dulce
+Panorpidae;Mecoptera;Familia;Moscas escorpión verdaderas; mecópteros cuyos machos portan genitales inflamados curvados que recuerdan al aguijón del escorpión
+Tipulidae;Tipuloidea;Familia;Típulas gigantes o zancudos de río; dípteros inofensivos de patas larguísimas que no consumen sangre
+Psychodidae;Psychodomorpha;Familia;Mosquitas de los baños o jejenes; dípteros peludos cuyas larvas habitan filtros biológicos o desagües húmedos
+Chrinomidae;Chironomoidea;Familia;Quironómidos; mosquitos que no pican, cuyos machos forman inmensas nubes danzantes crepusculares cerca de lagos
+Simuliidae;Chironomoidea;Familia;Jejenes negros u moscas de arena; hembras hematófagas de mordedura dolorosa, vectores de la enfermedad de oncocercosis
+Culicidae;Culicoidea;Familia;Mosquitos verdaderos o zancudos; hembras hematófagas vectores mundiales de malaria, dengue, fiebre amarilla y zika
+Cecidomyiidae;Sciaroidea;Familia;Mosquitas de las agallas; dípteros diminutos cuyas larvas inducen deformaciones o agallas tumorales en tejidos vegetales
+Tabanidae;Tabanoidea;Familia;Tábanos; moscas robustas de ojos coloridos cuyas hembras cortan la piel para succionar sangre de mamíferos
+Dolichopodidae;Empidoidea;Familia;Moscas de patas largas; dípteros depredadores de colores metálicos verdes o dorados que habitan zonas húmedas
+Syrphidae;Syrphoidea;Familia;Moscas cernícalo; imitan a abejas u avispas y planean estáticamente; sus larvas son voraces devoradoras de pulgones
+Ulidiidae (Otitidae);Tephritoidea;Familia;Moscas de alas pintadas u oscilantes; dípteros con patrones alares llamativos que mueven rítmicamente al caminar
+Tephritidae;Tephritoidea;Familia;Moscas de las frutas verdaderas; plagas agrícolas temibles cuyas larvas destruyen la pulpa de frutas comerciales
+Agromyzidae;Opomyzoidea;Familia;Moscas minadoras de hojas; las larvas trazan túneles blanquecinos serpenteantes dentro del parénquima foliar de cultivos
+Drosophilidae;Ephydroidea;Familia;Moscas del vinagre o de la fruta; utilizadas masivamente en estudios genéticos científicos debido a su rápido ciclo
+Hyppoboscidae;Hippoboscoidea;Familia;Moscas de los establos o piojos voladores; parásitos hematófagos aplanados y coriáceos de aves y mamíferos.
 Muscidae;Muscoidea;Familia;Familia que aloja a la mosca doméstica común y moscas picadoras de establos de distribución cosmopolita global
-Oestridae;Oestroidea;Familia;"Éstridos; moscas cuyas larvas son parásitas obligadas que se desarrollan bajo la piel o cavidades de mamíferos"
-Tachinidae;Oestroidea;Familia;"Moscas taquínidas; dípteros cubiertos de cerdas gruesas cuyas larvas son parasitoides benéficos de orugas y escarabajos"
-Calliphoridae;Oestroidea;Familia;"Moscas azules o verdes de la carne; polinizadoras y descomponedoras clave, esenciales en la entomología forense criminal"
-Sarcophagidae;Oestroidea;Familia;"Moscas de la carne ajedrezadas; larvíparas, depositan larvas vivas directamente sobre carroña o heridas abiertas de animales"
-Pulicidae;Siphonaptera;Familia;"Pulgas comunes; insectos ápteros hematófagos aplanados lateralmente que parasitan perros, gatos, humanos y ratas urbanas"
-Tungidae;Siphonaptera;Familia;"Pulgas de la arena o niguas; hembras diminutas que se entierran permanentemente bajo la piel de los pies"
-Scolopendridae;Scolopendromorpha;Familia;"Escolopendras gigantes; ciempiés depredadores nocturnos muy veloces dotados de potentes e infalibles forcípulas venenosas"
-Julidae;Julida;Familia;"Milpiés cilíndricos comunes; miriápodos detritívoros herbívoros que segregan fluidos químicos acres defensivos al enrollarse"
-Limulidae;Xiphosura;Familia;"Cangrejos herradura; quelicerados marinos primitivos de sangre azul a base de cobre usada en medicina biológica"
+Oestridae;Oestroidea;Familia;Éstridos; moscas cuyas larvas son parásitas obligadas que se desarrollan bajo la piel o cavidades de mamíferos
+Tachinidae;Oestroidea;Familia;Moscas taquínidas; dípteros cubiertos de cerdas gruesas cuyas larvas son parasitoides benéficos de orugas y escarabajos
+Calliphoridae;Oestroidea;Familia;Moscas azules o verdes de la carne; polinizadoras y descomponedoras clave, esenciales en la entomología forense criminal
+Sarcophagidae;Oestroidea;Familia;Moscas de la carne ajedrezadas; larvíparas, depositan larvas vivas directamente sobre carroña o heridas abiertas de animales
+Pulicidae;Siphonaptera;Familia;Pulgas comunes; insectos ápteros hematófagos aplanados lateralmente que parasitan perros, gatos, humanos y ratas urbanas
+Tungidae;Siphonaptera;Familia;Pulgas de la arena o niguas; hembras diminutas que se entierran permanentemente bajo la piel de los pies
+Scolopendridae;Scolopendromorpha;Familia;Escolopendras gigantes; ciempiés depredadores nocturnos muy veloces dotados de potentes e infalibles forcípulas venenosas
+Julidae;Julida;Familia;Milpiés cilíndricos comunes; miriápodos detritívoros herbívoros que segregan fluidos químicos acres defensivos al enrollarse
+Limulidae;Xiphosura;Familia;Cangrejos herradura; quelicerados marinos primitivos de sangre azul a base de cobre usada en medicina biológica
 Caraboctonidae;Scorpiones;Familia;Escorpiones de los desiertos americanos, cubiertos de setas sensoriales gruesas adaptadas a capturar insectos nocturnos
-Theraphosidae;Araneae;Familia;"Tarántulas verdaderas; arañas gigantes migalomorfas longevas cubiertas de pelos urticantes defensivos que lanzan al aire"
-Theridiidae;Araneae;Familia;"Arañas de telarañas irregulares en forma de nudo; incluye a la peligrosa y famosa viuda negra neurotóxica"
-Sicariidae;Araneae;Familia;"Arañas violinistas y arañas de la arena; su potente veneno de acción citotóxica causa necrosis tisular severa"
-Lycosidae;Araneae;Familia;"Arañas lobo; cazadoras terrestres errantes muy comunes cuyas hembras cargan los sacos de huevos en sus hileras"
+Theraphosidae;Araneae;Familia;Tarántulas verdaderas; arañas gigantes migalomorfas longevas cubiertas de pelos urticantes defensivos que lanzan al aire
+Theridiidae;Araneae;Familia;Arañas de telarañas irregulares en forma de nudo; incluye a la peligrosa y famosa viuda negra neurotóxica
+Sicariidae;Araneae;Familia;Arañas violinistas y arañas de la arena; su potente veneno de acción citotóxica causa necrosis tisular severa
+Lycosidae;Araneae;Familia;Arañas lobo; cazadoras terrestres errantes muy comunes cuyas hembras cargan los sacos de huevos en sus hileras
 Araneidae;Araneae;Familia;Arañas tejedoras de telas orbitales circulares perfectas, dotadas de un abdomen conspicuo y colores variables adaptativos
 Varroidae; Mesostigmata;Familia;Ácaros parásitos externos de las abejas melíferas (Varroa), causantes del colapso y debilitamiento de colmenas mundiales
-Ixodidae;Ixodida;Familia;"Garrapatas duras; ácaros hematófagos provistos de un escudo dorsal rígido, transmisores de la peligrosa enfermedad de Lyme"
-Tetranychidae;Trombidiformes;Familia;"Arañuelas rojas; ácaros fitófagos diminutos que tejen densas telarañas protectoras debilitando severamente el follaje agrícola"
-Sarcoptidae;Sarcoptiformes;Familia;"Ácaros de la sarna; parásitos microscópicos cavadores de túneles epidérmicos intradérmicos causantes de prurito intenso animal"
-Pygnogonidae;Pantopoda;Familia;"Arañas de mar comunes; pantópodos bentónicos con cuerpos reducidos al mínimo, habitantes de arrecifes e hidrozoos"
-Heliasteridae;Forcipulatida;Familia;"Estrellas de mar sol; caracterizadas por poseer múltiples brazos cortos y densos, depredadoras bentónicas intermareales veloces"
+Ixodidae;Ixodida;Familia;Garrapatas duras; ácaros hematófagos provistos de un escudo dorsal rígido, transmisores de la peligrosa enfermedad de Lyme
+Tetranychidae;Trombidiformes;Familia;Arañuelas rojas; ácaros fitófagos diminutos que tejen densas telarañas protectoras debilitando severamente el follaje agrícola
+Sarcoptidae;Sarcoptiformes;Familia;Ácaros de la sarna; parásitos microscópicos cavadores de túneles epidérmicos intradérmicos causantes de prurito intenso animal
+Pygnogonidae;Pantopoda;Familia;Arañas de mar comunes; pantópodos bentónicos con cuerpos reducidos al mínimo, habitantes de arrecifes e hidrozoos
+Heliasteridae;Forcipulatida;Familia;Estrellas de mar sol; caracterizadas por poseer múltiples brazos cortos y densos, depredadoras bentónicas intermareales veloces
 Asteriidae;Forcipulatida;Familia;Estrellas de mar comunes que incluyen a la estrella purpúrea, depredadoras formidables de bivalvos mediante estómago evaginable
-Ophiotrichidae;Amphilepidida;Familia;"Ofiuras espinosas; equinodermos de brazos delgados, frágiles y espinosos que se mueven serpenteando rápidamente entre rocas"
+Ophiotrichidae;Amphilepidida;Familia;Ofiuras espinosas; equinodermos de brazos delgados, frágiles y espinosos que se mueven serpenteando rápidamente entre rocas
 Arbaciidae;Arbacioida;Familia;Erizos de mar regulares de conchas macizas y espinas robustas oscuras, habitantes de fondos rocosos litorales
-Cucumariidae;Dendrochirotida;Familia;"Pepinos de mar ramificados; holoturias bentónicas con vistosos tentáculos bucales arborescentes empleados para filtrar alimento planctónico"
-Ptychoderidae;Enteropneusta;Familia;"Gusanos de bellota marinos; hemicordados excavadores que habitan en túneles arenosos de playas lodosas intermareales"
-Branchiostomatidae;Amphioxiformes;Familia;"Anfioxos o lancetas; pequeños cordados pisciformes transparentes que carecen de cerebro diferenciado o vértebras óseas"
-Ascidiidae;Phlebobranchia;Familia;"Ascidias solitarias bentónicas fijas; tunicados con dos sifones filtradores que se alimentan absorbiendo agua marina continuamente"
-Pyrosomatidae;Pyrosomatida;Familia;"Pirosomas; colonias flotantes tubulares transparentes de tunicados pelágicos con una asombrosa bioluminiscencia azul verdosa intensa"
+Cucumariidae;Dendrochirotida;Familia;Pepinos de mar ramificados; holoturias bentónicas con vistosos tentáculos bucales arborescentes empleados para filtrar alimento planctónico
+Ptychoderidae;Enteropneusta;Familia;Gusanos de bellota marinos; hemicordados excavadores que habitan en túneles arenosos de playas lodosas intermareales
+Branchiostomatidae;Amphioxiformes;Familia;Anfioxos o lancetas; pequeños cordados pisciformes transparentes que carecen de cerebro diferenciado o vértebras óseas
+Ascidiidae;Phlebobranchia;Familia;Ascidias solitarias bentónicas fijas; tunicados con dos sifones filtradores que se alimentan absorbiendo agua marina continuamente
+Pyrosomatidae;Pyrosomatida;Familia;Pirosomas; colonias flotantes tubulares transparentes de tunicados pelágicos con una asombrosa bioluminiscencia azul verdosa intensa
 Doliolidae;Doliolida;Familia;Pequeños tunicados planctónicos con forma de barril cilíndrico que alternan generaciones reproductivas sexuales y asexuales flotantes
-Oikopleuridae;Copelata;Familia;"Apendicularios planctónicos que retienen la cola toda su vida, construyendo complejas ""casas"" mucosas filtradoras descartables"
-Myxinidae;Mixiniformes;Familia;"Mixinos o peces bruja; vertebrados bentónicos carroñeros sin mandíbulas que producen colosales masas mucosas defensivas"
-Petromyzontidae ; Petromyzontiformes;Familia;"Lampreas verdaderas; peces parásitos de boca circular dentada succionadora que se fijan a la piel de hospederos"
+Oikopleuridae;Copelata;Familia;Apendicularios planctónicos que retienen la cola toda su vida, construyendo complejas casas mucosas filtradoras descartables
+Myxinidae;Mixiniformes;Familia;Mixinos o peces bruja; vertebrados bentónicos carroñeros sin mandíbulas que producen colosales masas mucosas defensivas
+Petromyzontidae ; Petromyzontiformes;Familia;Lampreas verdaderas; peces parásitos de boca circular dentada succionadora que se fijan a la piel de hospederos
  Cephalaspididae†;Cephalaspida†;Familia;Peces ostracodermos extintos sin mandíbulas, poseedores de un masivo escudo cefálico óseo semicircular aplanado fósil
  Dunkleosteidae†;Arthrodira†;Familia;Grandes peces placodermos depredadores prehistóricos marinos cuyas mandíbulas poseían placas óseas cortantes como cuchillas
  Acanthodidae†;Acanthodiformes†;Familia;Tiburones espinosos extintos del Paleozoico, caracterizados por poseer aletas sostenidas por largas espinas óseas rígidas
-Lamnidae;Lamniformes;Familia;"Jaquetones y marrajos; tiburones masivos de sangre parcialmente caliente, nadadores oceánicos ultra veloces de dientes aserrados"
-Megachasmidae;Lamniformes;Familia;"Familia del tiburón boquiancho; gigantesco y rarísimo tiburón filtrador de aguas profundas con boca luminiscente"
-Alopiidae;Lamniformes;Familia;"Tiburones zorro; caracterizados por una aleta caudal asombrosamente larga usada como látigo para aturdir peces forrajeros"
-Triakidae;Carcharhiniformes;Familia;"Tiburones musola o tollo; condrictios pequeños de ojos ovalados y dientes trituradores planos para consumir crustáceos"
-Carcharhinidae;Carcharhiniformes;Familia;"Tiburones de arrecife, tintoreras y tiburones toro; la familia de depredadores ápice marinos más diversa del mundo"
-Sphyrnidae;Carcharhiniformes;Familia;"Tiburones martillo; poseedores de extensiones cefálicas laterales planas (cefalofor) que optimizan su visión y electrorecepción sensorial"
+Lamnidae;Lamniformes;Familia;Jaquetones y marrajos; tiburones masivos de sangre parcialmente caliente, nadadores oceánicos ultra veloces de dientes aserrados
+Megachasmidae;Lamniformes;Familia;Familia del tiburón boquiancho; gigantesco y rarísimo tiburón filtrador de aguas profundas con boca luminiscente
+Alopiidae;Lamniformes;Familia;Tiburones zorro; caracterizados por una aleta caudal asombrosamente larga usada como látigo para aturdir peces forrajeros
+Triakidae;Carcharhiniformes;Familia;Tiburones musola o tollo; condrictios pequeños de ojos ovalados y dientes trituradores planos para consumir crustáceos
+Carcharhinidae;Carcharhiniformes;Familia;Tiburones de arrecife, tintoreras y tiburones toro; la familia de depredadores ápice marinos más diversa del mundo
+Sphyrnidae;Carcharhiniformes;Familia;Tiburones martillo; poseedores de extensiones cefálicas laterales planas (cefalofor) que optimizan su visión y electrorecepción sensorial
 Rhincodontidae;Orectolobiformes;Familia;Familia monotípica del tiburón ballena, el pez viviente más grande del planeta, pacífico filtrador planctónico tropical
-Etmopteridae;Squatiniformes;Familia;"Tiburones linterna; pequeños escualiformes de profundidad provistos de fotóforos ventrales emisores de luz bioluminiscente verdosa"
-Squatinidae;Squatiniformes;Familia;"Tiburones ángel o angelotes; cuerpos aplanados tipo raya adaptados para emboscar peces enterrados en la arena"
-Dasyatidae;Myliobatiformes;Familia;"Rayas de látigo comunes; condrictios bentónicos circulares armados con uno o más aguijones venenosos aserrados caudales"
-Potamotrygonidae;Myliobatiformes;Familia;"Rayas de aguijón de agua dulce; exclusivas de sistemas fluviales sudamericanos, con vistosos patrones de manchas circulares"
-Myliobatidae;Myliobatiformes;Familia;"Rayas águila; condrictios pelágicos de cabeza elevada y aletas pectorales puntiagudas que nadan batiéndolas como alas"
-Mobulidae;Myliobatiformes;Familia;"Mantarrayas gigantes y móbulas; majestuosos filtradores pelágicos provistos de lóbulos cefálicos que dirigen el plancton bucal"
-Rajidae;Rajiformes;Familia;"Rayas verdaderas u rayas de clavos; bivalvos bentónicos ovíparos cuyas cápsulas de huevos se conocen como monederos"
-Torpedinidae;Torpediniformes;Familia;"Rayas tembladeras eléctricas; cuerpos circulares carnosos capaces de emitir potentes descargas eléctricas de alto voltaje defensivo"
-Callorhinchidae;Chimaeriformes;Familia;"Peces elefante o quimeras de hocico de arado; condrictios de aguas profundas australes con probóscide ganchuda"
-Polypteridae;Polypteriformes;Familia;"Bichires africanos; peces primitivos con pulmones funcionales, escamas ganoides duras y aletas dorsales divididas en pinas"
-Acipenseridae;Acipenseriformes;Familia;"Esturiones verdaderos; grandes peces fluviales barbudos cuyas preciadas puestas de huevos constituyen el cotizado caviar comercial"
-Polyodontidae;Acipenseriformes;Familia;"Peces espátula; dulceacuícolas primitivos con hocicos gigantescos en forma de paleta cubiertos de electrorreceptores filtradores"
- Amiidae ; Amiiformes;Familia;"Peces amia; representados hoy por una sola especie norteamericana capaz de respirar aire atmosférico en pantanos oxigenados"
-Lepisosteidae;Lepisosteiformes;Familia;"Pejeslagartos o gares; peces alargados prehistóricos de mandíbulas repletas de dientes agudos y escamas romboidales duras"
+Etmopteridae;Squatiniformes;Familia;Tiburones linterna; pequeños escualiformes de profundidad provistos de fotóforos ventrales emisores de luz bioluminiscente verdosa
+Squatinidae;Squatiniformes;Familia;Tiburones ángel o angelotes; cuerpos aplanados tipo raya adaptados para emboscar peces enterrados en la arena
+Dasyatidae;Myliobatiformes;Familia;Rayas de látigo comunes; condrictios bentónicos circulares armados con uno o más aguijones venenosos aserrados caudales
+Potamotrygonidae;Myliobatiformes;Familia;Rayas de aguijón de agua dulce; exclusivas de sistemas fluviales sudamericanos, con vistosos patrones de manchas circulares
+Myliobatidae;Myliobatiformes;Familia;Rayas águila; condrictios pelágicos de cabeza elevada y aletas pectorales puntiagudas que nadan batiéndolas como alas
+Mobulidae;Myliobatiformes;Familia;Mantarrayas gigantes y móbulas; majestuosos filtradores pelágicos provistos de lóbulos cefálicos que dirigen el plancton bucal
+Rajidae;Rajiformes;Familia;Rayas verdaderas u rayas de clavos; bivalvos bentónicos ovíparos cuyas cápsulas de huevos se conocen como monederos
+Torpedinidae;Torpediniformes;Familia;Rayas tembladeras eléctricas; cuerpos circulares carnosos capaces de emitir potentes descargas eléctricas de alto voltaje defensivo
+Callorhinchidae;Chimaeriformes;Familia;Peces elefante o quimeras de hocico de arado; condrictios de aguas profundas australes con probóscide ganchuda
+Polypteridae;Polypteriformes;Familia;Bichires africanos; peces primitivos con pulmones funcionales, escamas ganoides duras y aletas dorsales divididas en pinas
+Acipenseridae;Acipenseriformes;Familia;Esturiones verdaderos; grandes peces fluviales barbudos cuyas preciadas puestas de huevos constituyen el cotizado caviar comercial
+Polyodontidae;Acipenseriformes;Familia;Peces espátula; dulceacuícolas primitivos con hocicos gigantescos en forma de paleta cubiertos de electrorreceptores filtradores
+ Amiidae ; Amiiformes;Familia;Peces amia; representados hoy por una sola especie norteamericana capaz de respirar aire atmosférico en pantanos oxigenados
+Lepisosteidae;Lepisosteiformes;Familia;Pejeslagartos o gares; peces alargados prehistóricos de mandíbulas repletas de dientes agudos y escamas romboidales duras
 Osteoglossidae;Osteoglossiformes;Familia;Peces lengua ósea que incluyen al gigantesco pirarucú amazónico o arawanas, capaces de saltar fuera del agua
-Clupeidae;Clupeiformes;Familia;"Arenques, sardinas y alachas; peces forrajeros plateados de hábitos gregarios densos, vitales para las pesquerías mundiales"
-Engraulidae;Clupeiformes;Familia;"Anchovetas y boquerones; pequeños peces plateados de bocas grandes filtradoras, pilares energéticos de las corrientes marinas"
-Characidae;     Characiformes;Familia;"Tetras y pirañas; la familia más diversa de peces dulceacuícolas americanos, poseedores de una pequeña aleta adiposa"
-Prochilodontidae;     Characiformes;Familia;"Boquichicos o sábalos; peces fluviales sudamericanos migradores con labios carnosos succionadores para alimentarse de detritos lodosos"
+Clupeidae;Clupeiformes;Familia;Arenques, sardinas y alachas; peces forrajeros plateados de hábitos gregarios densos, vitales para las pesquerías mundiales
+Engraulidae;Clupeiformes;Familia;Anchovetas y boquerones; pequeños peces plateados de bocas grandes filtradoras, pilares energéticos de las corrientes marinas
+Characidae;     Characiformes;Familia;Tetras y pirañas; la familia más diversa de peces dulceacuícolas americanos, poseedores de una pequeña aleta adiposa
+Prochilodontidae;     Characiformes;Familia;Boquichicos o sábalos; peces fluviales sudamericanos migradores con labios carnosos succionadores para alimentarse de detritos lodosos
 Curimatidae;     Characiformes;Familia;Peces fluviales detritívoros neotropicales que carecen por completo de dientes en sus mandíbulas de adultos filtradores
-Serrasalmidae;     Characiformes;Familia;"Pirañas verdaderas y pacúes; peces de cuerpos comprimidos y dientes afilados cortantes o molares adaptados a semillas"
-Anostomidae;     Characiformes;Familia;"Peces cabecera abajo; dulceacuícolas sudamericanos que nadan oblicuamente orientados hacia el fondo buscando algas e insectos"
-Lebiasinidae;     Characiformes;Familia;"Peces lápiz y peces copetón; pequeños caraciformes dulceacuícolas muy populares en el acuarismo por sus bandas longitudinales"
-Salmonidae;Salmoniformes;Familia;"Salmones, truchas y tímalo; peces eurihalinos valorados por su carne, famosos por sus saltos migratorios fluviales"
-Cyprinidae;Cypriniformes;Familia;"Carpas, barbos y danios; la familia de peces óseos de agua dulce más numerosa del planeta"
-Gymnotidae;Gymnotiformes;Familia;"Peces cuchillo o anguilas eléctricas americanas; generan descargas de alto voltaje para cazar y defenderse subterráneamente"
-Apteronotidae;Gymnotiformes;Familia;"Peces cuchillo fantasmas; peces eléctricos débiles de agua dulce que usan su campo electromagnético para navegar de noche"
-Sternopygidae;Gymnotiformes;Familia;"Peces vidrio eléctricos; dulceacuícolas translúcidos de aletas anales larguísimas distribuidos en ríos de Sudamérica y Centroamérica"
-Cetopsidae;Siluriformes;Familia;"Bagres ballena; pequeños siluriformes de agua dulce neotropicales de hábitos carnívoros o carroñeros sumamente agresivos y voraces"
-Callichthyidae;Siluriformes;Familia;"Bagres acorazados o coridoras; pequeños peces de fondo dulceacuícolas cubiertos por dos hileras superpuestas de placas óseas"
-Loricariidae;Siluriformes;Familia;"Viejas del agua o bagres ventosa; poseedores de bocas modificadas en ventosa para raspar algas de rocas"
-Astroblepidae;Siluriformes;Familia;"Bagres de torrentes andinos; capaces de escalar cascadas verticales de agua usando su boca ventosa y aletas pélvicas"
-Pimelodidae;Siluriformes;Familia;"Bagres antenados grandes como el surubí; dulceacuícolas neotropicales de largas barbillas sensoriales y hábitos depredadores piscívoros"
-Gobiesocidae;Blenniiformes;Familia;"Peces ventosa litorales; pequeños peces marinos con aletas pélvicas modificadas en un potente disco succionador ventral"
-Mugilidae;Mugiliformes;Familia;"Lisas o múgiles; peces costeros de hábitos filtradores que saltan espectacularmente sobre la superficie del agua marina"
-Gobiidae;Gobiiformes;Familia;"Gobios verdaderos; peces de fondo pequeños con aletas pélvicas fusionadas en ventosa, muy diversos en arrecifes"
-Scombridae;Scombriformes;Familia;"Atunes, bonitos y caballas; peces oceánicos pelágicos de musculatura roja adaptados a nadar a velocidades extremas continuas"
-Carangidae;Carangiformes;Familia;"Jureles, pámpanos y serviolas; depredadores marinos rápidos de colas fuertemente ahorquilladas y escudos laterales óseos caudales"
-Bothidae;Carangiformes;Familia;"Lenguados de ojos izquierdos; peces planos marinos camaleónicos cuyos ojos migran al lado izquierdo de la cabeza"
-Sciaenidae;Acanthuriformes;Familia;"Corvinas y tambores; peces marinos famosos por producir sonidos rítmicos roncantes usando su desarrollada vejiga natatoria muscular"
-Latimeriidae;Coelacanthiformes;Familia;"Celacantos modernos; peces sarcopterigios de aletas lobuladas profundas que representan linajes evolutivos marinos del Devónico"
-Neoceratodontidae; Ceratodontiformes;Familia;"Pez pulmonado australiano; posee una sola vejiga gaseosa adaptada a respirar aire puro si escasea el oxígeno"
-Lepidosirenidae; Ceratodontiformes;Familia;"Pez pulmonado sudamericano u locha; posee pulmones pares obligados y entra en estivación enterrado en el lodo"
+Serrasalmidae;     Characiformes;Familia;Pirañas verdaderas y pacúes; peces de cuerpos comprimidos y dientes afilados cortantes o molares adaptados a semillas
+Anostomidae;     Characiformes;Familia;Peces cabecera abajo; dulceacuícolas sudamericanos que nadan oblicuamente orientados hacia el fondo buscando algas e insectos
+Lebiasinidae;     Characiformes;Familia;Peces lápiz y peces copetón; pequeños caraciformes dulceacuícolas muy populares en el acuarismo por sus bandas longitudinales
+Salmonidae;Salmoniformes;Familia;Salmones, truchas y tímalo; peces eurihalinos valorados por su carne, famosos por sus saltos migratorios fluviales
+Cyprinidae;Cypriniformes;Familia;Carpas, barbos y danios; la familia de peces óseos de agua dulce más numerosa del planeta
+Gymnotidae;Gymnotiformes;Familia;Peces cuchillo o anguilas eléctricas americanas; generan descargas de alto voltaje para cazar y defenderse subterráneamente
+Apteronotidae;Gymnotiformes;Familia;Peces cuchillo fantasmas; peces eléctricos débiles de agua dulce que usan su campo electromagnético para navegar de noche
+Sternopygidae;Gymnotiformes;Familia;Peces vidrio eléctricos; dulceacuícolas translúcidos de aletas anales larguísimas distribuidos en ríos de Sudamérica y Centroamérica
+Cetopsidae;Siluriformes;Familia;Bagres ballena; pequeños siluriformes de agua dulce neotropicales de hábitos carnívoros o carroñeros sumamente agresivos y voraces
+Callichthyidae;Siluriformes;Familia;Bagres acorazados o coridoras; pequeños peces de fondo dulceacuícolas cubiertos por dos hileras superpuestas de placas óseas
+Loricariidae;Siluriformes;Familia;Viejas del agua o bagres ventosa; poseedores de bocas modificadas en ventosa para raspar algas de rocas
+Astroblepidae;Siluriformes;Familia;Bagres de torrentes andinos; capaces de escalar cascadas verticales de agua usando su boca ventosa y aletas pélvicas
+Pimelodidae;Siluriformes;Familia;Bagres antenados grandes como el surubí; dulceacuícolas neotropicales de largas barbillas sensoriales y hábitos depredadores piscívoros
+Gobiesocidae;Blenniiformes;Familia;Peces ventosa litorales; pequeños peces marinos con aletas pélvicas modificadas en un potente disco succionador ventral
+Mugilidae;Mugiliformes;Familia;Lisas o múgiles; peces costeros de hábitos filtradores que saltan espectacularmente sobre la superficie del agua marina
+Gobiidae;Gobiiformes;Familia;Gobios verdaderos; peces de fondo pequeños con aletas pélvicas fusionadas en ventosa, muy diversos en arrecifes
+Scombridae;Scombriformes;Familia;Atunes, bonitos y caballas; peces oceánicos pelágicos de musculatura roja adaptados a nadar a velocidades extremas continuas
+Carangidae;Carangiformes;Familia;Jureles, pámpanos y serviolas; depredadores marinos rápidos de colas fuertemente ahorquilladas y escudos laterales óseos caudales
+Bothidae;Carangiformes;Familia;Lenguados de ojos izquierdos; peces planos marinos camaleónicos cuyos ojos migran al lado izquierdo de la cabeza
+Sciaenidae;Acanthuriformes;Familia;Corvinas y tambores; peces marinos famosos por producir sonidos rítmicos roncantes usando su desarrollada vejiga natatoria muscular
+Latimeriidae;Coelacanthiformes;Familia;Celacantos modernos; peces sarcopterigios de aletas lobuladas profundas que representan linajes evolutivos marinos del Devónico
+Neoceratodontidae; Ceratodontiformes;Familia;Pez pulmonado australiano; posee una sola vejiga gaseosa adaptada a respirar aire puro si escasea el oxígeno
+Lepidosirenidae; Ceratodontiformes;Familia;Pez pulmonado sudamericano u locha; posee pulmones pares obligados y entra en estivación enterrado en el lodo
 Allophrynidae;Anura;Familia;Pequeñas ranas arborícolas amazónicas de cuerpos moteados asociadas evolutivamente a las ranas de cristal centrolénidas
-Alytidae;Anura;Familia;"Sapos parteros comunes; los machos cargan los cordones de huevos fertilizados enroscados en sus patas traseras terrestres"
-Aromobatidae;Anura;Familia;"Ranas niñeras; estrechamente emparentadas con las dendrobátidas, transportan activamente sus renacuajos a la espalda hacia riachuelos"
-Arthroleptidae;Anura;Familia;"Ranas chillonas africanas de hojarasca; incluye a la rana peluda cuyos machos desarrollan extensiones dérmicas tipo pelo"
-Brachycephalidae;Anura;Familia;"Sapitos de calabaza dorados brasileños; diminutos anuros terrestres hiper-minimizados que carecen de oído medio funcional"
-Bufonidae;Anura;Familia;"Sapos verdaderos; caracterizados por pieles rugosas verrugosas y prominentes glándulas parotoides productoras de toxinas bufoteninas defensivas"
-Calyptocephalellidae;Anura;Familia;"Ranas de casco chilenas; gigantescos anuros acuáticos relictos considerados fósiles vivientes de los bosques templados australes"
-Centrolenidae;Anura;Familia;"Viejas del agua o bagres ventosa; poseedores de bocas modificadas en ventosa para raspar algas de rocas"
-Ceuthomantidae;Anura;Familia;"Ranas de las tierras altas de Guayana; pequeños anuros arborícolas endémicos que habitan tepuyes venezolanos aislados"
-Craugastoridae;Anura;Familia;"Ranas de hojarasca americanas de desarrollo directo; sus huevos eclosionan como ranitas completamente formadas sin pasar por renacuajo"
-Cycloramphidae;Anura;Familia;"Ranas de hojarasca brasileñas; habitan en arroyos forestales de la mata atlántica sobre rocas húmedas salpicadas"
-Dendrobatidae;Anura;Familia;"Ranas punta de flecha; anuros diurnos neotropicales sumamente coloridos que segregan potentes alcaloides neurotóxicos cutáneos defensivos"
-Eleutherodactylidae;Anura;Familia;"Ranas de lluvia que incluyen al coquí puertorriqueño; anuros de desarrollo directo con cantos nocturnos potentes"
-Heleophrynidae;Anura;Familia;"Ranas de los torrentes sudafricanas; de dedos expandidos adaptados a aferrarse a rocas bajo cascadas fluviales rápidas"
-Hemiphractidae;Anura;Familia;"Ranas marsupiales; las hembras cargan los huevos fertilizados expuestos o dentro de sacos dorsales cutáneos protectores"
-Hylodidae;Anura;Familia;"Ranas de torrente brasileñas que se comunican visualmente mediante elaborados movimientos de patas (""baile"") en ríos ruidosos"
-Leiopelmatidae;Anura;Familia;"Ranas nativas de Nueva Zelanda; el linaje de anuros vivientes más primitivo, carecen de timpanos externos"
-Leiuperidae;Anura;Familia;"Sapitos de cuatro ojos; pequeños anuros terrestres neotropicales con llamativos ocelos posteriores que simulan ojos grandes disuasorios"
-Leptodactylidae;Anura;Familia;"Ranas de dedos delgados; construyen característicos nidos de espuma flotante en charcas para proteger sus puestas ovíparas"
-Limnodynastidae;Anura;Familia;"Ranas terrestres australianas cavadoras; construyen nidos de espuma batiendo el agua con sus manos antes de desovar"
-Megophrydae;Anura;Familia;"Ranas de hojarasca asiáticas u ranas con cuernos; camuflaje críptico perfecto imitando hojas secas con proyecciones palpebrale"
-Micrixalidae;Anura;Familia;"Ranas de boca estrecha u ranas globosas; adaptadas a dietas mirmecófagas de hormigas, habitan madrigueras subterráneas húmedas"
-Microhylidae;Anura;Familia;"Ranas de boca estrecha u ranas globosas; adaptadas a dietas mirmecófagas de hormigas, habitan madrigueras subterráneas húmedas"
+Alytidae;Anura;Familia;Sapos parteros comunes; los machos cargan los cordones de huevos fertilizados enroscados en sus patas traseras terrestres
+Aromobatidae;Anura;Familia;Ranas niñeras; estrechamente emparentadas con las dendrobátidas, transportan activamente sus renacuajos a la espalda hacia riachuelos
+Arthroleptidae;Anura;Familia;Ranas chillonas africanas de hojarasca; incluye a la rana peluda cuyos machos desarrollan extensiones dérmicas tipo pelo
+Brachycephalidae;Anura;Familia;Sapitos de calabaza dorados brasileños; diminutos anuros terrestres hiper-minimizados que carecen de oído medio funcional
+Bufonidae;Anura;Familia;Sapos verdaderos; caracterizados por pieles rugosas verrugosas y prominentes glándulas parotoides productoras de toxinas bufoteninas defensivas
+Calyptocephalellidae;Anura;Familia;Ranas de casco chilenas; gigantescos anuros acuáticos relictos considerados fósiles vivientes de los bosques templados australes
+Centrolenidae;Anura;Familia;Viejas del agua o bagres ventosa; poseedores de bocas modificadas en ventosa para raspar algas de rocas
+Ceuthomantidae;Anura;Familia;Ranas de las tierras altas de Guayana; pequeños anuros arborícolas endémicos que habitan tepuyes venezolanos aislados
+Craugastoridae;Anura;Familia;Ranas de hojarasca americanas de desarrollo directo; sus huevos eclosionan como ranitas completamente formadas sin pasar por renacuajo
+Cycloramphidae;Anura;Familia;Ranas de hojarasca brasileñas; habitan en arroyos forestales de la mata atlántica sobre rocas húmedas salpicadas
+Dendrobatidae;Anura;Familia;Ranas punta de flecha; anuros diurnos neotropicales sumamente coloridos que segregan potentes alcaloides neurotóxicos cutáneos defensivos
+Eleutherodactylidae;Anura;Familia;Ranas de lluvia que incluyen al coquí puertorriqueño; anuros de desarrollo directo con cantos nocturnos potentes
+Heleophrynidae;Anura;Familia;Ranas de los torrentes sudafricanas; de dedos expandidos adaptados a aferrarse a rocas bajo cascadas fluviales rápidas
+Hemiphractidae;Anura;Familia;Ranas marsupiales; las hembras cargan los huevos fertilizados expuestos o dentro de sacos dorsales cutáneos protectores
+Hylodidae;Anura;Familia;Ranas de torrente brasileñas que se comunican visualmente mediante elaborados movimientos de patas (baile) en ríos ruidosos
+Leiopelmatidae;Anura;Familia;Ranas nativas de Nueva Zelanda; el linaje de anuros vivientes más primitivo, carecen de timpanos externos
+Leiuperidae;Anura;Familia;Sapitos de cuatro ojos; pequeños anuros terrestres neotropicales con llamativos ocelos posteriores que simulan ojos grandes disuasorios
+Leptodactylidae;Anura;Familia;Ranas de dedos delgados; construyen característicos nidos de espuma flotante en charcas para proteger sus puestas ovíparas
+Limnodynastidae;Anura;Familia;Ranas terrestres australianas cavadoras; construyen nidos de espuma batiendo el agua con sus manos antes de desovar
+Megophrydae;Anura;Familia;Ranas de hojarasca asiáticas u ranas con cuernos; camuflaje críptico perfecto imitando hojas secas con proyecciones palpebrale
+Micrixalidae;Anura;Familia;Ranas de boca estrecha u ranas globosas; adaptadas a dietas mirmecófagas de hormigas, habitan madrigueras subterráneas húmedas
+Microhylidae;Anura;Familia;Ranas de boca estrecha u ranas globosas; adaptadas a dietas mirmecófagas de hormigas, habitan madrigueras subterráneas húmedas
 Myobatrachidae;Anura;Familia;Ranas australianas terrestres que incluyen a la extinta rana de incubación gástrica, que criaba renacuajos en su estómago
-Pelobatidae;Anura;Familia;"Sapos de espuela europeos; poseen tubérculos endurecidos en las patas traseras para enterrarse rápidamente de espaldas en arena"
-Phrynobatrachidae;Anura;Familia;"Ranas de charca africanas; pequeños anuros hiperdiversos de humedales provistos de una línea vertebral clara muy variable"
+Pelobatidae;Anura;Familia;Sapos de espuela europeos; poseen tubérculos endurecidos en las patas traseras para enterrarse rápidamente de espaldas en arena
+Phrynobatrachidae;Anura;Familia;Ranas de charca africanas; pequeños anuros hiperdiversos de humedales provistos de una línea vertebral clara muy variable
 Pipidae;Anura;Familia;Ranas acuáticas sin lengua como la rana de garras africana o el sapo de Surinam de cuerpo aplastado
-Ranidae;Anura;Familia;"Ranas verdaderas de charca; nadadoras y saltadoras expertas de patas largas palmeadas distribuidas de forma cosmopolita global"
+Ranidae;Anura;Familia;Ranas verdaderas de charca; nadadoras y saltadoras expertas de patas largas palmeadas distribuidas de forma cosmopolita global
 Ranixalidae;Anura;Familia;Ranas arborícolas de la India cuyas larvas rupícolas reptan sobre rocas húmedas fuera del agua usando colas fuertes
-Rhinophrynidae;Anura;Familia;"Sapo mexicano de madriguera; cuerpo globular cónico especializado en alimentarse exclusivamente de hormigas y termitas bajo tierra"
-Scaphiopodidae;Anura;Familia;"Sapos de espuela norteamericanos; anuros de pupilas verticales que emergen masivamente solo durante lluvias torrenciales desérticas"
+Rhinophrynidae;Anura;Familia;Sapo mexicano de madriguera; cuerpo globular cónico especializado en alimentarse exclusivamente de hormigas y termitas bajo tierra
+Scaphiopodidae;Anura;Familia;Sapos de espuela norteamericanos; anuros de pupilas verticales que emergen masivamente solo durante lluvias torrenciales desérticas
 Strabomantidae;Anura;Familia;Ranas terrestres neotropicales de desarrollo directo de hojarasca, separadas recientemente de la gran familia de los craugastóridos
-Ambystomatidae;Caudata;Familia;"Salamandras topo americanas; incluye al famoso ajolote, conocido por su capacidad de mantener rasgos larvales de adulto (neotenia)"
+Ambystomatidae;Caudata;Familia;Salamandras topo americanas; incluye al famoso ajolote, conocido por su capacidad de mantener rasgos larvales de adulto (neotenia)
 Amphiumidae;Caudata;Familia;Anfibios alargados con forma de anguila y patas diminutas vestigiales, habitantes de pantanos y lodos del sureste norteamericano
-Cryptobranchidae;Caudata;Familia;"Salamandras gigantes de Asia y Norteamérica; anfibios acuáticos masivos de respiración cutánea mediante pliegues laterales de la piel"
-Plethodontidae;Caudata;Familia;"La familia más grande de salamandras; se caracterizan por carecer completamente de pulmones y respirar por la piel"
+Cryptobranchidae;Caudata;Familia;Salamandras gigantes de Asia y Norteamérica; anfibios acuáticos masivos de respiración cutánea mediante pliegues laterales de la piel
+Plethodontidae;Caudata;Familia;La familia más grande de salamandras; se caracterizan por carecer completamente de pulmones y respirar por la piel
 Proteidae;Caudata;Familia;Salamandras acuáticas permanentes (como el olmo) que retienen branquias ramificadas externas rojas durante toda su vida adulta
-Rhyacotritonidae;Caudata;Familia;"Salamandras torrenteras del noroeste estadounidense; pequeños anuros semiacuáticos adaptados exclusivamente a vivir en arroyos de aguas frías"
-Salamandridae;Caudata;Familia;"Salamandras verdaderas y tritones; caracterizados por poseer pieles rugosas o lisas con potentes secreciones tóxicas cutáneas defensivas"
+Rhyacotritonidae;Caudata;Familia;Salamandras torrenteras del noroeste estadounidense; pequeños anuros semiacuáticos adaptados exclusivamente a vivir en arroyos de aguas frías
+Salamandridae;Caudata;Familia;Salamandras verdaderas y tritones; caracterizados por poseer pieles rugosas o lisas con potentes secreciones tóxicas cutáneas defensivas
 Sirenidae;Caudata;Familia;Anfibios acuáticos alargados con forma de anguila que poseen branquias externas y patas delanteras, careciendo de extremidades posteriores
-Caeciliidae;Gymnophiona;Familia;"Cecilias verdaderas; anfibios ápteros subterráneos de cuerpo anillado y ojos reducidos adaptados por completo a la vida fosorial"
-Sphenodontidae;Sphenodontia;Familia;"Representada únicamente por los tuátaras de Nueva Zelanda; reliquias evolutivas con un característico tercer ojo fotorreceptor parietal"
-Dibamidae;Squamata;Familia;"Lagartos ciegos; reptiles ápteros subterráneos de cuerpos cilíndricos, donde solo los machos retienen diminutas patas traseras vestigiales"
-Gekkonidae;Gekkota;Familia;"Geckos verdaderos; lagartos nocturnos con almohadillas digitales adhesivas que les permiten trepar superficies verticales lisas con facilidad"
-Phyllodactylidae;Gekkota;Familia;"Lagartos de dedos de hoja; escamosos nocturnos boreales y neotropicales caracterizados por expansiones foliares en sus garras digitales"
-Sphaerodactylidae;Gekkota;Familia;"Geckos enanos; incluye a algunos de los reptiles más pequeños del mundo, de hábitos diurnos y pupilas redondeadas"
- Amphisbaenidae ;Amphisbaenia;Familia;"Culebrillas ciegas comunes; reptiles subterráneos sin patas con cráneos macizos adaptados para cavar túneles compactando la tierra"
-Teiidae; Teiioidea;Familia;"Lagartos americanos activos como los tegús; carnívoros u omnívoros veloces de lenguas bífidas largas de aspecto varanoide"
-Iguanidae;Iguania;Familia;"Iguanas verdaderas; reptiles fitófagos robustos de climas cálidos americanos provistos de crestas espinosas dorsales y largas colas"
-Polychrotidae;Iguania;Familia;"Falsos camaleones o anolis arbóreos americanos; pequeños lagartos capaces de cambiar de color con llamativos sacos gulares"
-Tropiduridae;Iguania;Familia;"Lagartos terrestres sudamericanos adaptados a hábitats áridos; terrestres veloces que menean la cola verticalmente como señal social"
-Hoplocercidae;Iguania;Familia;"Lagartos de cola espinosa arbóreos neotropicales; utilizan sus robustas colas armadas de escamas puntiagudas para bloquear madrigueras"
-Diploglossidae;Anguimorpha;Familia;"Lagartos de cristal americanos; escamosos de cuerpos alargados y extremidades reducidas con escamas osteodérmicas lisas sumamente brillantes"
-Helodermatidae;Anguimorpha;Familia;"Monstruos de Gila y lagartos escorpión; los únicos lagartos verdaderamente venenosos, con glándulas salivares modificadas inferiores"
-Boidae;Serpentes;Familia;"Boas; serpientes constrictoras no venenosas que retienen vestigios de extremidades posteriores en forma de espolones cloacales anales"
-Colubridae;Serpentes;Familia;"La familia más grande de serpientes; agrupa especies mayormente inofensivas de escamas lisas y pupilas típicamente redondas"
-Elapidae;Serpentes;Familia;"Serpientes altamente venenosas con colmillos frontales fijos; incluye a las cobras, mambas, corales y letales serpientes marinas"
-Hydrophidae;Serpentes;Familia;"Serpientes marinas verdaderas; elápidos adaptados al océano con colas aplanadas en forma de remo y pulmones alargados"
-Viperidae;Serpentes;Familia;"Víboras y víboras de foseta; serpientes venenosas con colmillos retráctiles largos y cabezas triangulares bien diferenciadas del cuello"
-Cheloniidae;Chelonioidea;Familia;"Tortugas marinas comunes; reptiles marinos con caparazones aerodinámicos y extremidades modificadas en aletas natatorias no retráctiles"
+Caeciliidae;Gymnophiona;Familia;Cecilias verdaderas; anfibios ápteros subterráneos de cuerpo anillado y ojos reducidos adaptados por completo a la vida fosorial
+Sphenodontidae;Sphenodontia;Familia;Representada únicamente por los tuátaras de Nueva Zelanda; reliquias evolutivas con un característico tercer ojo fotorreceptor parietal
+Dibamidae;Squamata;Familia;Lagartos ciegos; reptiles ápteros subterráneos de cuerpos cilíndricos, donde solo los machos retienen diminutas patas traseras vestigiales
+Gekkonidae;Gekkota;Familia;Geckos verdaderos; lagartos nocturnos con almohadillas digitales adhesivas que les permiten trepar superficies verticales lisas con facilidad
+Phyllodactylidae;Gekkota;Familia;Lagartos de dedos de hoja; escamosos nocturnos boreales y neotropicales caracterizados por expansiones foliares en sus garras digitales
+Sphaerodactylidae;Gekkota;Familia;Geckos enanos; incluye a algunos de los reptiles más pequeños del mundo, de hábitos diurnos y pupilas redondeadas
+ Amphisbaenidae ;Amphisbaenia;Familia;Culebrillas ciegas comunes; reptiles subterráneos sin patas con cráneos macizos adaptados para cavar túneles compactando la tierra
+Teiidae; Teiioidea;Familia;Lagartos americanos activos como los tegús; carnívoros u omnívoros veloces de lenguas bífidas largas de aspecto varanoide
+Iguanidae;Iguania;Familia;Iguanas verdaderas; reptiles fitófagos robustos de climas cálidos americanos provistos de crestas espinosas dorsales y largas colas
+Polychrotidae;Iguania;Familia;Falsos camaleones o anolis arbóreos americanos; pequeños lagartos capaces de cambiar de color con llamativos sacos gulares
+Tropiduridae;Iguania;Familia;Lagartos terrestres sudamericanos adaptados a hábitats áridos; terrestres veloces que menean la cola verticalmente como señal social
+Hoplocercidae;Iguania;Familia;Lagartos de cola espinosa arbóreos neotropicales; utilizan sus robustas colas armadas de escamas puntiagudas para bloquear madrigueras
+Diploglossidae;Anguimorpha;Familia;Lagartos de cristal americanos; escamosos de cuerpos alargados y extremidades reducidas con escamas osteodérmicas lisas sumamente brillantes
+Helodermatidae;Anguimorpha;Familia;Monstruos de Gila y lagartos escorpión; los únicos lagartos verdaderamente venenosos, con glándulas salivares modificadas inferiores
+Boidae;Serpentes;Familia;Boas; serpientes constrictoras no venenosas que retienen vestigios de extremidades posteriores en forma de espolones cloacales anales
+Colubridae;Serpentes;Familia;La familia más grande de serpientes; agrupa especies mayormente inofensivas de escamas lisas y pupilas típicamente redondas
+Elapidae;Serpentes;Familia;Serpientes altamente venenosas con colmillos frontales fijos; incluye a las cobras, mambas, corales y letales serpientes marinas
+Hydrophidae;Serpentes;Familia;Serpientes marinas verdaderas; elápidos adaptados al océano con colas aplanadas en forma de remo y pulmones alargados
+Viperidae;Serpentes;Familia;Víboras y víboras de foseta; serpientes venenosas con colmillos retráctiles largos y cabezas triangulares bien diferenciadas del cuello
+Cheloniidae;Chelonioidea;Familia;Tortugas marinas comunes; reptiles marinos con caparazones aerodinámicos y extremidades modificadas en aletas natatorias no retráctiles
  Dermochelyidae;Chelonioidea;Familia;Familia monotípica de la tortuga laúd, la tortuga más grande del mundo, con caparazón coriáceo flexible sin placas
-Testudinidae;Testudinoidea;Familia;"Tortugas terrestres verdaderas; caracterizadas por patas robustas de elefante, caparazones muy convexos y hábitos estrictamente vegetarianos"
-Chelidae; Cheloidea;Familia;"Tortugas de cuello de serpiente australes; pleurodiras de agua dulce que cazan peces mediante una rápida succión mandibular"
-Pelomedusidae; Pelomedusoidea;Familia;"Tortugas de cuello lateral africanas; habitantes dulceacuícolas estacionales que se entierran en el lodo para estivar sequías"
-Alligatoridae;Crocodylia;Familia;"Aligátores y caimanes; crocodilios de hocicos anchos y redondeados donde los dientes inferiores quedan ocultos al cerrar la boca"
-Crocodylidae;Crocodylia;Familia;"Cocodrilos verdaderos; grandes reptiles semiacuáticos con glándulas salinas linguales funcionales y el cuarto diente inferior expuesto externamente"
-Gavialidae;Crocodylia;Familia;"Gaviales; crocodilios piscívoros especializados de hocicos extremadamente largos y delgados repletos de agudos dientes aguja finos"
+Testudinidae;Testudinoidea;Familia;Tortugas terrestres verdaderas; caracterizadas por patas robustas de elefante, caparazones muy convexos y hábitos estrictamente vegetarianos
+Chelidae; Cheloidea;Familia;Tortugas de cuello de serpiente australes; pleurodiras de agua dulce que cazan peces mediante una rápida succión mandibular
+Pelomedusidae; Pelomedusoidea;Familia;Tortugas de cuello lateral africanas; habitantes dulceacuícolas estacionales que se entierran en el lodo para estivar sequías
+Alligatoridae;Crocodylia;Familia;Aligátores y caimanes; crocodilios de hocicos anchos y redondeados donde los dientes inferiores quedan ocultos al cerrar la boca
+Crocodylidae;Crocodylia;Familia;Cocodrilos verdaderos; grandes reptiles semiacuáticos con glándulas salinas linguales funcionales y el cuarto diente inferior expuesto externamente
+Gavialidae;Crocodylia;Familia;Gaviales; crocodilios piscívoros especializados de hocicos extremadamente largos y delgados repletos de agudos dientes aguja finos
  Archaeopterygidae;Saurischia†;Familia;Aves prehistóricas fósiles de transición del Jurásico que combinaban plumas de vuelo con dientes y largas colas óseas
-Struthionidae;Struthioniformes;Familia;"Avestruces; las aves corredoras terrestres más grandes y veloces del planeta, adaptadas a llanuras áridas africanas"
-Casuariidae;Casuariiformes;Familia;"Casuarios y emúes australianos; aves no voladoras de plumaje denso tipo pelo y cascos óseos cefálicos protectores"
-Dromaiidae;Casuariiformes;Familia;"Familia del emú australiano; grandes aves corredoras de patas tridáctilas potentes"
-Rheidae;Rheiformes;Familia;"Ñandúes; grandes aves corredoras no voladoras de las estepas y llanuras abiertas sudamericanas pampeanas"
-Tinamidae;Tinamiformes;Familia;"Tinamúes u oportos; aves terrestres neotropicales voladoras primitivas de plumaje críptico y asombrosos huevos de colores brillantes satinados"
-Apterygidae;Apterygiformes;Familia;"Kiwis; pequeñas aves no voladoras nocturnas neozelandesas con agudo sentido del olfato y fosas nasales puntales"
-Cracidae;Galliformes;Familia;"Paujiles, pavas y chachalacas; aves galliformes arborícolas neotropicales de colas largas de gran importancia ecológica forestal"
-Phasianidae;Galliformes;Familia;"Faisanes, pavos reales, perdices y el gallo doméstico; aves terrestres robustas nidífugas de plumajes masculinos ornamentales ornamentados"
-Anatidae;Anseriformes;Familia;"Patos, gansos y cisnes; aves acuáticas de picos aplanados filtradores y patas palmeadas adaptadas a la natación fluvial"
-Anhimidae;Anseriformes;Familia;"Chajás; aves anátidas terrestres sudamericanas con picos de aspecto gallináceo y fuertes espolones óseos en las alas"
-Spheniscidae;Sphenisciformes;Familia;"Pingüinos; aves marinas no voladoras del hemisferio sur con alas modificadas en rígidas aletas propulsoras buceadoras"
-Pelecanidae;Pelecaniformes;Familia;"Pelícanos; aves acuáticas piscívoras con picos provistos de una gran bolsa gular elástica para capturar peces"
-Ardeidae;Pelecaniformes;Familia;"Garzas; aves zancudas de patas y cuellos largos esbeltos que capturan presas mediante arponeo rápido en humedales"
-Threskiornithidae;Pelecaniformes;Familia;"Ibises y espátulas; aves zancudas de picos larguísimos curvados hacia abajo o aplanados en forma de paleta"
-Sulidae;Suliformes;Familia;"Piqueros y alcatraces; aves marinas pelágicas que cazan lanzándose en espectaculares picados verticales a gran velocidad oceánica"
-Phalacrocoracidae;Suliformes;Familia;"Cormoranes; aves acuáticas buceadoras de plumajes permeables que deben extender al sol para secarse tras pescar"
-Anhingidae;Suliformes;Familia;"Aves serpiente o maras; buceadoras de agua dulce con cuellos delgados que nadan con el cuerpo totalmente sumergido"
-Fregatidae;Suliformes;Familia;"Fragatas; aves marinas de alas inmensas que practican el cleptoparasitismo, robando comida a otras aves en vuelo"
-Procellariidae;Procellariiformes;Familia;"Pardelas y petreles; aves oceánicas pelágicas con fosas nasales tubulares superiores adaptadas para excretar el exceso salino"
-Diomeidae;Procellariiformes;Familia;"Albatros; las aves planeadoras de mayor envergadura alar del mundo, capaces de pasar años sin pisar tierra"
-Hydrobatidae;Procellariiformes;Familia;"Paíños o petreles de las tormentas; diminutas aves marinas que parecen caminar danzando sobre la superficie marina"
-Ciconiidae;Ciconiformes;Familia;"Cigüeñas; grandes aves zancudas planeadoras de picos pesados que carecen de siringe, comunicándose mediante el crotoreo mandibular"
-Charadriidae;Charadriiformes;Familia;"Chorlitos; pequeñas aves playeras de cuerpos compactos y picos cortos que corren frenéticamente por litorales arenosos"
-Laridae;Charadriiformes;Familia;"Gaviotas y charranes; aves marinas e interiores muy adaptables de plumajes blancos y grises de distribución cosmopolita"
-Scolopacidae;Charadriiformes;Familia;"Playeros y agachadizas; aves limícolas con picos largos sensibles adaptados para sondear invertebrados bajo el fango húmedo"
-Jacanidae;Charadriiformes;Familia;"Jacanas; aves de humedales con dedos extremadamente largos que les permiten caminar sobre la vegetación flotante acuática"
-Burhinidae;Charadriiformes;Familia;"Alcaravanes; aves terrestres nocturnas de ojos grandes amarillos y plumajes crípticos que habitan planicies secas abiertas"
-Opisthocomidae;Opisthocomiformes;Familia;"Familia monotípica del hoatzín amazónico; ave herbívora cuyas crías poseen garras ala-res y digieren hojas mediante fermentación forestal"
-Columbidae;Columbiformes;Familia;"Palomas y tórtolas; aves rechonchas de picos cortos que alimentan a sus pichones con una secreción llamada leche de buche"
-Podicipedidae;Podicipediformes;Familia;"Zampullines y somormujos; aves acuáticas zambullidoras con dedos lobulados individualmente y elaborados cortejos nupciales flotantes"
-Phoenicopteridae; Phoenicopteriformes;Familia;"Flamencos; aves zancudas rosadas de picos curvos filtradores especializados en extraer algas y crustáceos del fango"
-Rallidae;Ralliformes;Familia;"Fochas, gallinetas y rascotes; aves de humedales de cuerpos comprimidos lateralmente adaptadas a escabullirse entre la vegetación"
-Apodidae;Apodiformes  ;Familia;"Vencejos; aves aéreas extremas de patas diminutas que pasan casi toda su vida volando, durmiendo en el aire"
-Trochilidae;Apodiformes  ;Familia;"Colibríes o picaflores; diminutas aves americanas de vuelo suspendido acrobático capaces de batir sus alas ochenta veces por segundo"
-Caprimulgidae;Caprimulgiformes ;Familia;"Chotacabras o tapacaminos; aves nocturnas crípticas de bocas inmensas rodeadas de vibrisas para capturar insectos en vuelo"
-Steatornithidae;Caprimulgiformes ;Familia;"Familia monotípica del guácharo; ave nocturna cavernícola frugívora que utiliza la ecolocalización para navegar en la oscuridad total"
-Cuculidae;Cuculiformes;Familia;"Cucos y correcaminos; incluye especies famosas por el parasitismo de puesta, depositando sus huevos en nidos ajenos"
-Falconidae;Falconiformes;Familia;"Halcones y caracaras; aves de presa diurnas de vuelo ultra veloz caracterizadas por picos con dientes tomiales"
-Accipitridae;Accipitriformes;Familia;"Águilas, gavilanes, azores y buitres del Viejo Mundo; aves rapaces diurnas con fuertes garras prensiles curvadas"
-Pandionidae;Accipitriformes;Familia;"Familia del águila pescadora; rapaz especializada con espículas en las garras (espículas) para sujetar peces resbaladizos sumergidos"
-Cathartidae;Accipitriformes;Familia;"Buitres del Nuevo Mundo y cóndores; aves carroñeras con cabezas desnudas y agudo sentido del olfato aviar"
-Strigidae;Strigiformes;Familia;"Búhos verdaderos; aves de presa nocturnas con discos faciales que canalizan el sonido y plumajes de vuelo silencioso"
-Tytonidae;Strigiformes;Familia;"Lechuzas comunes; rapaces nocturnas de rostros acorazonados característicos y patas largas, eficaces cazadoras de roedores domésticos"
-Psitacidae;Psitaciformes;Familia;"Loros, guacamayos y cotorras; aves de picos ganchudos fuertes y patas zigodáctilas inteligentes capaces de imitar el habla"
-Alcedinidae;Coraciformes;Familia;"Martín pescadores; aves de cabezas grandes y picos rectos robustos adaptadas a lanzarse al agua para capturar peces"
-Momotidae;Coraciformes;Familia;"Momotos o barranqueros; aves neotropicales que remueven las barbas de sus colas dejando dos raquetas terminales desnudas"
-Trogonidae;Trogoniformes  ;Familia;"Trogones y quetzales; aves forestales de plumajes iridiscentes verdes y rojos con colas larguísimas en machos reproductores"
-Ramphastidae;Piciformes;Familia;"Tucanes; aves arbóreas neotropicales famosas por sus picos gigantescos, coloridos y ligeros empleados para alcanzar frutos forestales"
-Picidae;Piciformes;Familia;"Pájaros carpinteros; adaptados a taladrar madera con cráneos amortiguados, colas rígidas de apoyo y lenguas arponadas larguísimas"
-Acanthisittidae; Acanthisitti;Familia;"Chochares de Nueva Zelanda; pequeñas aves terrestres basales que representan el linaje más antiguo de los paseriformes"
-Furnariidae;Tyranni;Familia;"Horneros y trepatroncos; aves americanas famosas por construir nidos masivos de barro endurecido con forma de horno"
-Cotingidae;Tyranni;Familia;"Cotingas y el gallito de las rocas; aves selváticas neotropicales con machos de colores espectaculares y cantos extravagantes"
-Tyrannidae;Tyranni;Familia;"Atrapamoscas tiranos; la familia de aves más numerosa de América, de siringes sencillas y hábitos insectívoros"
-Grallariidae;Tyranni;Familia;"Tororois; aves terrestres rechonchas de patas largas y colas cortas que habitan el sotobosque denso nublado andino"
-Hirundinidae;Passeri;Familia;"Golondrinas; aves de alas largas apuntadas y cuerpos aerodinámicos especializadas en cazar insectos planeando en el aire"
-Mimidae;Passeri;Familia;"Cenzontles y sinsontes; aves americanas célebres por su asombrosa capacidad para imitar cantos de otras aves y ruidos"
-Turdidae;Passeri;Familia;"Zorzales y mirlos; pájaros cantores robustos de distribución mundial que se alimentan frecuentemente en el suelo de lombrices"
-Troglodytidae;Passeri;Familia;"Chochines u rreyezuelos; pequeños pájaros muy activos de colas erectas y cantos asombrosamente potentes para su tamaño"
-Corvidae;Passeri;Familia;"Cuervos, urracas y arrendajos; considerados los pájaros más inteligentes, capaces de resolver problemas complejos y usar herramientas"
-Icteridae;Passeri;Familia;"Trupiales, tordos y caciques; aves americanas con picos cónicos afilados y plumajes negros combinados con amarillos vivos"
-Passeridae;Passeri;Familia;"Gorriones del Viejo Mundo; pequeños pájaros granívoros adaptados a vivir en estrecha asociación con asentamientos humanos urbanos"
-Fringilliidae;Passeri;Familia;"Jilgueros, pinzones y canarios; pájaros cantores granívoros provistos de picos cónicos fuertes adaptados para romper semillas duras"
-Thraupidae;Passeri;Familia;"Tangaras y pinzones de Darwin; inmensa familia neotropical de colores espectaculares que dominan los nichos ecológicos frugívoros"
-Emberizidae;Passeri;Familia;"Escribanos del Viejo Mundo; pequeños pájaros granívoros terrestres estrechamente emparentados con los gorriones americanos modernos"
-Motacillidae;Passeri;Familia;"Bisbitas y lavanderas; pájaros terrestres esbeltos de colas largas que menean rítmicamente al caminar por terrenos abiertos"
-Passerellidae;Passeri;Familia;"Gorriones americanos y rascadores; pequeños pájaros granívoros terrestres que buscan alimento rascando la hojarasca con ambas patas"
-Ornythorrynchidae;Monotremas;Familia;"Familia del ornitorrinco; mamífero ovíparo australiano con pico de pato, cola de castor y espolones venenosos masculinos"
-Tachyglossidae;Monotremas;Familia;"Equidnas; mamíferos insectívoros terrestres cubiertos de espinas que ponen huevos y poseen lenguas largas pegajosas australianas"
-Didelphidae;Didelphimorpha;Familia;"Zarigüeyas o tlacuaches americanos; marsupiales omnívoros nocturnos con colas prensiles desnudas y pulgares oponibles traseros"
- Phascolarctidae; Diprotodontia;Familia;"Familia monotípica del koala; marsupial arborícola australiano especializado en alimentarse exclusivamente de hojas de eucalipto tóxicas"
-Macropodidae; Diprotodontia;Familia;"Canguros y walabíes; marsupiales saltadores con patas traseras elongadas potentes y grandes colas musculares de apoyo"
-Elephantidae;Proboscidea;Familia;"Elefantes modernos; los mamíferos terrestres más grandes, caracterizados por largas probóscides nasales musculares y colmillos de marfil"
-Trichechidae;Sirenia ;Familia;"Manatíes o vacas marinas; mamíferos acuáticos herbívoros de colas redondeadas en forma de paleta de aguas tropicales"
-Dugongidae;Sirenia ;Familia;"Dugongos; mamíferos marinos herbívoros de aguas indo-pacíficas con colas bifurcadas similares a las de los cetáceos modernos"
-Myrmecophagidae;Vermilingua;Familia;"Osos hormigueros gigantes y tamandúas; desdentados con hocicos tubulares largos y garras poderosas para romper hormigueros"
-Bradypodidae;Folivora;Familia;"Perezosos de tres dedos; mamíferos arbóreos neotropicales de movimientos lentos con metabolismos muy bajos adaptados a hojas"
-Megalonychldae;Folivora;Familia;"Perezosos de dos dedos; arborícolas nocturnos más activos que los bradipódidos, con dos garras delanteras funcionales"
-Dasypodidae;Cingulata;Familia;"Armadillos comunes; mamíferos cavadores americanos protegidos por una armadura ósea cutánea articulada de placas móviles"
-Cynocephalidae  ;Dermoptera;Familia;"Lémures voladores o colugos; mamíferos asiáticos con extensos patagios dérmicos adaptados para planear eficientemente entre árboles"
-Leporidae;Lagomorpha;Familia;"Liebres y conejos; roedores lagomorfos de orejas largas y patas traseras adaptadas para la locomoción a saltos rápidos"
-Sciuridae;Sciuromorpha;Familia;"Ardillas, marmotas y perritos de la pradera; roedores ágiles de colas tupidas adaptados a nichos arbóreos o subterráneos"
-Castoridae;Castorimorpha;Familia;"Castores; roedores semiacuáticos ingenieros ecológicos que construyen diques usando troncos cortados con sus incisivos fuertes"
-Muridae;Myomorpha;Familia;"Ratas y ratones del Viejo Mundo; la familia de mamíferos más numerosa y adaptable de distribución global"
-Erethizontidae;Hystricomorpha ;Familia;"Puercoespines del Nuevo Mundo; roedores arborícolas americanos cubiertos de espinas con púas ganchudas defensivas desprendibles"
-Caviidae;Hystricomorpha ;Familia;"Cobayas, maras y capibaras; incluye al capibara, el roedor más grande del mundo, de hábitos semiacuáticos sociales"
-Dinomyidae;Hystricomorpha ;Familia;"Familia del pacarana; roedor sudamericano grande y robusto de movimientos lentos, reliquia de un linaje extinto gigante"
-Dasyproctidae;Hystricomorpha ;Familia;"Agutíes u añujes; roedores terrestres neotropicales de patas largas que entierran semillas, siendo clave en la reforestación"
-Chinchillidae;Hystricomorpha ;Familia;"Chinchillas y vizcachas; roedores de pelajes densos y suaves adaptados a vivir en ambientes rocosos andinos fríos"
-Lemuridae;Lemuriformes;Familia;"Lémures verdaderos; primates strepsirrinos endémicos de Madagascar de colas largas anilladas y comportamientos sociales matriarcales complejos"
-Tarsiidae;Tarsiiformes;Familia;"Tarseros; primates nocturnos diminutos del sudeste asiático con ojos gigantescos fijos y asombrosa capacidad de salto arbóreo"
-Hominidae;Simiiformes;Familia;"Grandes simios y el ser humano; primates catarrinos de cerebros altamente desarrollados, rostros planos y sin cola"
-Hylobatidae;Simiiformes;Familia;"Gibones; primates asiáticos arborícolas conocidos como ""menores"", maestros de la braquiación mediante brazos asombrosamente largos"
-Cebidae;Simiiformes;Familia;"Monos capuchinos y monos ardilla; primates neotropicales arbóreos inteligentes que utilizan herramientas en su alimentación diaria"
-Callitrichidae ;Simiiformes;Familia;"Titíes y tamarinos; pequeños monos americanos con garras en lugar de uñas, que suelen parir gemelos criados socialmente"
-Tupaiidae;Scandentia;Familia;"Tupayas o musarañas arborícolas; pequeños mamíferos asiáticos basales parecidos a ardillas estrechamente emparentados con los primates"
-Talpidae;Eulipotyphla;Familia;"Topos verdaderos; mamíferos insectívoros con patas delanteras masivas en forma de pala adaptadas a la vida subterránea"
-Phyllostomidae;Yangochiroptera;Familia;"Murciélagos de nariz de hoja americanos; la familia de quirópteros ecológicamente más diversa, con hábitos frugívoros y hematófagos"
-Molossidae;Yangochiroptera;Familia;"Murciélagos de cola libre; quirópteros insectívoros de alas largas y estrechas adaptados a vuelos veloces a gran altura"
-Cervidae;Ruminantia;Familia;"Ciervos, venados y alces; rumiantes cuyos machos desarrollan astas óseas ramificadas caducas que mudan cada año"
-Bovidae;Ruminantia;Familia;"Antílopes, cabras, ovejas y toros; rumiantes con cuernos verdaderos huecos no ramificados permanentes cubiertos de queratina"
-Giraffidae;Ruminantia;Familia;"Jirafas y okapis; rumiantes africanos de cuellos largos o abdómenes elongados dotados de osiconos peludos craneales permanentes"
-Camelidae;Tylopoda;Familia;"Camellos, dromedarios, llamas y alpacas; tylópodos con almohadillas acolchadas en sus patas adaptados a climas áridos extremos"
-Hippopotamidae;Ancodonta;Familia;"Hipopótamos; grandes mamíferos semiacuáticos africanos de pieles desnudas, estrechamente emparentados evolutivamente con los cetáceos marinos actuales"
-Balaenidae;Mysticeti  ;Familia;"Ballenas francas; cetáceos misticetos de cabezas masivas y barbas larguísimas que carecen de aleta dorsal marina"
-Balaenopteridae;Mysticeti  ;Familia;"Rorcuales (incluye a la ballena azul); misticetos con pliegues gulares expandibles en la garganta para filtrar biomasas gigantes"
-Escrictchidae;Mysticeti  ;Familia;"Familia monotípica de la ballena gris; misticeto costero que filtra sedimentos del fondo marino devorando pequeños crustáceos bentónicos"
-Physeteridae;Odontoceti ;Familia;"Cachalotes; los odontocetos más grandes, con inmensas cabezas cuadradas que albergan el órgano de espermaceti profundo"
-Delphinidae;Odontoceti ;Familia;"Cachalotes; los odontocetos más grandes, con inmensas cabezas cuadradas que albergan el órgano de espermaceti profundo"
-Phocoenidae;Odontoceti ;Familia;"Marsopas; pequeños odontocetos marinos con hocicos romos chatos y dientes aplanados en forma de pala no cónicos"
-Monodontidae;Odontoceti ;Familia;"Narvales y belugas; cetáceos árticos sin aleta dorsal, donde los machos de narval desarrollan un largo colmillo helicoidal"
-Platanistidae;Odontoceti ;Familia;"Delfines de río del sur de Asia (Ganges); cetáceos fluviales prácticamente ciegos que navegan mediante ecolocalización continua"
-Tayassuidae;Suina;Familia;"Pecaríes o báquiros; mamíferos artiodáctilos americanos similares a cerdos pero con colmillos rectos orientados hacia abajo defensivos"
-Suidae;Suina;Familia;"Cerdos verdaderos, jabalíes y facóqueros; artiodáctilos del Viejo Mundo con hocicos cartilaginosos móviles adaptados para hozar tierra"
-Equidae;Perissodactyla;Familia;"Caballos, cebras y asnos; perisodáctilos ungulados con un solo dedo funcional protegido por una robusta pezuña córnea"
-Tapiridae;Perissodactyla;Familia;"Tapires; perisodáctilos robustos provistos de una pequeña probóscide nasal móvil adaptados a bosques densos húmedos tropicales"
-Rhinocerontidae;Perissodactyla;Familia;"Rinocerontes; perisodáctilos masivos con uno o dos cuernos dérmicos de queratina compacta sobre sus huesos nasales"
-Manidae ;Pholidota  ;Familia;"Pangolines; mamíferos insectívoros cubiertos de grandes escamas queratínicas imbricadas que se enrollan en bola como defensa"
-Felidae;Feliformia;Familia;"Felinos; carnívoros depredadores especializados con cuerpos ágiles, garras retráctiles y visiones nocturnas altamente desarrolladas adaptadas"
-Hyaenidae;Feliformia;Familia;"Hienas; carnívoros feliformes de mandíbulas trituradoras de huesos masivas y cuartos traseros más bajos que los delanteros"
-Canidae;Caniformia;Familia;"Perros, lobos, zorros y chacales; carnívoros caniformes corredores de hocicos alargados y garras no retráctiles sociales"
-Mustelidae;Musteloidea;Familia;"Nutrias, comadrejas, tejones y hurones; carnívoros esbeltos alargados con glándulas anales odoríferas defensivas muy desarrolladas"
-Procyonidae;Musteloidea;Familia;"Mapaches, coatíes y kinkajús; carnívoros americanos medianos con colas anilladas y patas delanteras diestras semi-prensiles omnívoras"
-Ursidae;Caniformia;Familia;"Osos; carnívoros caniformes plantígrados robustos de colas cortas con dietas mayormente omnívoras de distribución holártica global"
-Otariidae;Pinnipedia;Familia;"Leones marinos y osos marinos; pinnípedos con orejas externas que pueden caminar usando sus aletas traseras terrestres"
-Phocidae;Pinnipedia;Familia;"Focas verdaderas; pinnípedos sin orejas adaptados por completo al agua, incapaces de rotar sus aletas traseras adelante"
-Odobeniidae;Pinnipedia;Familia;"Familia monotípica de la morsa; gran pinnípedo ártico de pieles gruesas arrugadas provisto de dos largos colmillos superiores"
+Struthionidae;Struthioniformes;Familia;Avestruces; las aves corredoras terrestres más grandes y veloces del planeta, adaptadas a llanuras áridas africanas
+Casuariidae;Casuariiformes;Familia;Casuarios y emúes australianos; aves no voladoras de plumaje denso tipo pelo y cascos óseos cefálicos protectores
+Dromaiidae;Casuariiformes;Familia;Familia del emú australiano; grandes aves corredoras de patas tridáctilas potentes
+Rheidae;Rheiformes;Familia;Ñandúes; grandes aves corredoras no voladoras de las estepas y llanuras abiertas sudamericanas pampeanas
+Tinamidae;Tinamiformes;Familia;Tinamúes u oportos; aves terrestres neotropicales voladoras primitivas de plumaje críptico y asombrosos huevos de colores brillantes satinados
+Apterygidae;Apterygiformes;Familia;Kiwis; pequeñas aves no voladoras nocturnas neozelandesas con agudo sentido del olfato y fosas nasales puntales
+Cracidae;Galliformes;Familia;Paujiles, pavas y chachalacas; aves galliformes arborícolas neotropicales de colas largas de gran importancia ecológica forestal
+Phasianidae;Galliformes;Familia;Faisanes, pavos reales, perdices y el gallo doméstico; aves terrestres robustas nidífugas de plumajes masculinos ornamentales ornamentados
+Anatidae;Anseriformes;Familia;Patos, gansos y cisnes; aves acuáticas de picos aplanados filtradores y patas palmeadas adaptadas a la natación fluvial
+Anhimidae;Anseriformes;Familia;Chajás; aves anátidas terrestres sudamericanas con picos de aspecto gallináceo y fuertes espolones óseos en las alas
+Spheniscidae;Sphenisciformes;Familia;Pingüinos; aves marinas no voladoras del hemisferio sur con alas modificadas en rígidas aletas propulsoras buceadoras
+Pelecanidae;Pelecaniformes;Familia;Pelícanos; aves acuáticas piscívoras con picos provistos de una gran bolsa gular elástica para capturar peces
+Ardeidae;Pelecaniformes;Familia;Garzas; aves zancudas de patas y cuellos largos esbeltos que capturan presas mediante arponeo rápido en humedales
+Threskiornithidae;Pelecaniformes;Familia;Ibises y espátulas; aves zancudas de picos larguísimos curvados hacia abajo o aplanados en forma de paleta
+Sulidae;Suliformes;Familia;Piqueros y alcatraces; aves marinas pelágicas que cazan lanzándose en espectaculares picados verticales a gran velocidad oceánica
+Phalacrocoracidae;Suliformes;Familia;Cormoranes; aves acuáticas buceadoras de plumajes permeables que deben extender al sol para secarse tras pescar
+Anhingidae;Suliformes;Familia;Aves serpiente o maras; buceadoras de agua dulce con cuellos delgados que nadan con el cuerpo totalmente sumergido
+Fregatidae;Suliformes;Familia;Fragatas; aves marinas de alas inmensas que practican el cleptoparasitismo, robando comida a otras aves en vuelo
+Procellariidae;Procellariiformes;Familia;Pardelas y petreles; aves oceánicas pelágicas con fosas nasales tubulares superiores adaptadas para excretar el exceso salino
+Diomeidae;Procellariiformes;Familia;Albatros; las aves planeadoras de mayor envergadura alar del mundo, capaces de pasar años sin pisar tierra
+Hydrobatidae;Procellariiformes;Familia;Paíños o petreles de las tormentas; diminutas aves marinas que parecen caminar danzando sobre la superficie marina
+Ciconiidae;Ciconiformes;Familia;Cigüeñas; grandes aves zancudas planeadoras de picos pesados que carecen de siringe, comunicándose mediante el crotoreo mandibular
+Charadriidae;Charadriiformes;Familia;Chorlitos; pequeñas aves playeras de cuerpos compactos y picos cortos que corren frenéticamente por litorales arenosos
+Laridae;Charadriiformes;Familia;Gaviotas y charranes; aves marinas e interiores muy adaptables de plumajes blancos y grises de distribución cosmopolita
+Scolopacidae;Charadriiformes;Familia;Playeros y agachadizas; aves limícolas con picos largos sensibles adaptados para sondear invertebrados bajo el fango húmedo
+Jacanidae;Charadriiformes;Familia;Jacanas; aves de humedales con dedos extremadamente largos que les permiten caminar sobre la vegetación flotante acuática
+Burhinidae;Charadriiformes;Familia;Alcaravanes; aves terrestres nocturnas de ojos grandes amarillos y plumajes crípticos que habitan planicies secas abiertas
+Opisthocomidae;Opisthocomiformes;Familia;Familia monotípica del hoatzín amazónico; ave herbívora cuyas crías poseen garras ala-res y digieren hojas mediante fermentación forestal
+Columbidae;Columbiformes;Familia;Palomas y tórtolas; aves rechonchas de picos cortos que alimentan a sus pichones con una secreción llamada leche de buche
+Podicipedidae;Podicipediformes;Familia;Zampullines y somormujos; aves acuáticas zambullidoras con dedos lobulados individualmente y elaborados cortejos nupciales flotantes
+Phoenicopteridae; Phoenicopteriformes;Familia;Flamencos; aves zancudas rosadas de picos curvos filtradores especializados en extraer algas y crustáceos del fango
+Rallidae;Ralliformes;Familia;Fochas, gallinetas y rascotes; aves de humedales de cuerpos comprimidos lateralmente adaptadas a escabullirse entre la vegetación
+Apodidae;Apodiformes  ;Familia;Vencejos; aves aéreas extremas de patas diminutas que pasan casi toda su vida volando, durmiendo en el aire
+Trochilidae;Apodiformes  ;Familia;Colibríes o picaflores; diminutas aves americanas de vuelo suspendido acrobático capaces de batir sus alas ochenta veces por segundo
+Caprimulgidae;Caprimulgiformes ;Familia;Chotacabras o tapacaminos; aves nocturnas crípticas de bocas inmensas rodeadas de vibrisas para capturar insectos en vuelo
+Steatornithidae;Caprimulgiformes ;Familia;Familia monotípica del guácharo; ave nocturna cavernícola frugívora que utiliza la ecolocalización para navegar en la oscuridad total
+Cuculidae;Cuculiformes;Familia;Cucos y correcaminos; incluye especies famosas por el parasitismo de puesta, depositando sus huevos en nidos ajenos
+Falconidae;Falconiformes;Familia;Halcones y caracaras; aves de presa diurnas de vuelo ultra veloz caracterizadas por picos con dientes tomiales
+Accipitridae;Accipitriformes;Familia;Águilas, gavilanes, azores y buitres del Viejo Mundo; aves rapaces diurnas con fuertes garras prensiles curvadas
+Pandionidae;Accipitriformes;Familia;Familia del águila pescadora; rapaz especializada con espículas en las garras (espículas) para sujetar peces resbaladizos sumergidos
+Cathartidae;Accipitriformes;Familia;Buitres del Nuevo Mundo y cóndores; aves carroñeras con cabezas desnudas y agudo sentido del olfato aviar
+Strigidae;Strigiformes;Familia;Búhos verdaderos; aves de presa nocturnas con discos faciales que canalizan el sonido y plumajes de vuelo silencioso
+Tytonidae;Strigiformes;Familia;Lechuzas comunes; rapaces nocturnas de rostros acorazonados característicos y patas largas, eficaces cazadoras de roedores domésticos
+Psitacidae;Psitaciformes;Familia;Loros, guacamayos y cotorras; aves de picos ganchudos fuertes y patas zigodáctilas inteligentes capaces de imitar el habla
+Alcedinidae;Coraciformes;Familia;Martín pescadores; aves de cabezas grandes y picos rectos robustos adaptadas a lanzarse al agua para capturar peces
+Momotidae;Coraciformes;Familia;Momotos o barranqueros; aves neotropicales que remueven las barbas de sus colas dejando dos raquetas terminales desnudas
+Trogonidae;Trogoniformes  ;Familia;Trogones y quetzales; aves forestales de plumajes iridiscentes verdes y rojos con colas larguísimas en machos reproductores
+Ramphastidae;Piciformes;Familia;Tucanes; aves arbóreas neotropicales famosas por sus picos gigantescos, coloridos y ligeros empleados para alcanzar frutos forestales
+Picidae;Piciformes;Familia;Pájaros carpinteros; adaptados a taladrar madera con cráneos amortiguados, colas rígidas de apoyo y lenguas arponadas larguísimas
+Acanthisittidae; Acanthisitti;Familia;Chochares de Nueva Zelanda; pequeñas aves terrestres basales que representan el linaje más antiguo de los paseriformes
+Furnariidae;Tyranni;Familia;Horneros y trepatroncos; aves americanas famosas por construir nidos masivos de barro endurecido con forma de horno
+Cotingidae;Tyranni;Familia;Cotingas y el gallito de las rocas; aves selváticas neotropicales con machos de colores espectaculares y cantos extravagantes
+Tyrannidae;Tyranni;Familia;Atrapamoscas tiranos; la familia de aves más numerosa de América, de siringes sencillas y hábitos insectívoros
+Grallariidae;Tyranni;Familia;Tororois; aves terrestres rechonchas de patas largas y colas cortas que habitan el sotobosque denso nublado andino
+Hirundinidae;Passeri;Familia;Golondrinas; aves de alas largas apuntadas y cuerpos aerodinámicos especializadas en cazar insectos planeando en el aire
+Mimidae;Passeri;Familia;Cenzontles y sinsontes; aves americanas célebres por su asombrosa capacidad para imitar cantos de otras aves y ruidos
+Turdidae;Passeri;Familia;Zorzales y mirlos; pájaros cantores robustos de distribución mundial que se alimentan frecuentemente en el suelo de lombrices
+Troglodytidae;Passeri;Familia;Chochines u rreyezuelos; pequeños pájaros muy activos de colas erectas y cantos asombrosamente potentes para su tamaño
+Corvidae;Passeri;Familia;Cuervos, urracas y arrendajos; considerados los pájaros más inteligentes, capaces de resolver problemas complejos y usar herramientas
+Icteridae;Passeri;Familia;Trupiales, tordos y caciques; aves americanas con picos cónicos afilados y plumajes negros combinados con amarillos vivos
+Passeridae;Passeri;Familia;Gorriones del Viejo Mundo; pequeños pájaros granívoros adaptados a vivir en estrecha asociación con asentamientos humanos urbanos
+Fringilliidae;Passeri;Familia;Jilgueros, pinzones y canarios; pájaros cantores granívoros provistos de picos cónicos fuertes adaptados para romper semillas duras
+Thraupidae;Passeri;Familia;Tangaras y pinzones de Darwin; inmensa familia neotropical de colores espectaculares que dominan los nichos ecológicos frugívoros
+Emberizidae;Passeri;Familia;Escribanos del Viejo Mundo; pequeños pájaros granívoros terrestres estrechamente emparentados con los gorriones americanos modernos
+Motacillidae;Passeri;Familia;Bisbitas y lavanderas; pájaros terrestres esbeltos de colas largas que menean rítmicamente al caminar por terrenos abiertos
+Passerellidae;Passeri;Familia;Gorriones americanos y rascadores; pequeños pájaros granívoros terrestres que buscan alimento rascando la hojarasca con ambas patas
+Ornythorrynchidae;Monotremas;Familia;Familia del ornitorrinco; mamífero ovíparo australiano con pico de pato, cola de castor y espolones venenosos masculinos
+Tachyglossidae;Monotremas;Familia;Equidnas; mamíferos insectívoros terrestres cubiertos de espinas que ponen huevos y poseen lenguas largas pegajosas australianas
+Didelphidae;Didelphimorpha;Familia;Zarigüeyas o tlacuaches americanos; marsupiales omnívoros nocturnos con colas prensiles desnudas y pulgares oponibles traseros
+ Phascolarctidae; Diprotodontia;Familia;Familia monotípica del koala; marsupial arborícola australiano especializado en alimentarse exclusivamente de hojas de eucalipto tóxicas
+Macropodidae; Diprotodontia;Familia;Canguros y walabíes; marsupiales saltadores con patas traseras elongadas potentes y grandes colas musculares de apoyo
+Elephantidae;Proboscidea;Familia;Elefantes modernos; los mamíferos terrestres más grandes, caracterizados por largas probóscides nasales musculares y colmillos de marfil
+Trichechidae;Sirenia ;Familia;Manatíes o vacas marinas; mamíferos acuáticos herbívoros de colas redondeadas en forma de paleta de aguas tropicales
+Dugongidae;Sirenia ;Familia;Dugongos; mamíferos marinos herbívoros de aguas indo-pacíficas con colas bifurcadas similares a las de los cetáceos modernos
+Myrmecophagidae;Vermilingua;Familia;Osos hormigueros gigantes y tamandúas; desdentados con hocicos tubulares largos y garras poderosas para romper hormigueros
+Bradypodidae;Folivora;Familia;Perezosos de tres dedos; mamíferos arbóreos neotropicales de movimientos lentos con metabolismos muy bajos adaptados a hojas
+Megalonychldae;Folivora;Familia;Perezosos de dos dedos; arborícolas nocturnos más activos que los bradipódidos, con dos garras delanteras funcionales
+Dasypodidae;Cingulata;Familia;Armadillos comunes; mamíferos cavadores americanos protegidos por una armadura ósea cutánea articulada de placas móviles
+Cynocephalidae  ;Dermoptera;Familia;Lémures voladores o colugos; mamíferos asiáticos con extensos patagios dérmicos adaptados para planear eficientemente entre árboles
+Leporidae;Lagomorpha;Familia;Liebres y conejos; roedores lagomorfos de orejas largas y patas traseras adaptadas para la locomoción a saltos rápidos
+Sciuridae;Sciuromorpha;Familia;Ardillas, marmotas y perritos de la pradera; roedores ágiles de colas tupidas adaptados a nichos arbóreos o subterráneos
+Castoridae;Castorimorpha;Familia;Castores; roedores semiacuáticos ingenieros ecológicos que construyen diques usando troncos cortados con sus incisivos fuertes
+Muridae;Myomorpha;Familia;Ratas y ratones del Viejo Mundo; la familia de mamíferos más numerosa y adaptable de distribución global
+Erethizontidae;Hystricomorpha ;Familia;Puercoespines del Nuevo Mundo; roedores arborícolas americanos cubiertos de espinas con púas ganchudas defensivas desprendibles
+Caviidae;Hystricomorpha ;Familia;Cobayas, maras y capibaras; incluye al capibara, el roedor más grande del mundo, de hábitos semiacuáticos sociales
+Dinomyidae;Hystricomorpha ;Familia;Familia del pacarana; roedor sudamericano grande y robusto de movimientos lentos, reliquia de un linaje extinto gigante
+Dasyproctidae;Hystricomorpha ;Familia;Agutíes u añujes; roedores terrestres neotropicales de patas largas que entierran semillas, siendo clave en la reforestación
+Chinchillidae;Hystricomorpha ;Familia;Chinchillas y vizcachas; roedores de pelajes densos y suaves adaptados a vivir en ambientes rocosos andinos fríos
+Lemuridae;Lemuriformes;Familia;Lémures verdaderos; primates strepsirrinos endémicos de Madagascar de colas largas anilladas y comportamientos sociales matriarcales complejos
+Tarsiidae;Tarsiiformes;Familia;Tarseros; primates nocturnos diminutos del sudeste asiático con ojos gigantescos fijos y asombrosa capacidad de salto arbóreo
+Hominidae;Simiiformes;Familia;Grandes simios y el ser humano; primates catarrinos de cerebros altamente desarrollados, rostros planos y sin cola
+Hylobatidae;Simiiformes;Familia;Gibones; primates asiáticos arborícolas conocidos como menores, maestros de la braquiación mediante brazos asombrosamente largos
+Cebidae;Simiiformes;Familia;Monos capuchinos y monos ardilla; primates neotropicales arbóreos inteligentes que utilizan herramientas en su alimentación diaria
+Callitrichidae ;Simiiformes;Familia;Titíes y tamarinos; pequeños monos americanos con garras en lugar de uñas, que suelen parir gemelos criados socialmente
+Tupaiidae;Scandentia;Familia;Tupayas o musarañas arborícolas; pequeños mamíferos asiáticos basales parecidos a ardillas estrechamente emparentados con los primates
+Talpidae;Eulipotyphla;Familia;Topos verdaderos; mamíferos insectívoros con patas delanteras masivas en forma de pala adaptadas a la vida subterránea
+Phyllostomidae;Yangochiroptera;Familia;Murciélagos de nariz de hoja americanos; la familia de quirópteros ecológicamente más diversa, con hábitos frugívoros y hematófagos
+Molossidae;Yangochiroptera;Familia;Murciélagos de cola libre; quirópteros insectívoros de alas largas y estrechas adaptados a vuelos veloces a gran altura
+Cervidae;Ruminantia;Familia;Ciervos, venados y alces; rumiantes cuyos machos desarrollan astas óseas ramificadas caducas que mudan cada año
+Bovidae;Ruminantia;Familia;Antílopes, cabras, ovejas y toros; rumiantes con cuernos verdaderos huecos no ramificados permanentes cubiertos de queratina
+Giraffidae;Ruminantia;Familia;Jirafas y okapis; rumiantes africanos de cuellos largos o abdómenes elongados dotados de osiconos peludos craneales permanentes
+Camelidae;Tylopoda;Familia;Camellos, dromedarios, llamas y alpacas; tylópodos con almohadillas acolchadas en sus patas adaptados a climas áridos extremos
+Hippopotamidae;Ancodonta;Familia;Hipopótamos; grandes mamíferos semiacuáticos africanos de pieles desnudas, estrechamente emparentados evolutivamente con los cetáceos marinos actuales
+Balaenidae;Mysticeti  ;Familia;Ballenas francas; cetáceos misticetos de cabezas masivas y barbas larguísimas que carecen de aleta dorsal marina
+Balaenopteridae;Mysticeti  ;Familia;Rorcuales (incluye a la ballena azul); misticetos con pliegues gulares expandibles en la garganta para filtrar biomasas gigantes
+Escrictchidae;Mysticeti  ;Familia;Familia monotípica de la ballena gris; misticeto costero que filtra sedimentos del fondo marino devorando pequeños crustáceos bentónicos
+Physeteridae;Odontoceti ;Familia;Cachalotes; los odontocetos más grandes, con inmensas cabezas cuadradas que albergan el órgano de espermaceti profundo
+Delphinidae;Odontoceti ;Familia;Cachalotes; los odontocetos más grandes, con inmensas cabezas cuadradas que albergan el órgano de espermaceti profundo
+Phocoenidae;Odontoceti ;Familia;Marsopas; pequeños odontocetos marinos con hocicos romos chatos y dientes aplanados en forma de pala no cónicos
+Monodontidae;Odontoceti ;Familia;Narvales y belugas; cetáceos árticos sin aleta dorsal, donde los machos de narval desarrollan un largo colmillo helicoidal
+Platanistidae;Odontoceti ;Familia;Delfines de río del sur de Asia (Ganges); cetáceos fluviales prácticamente ciegos que navegan mediante ecolocalización continua
+Tayassuidae;Suina;Familia;Pecaríes o báquiros; mamíferos artiodáctilos americanos similares a cerdos pero con colmillos rectos orientados hacia abajo defensivos
+Suidae;Suina;Familia;Cerdos verdaderos, jabalíes y facóqueros; artiodáctilos del Viejo Mundo con hocicos cartilaginosos móviles adaptados para hozar tierra
+Equidae;Perissodactyla;Familia;Caballos, cebras y asnos; perisodáctilos ungulados con un solo dedo funcional protegido por una robusta pezuña córnea
+Tapiridae;Perissodactyla;Familia;Tapires; perisodáctilos robustos provistos de una pequeña probóscide nasal móvil adaptados a bosques densos húmedos tropicales
+Rhinocerontidae;Perissodactyla;Familia;Rinocerontes; perisodáctilos masivos con uno o dos cuernos dérmicos de queratina compacta sobre sus huesos nasales
+Manidae ;Pholidota  ;Familia;Pangolines; mamíferos insectívoros cubiertos de grandes escamas queratínicas imbricadas que se enrollan en bola como defensa
+Felidae;Feliformia;Familia;Felinos; carnívoros depredadores especializados con cuerpos ágiles, garras retráctiles y visiones nocturnas altamente desarrolladas adaptadas
+Hyaenidae;Feliformia;Familia;Hienas; carnívoros feliformes de mandíbulas trituradoras de huesos masivas y cuartos traseros más bajos que los delanteros
+Canidae;Caniformia;Familia;Perros, lobos, zorros y chacales; carnívoros caniformes corredores de hocicos alargados y garras no retráctiles sociales
+Mustelidae;Musteloidea;Familia;Nutrias, comadrejas, tejones y hurones; carnívoros esbeltos alargados con glándulas anales odoríferas defensivas muy desarrolladas
+Procyonidae;Musteloidea;Familia;Mapaches, coatíes y kinkajús; carnívoros americanos medianos con colas anilladas y patas delanteras diestras semi-prensiles omnívoras
+Ursidae;Caniformia;Familia;Osos; carnívoros caniformes plantígrados robustos de colas cortas con dietas mayormente omnívoras de distribución holártica global
+Otariidae;Pinnipedia;Familia;Leones marinos y osos marinos; pinnípedos con orejas externas que pueden caminar usando sus aletas traseras terrestres
+Phocidae;Pinnipedia;Familia;Focas verdaderas; pinnípedos sin orejas adaptados por completo al agua, incapaces de rotar sus aletas traseras adelante
+Odobeniidae;Pinnipedia;Familia;Familia monotípica de la morsa; gran pinnípedo ártico de pieles gruesas arrugadas provisto de dos largos colmillos superiores
